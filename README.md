@@ -64,4 +64,4 @@ v1.0:
 - - Added 1 finish.
 - - Added 1 optional finish.
 
-Notice: SaraShawa Overview pack did not have a GitHub repository nor it was under any License at the moment of the manual fork.
+Notice: SaraShawa Overview Pack did not have a GitHub repository nor it was under any License at the moment of the manual fork and at the moment of creatiion of this repository..
