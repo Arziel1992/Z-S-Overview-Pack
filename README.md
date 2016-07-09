@@ -1,20 +1,21 @@
-# Z-S-Overview-Pack
+# Zirio-Syundai Special Overview
 Overview Pack for EVE Online
 
 Created to provide a user friendly, generalized, 6 tab base on which anybody can create their desired custom overview, or use it "as is" if you find it meets your needs.
 
-- Current Version: 2.1
+- Current Version: 2.2
 - For Release: 118.6
-- Updated: 2016.07.08 EVE Calendar
+- Updated: 2016.07.09 EVE Calendar
 
 How to install:
 
 Option 1: 
 - In-game, from "Zirio-Syundai Overview" chat channel.
-- -  1) Open up your Overview Settings ( ≡ button at top left of the Overview window).
-- -  2) Go to the "Misc" tab and click "Reset All Overview Settings".
-- -  3) Click in order on the overview links provided below to load the overview.
-- -  4) (optional) Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes.
+- - 1) Open up your Overview Settings ( ≡ button at top left of the Overview window).
+- - 2) Go to the "Misc" tab and click "Reset All Overview Settings".
+- - 3) Apply Overview Parts 1 through 4 below in order, then choose a Tab Layout.
+- - You can alternate between Layouts at any time without reloading the entire pack.
+- - * Some features might not show correctly at first, especially brackets in space, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes.
 
 Option 2:
 - Out of game.
@@ -26,6 +27,12 @@ Option 2:
 - - 6) (optional) Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes.
 
 Changelog:
+
+v2.2:
+- Ranamed "Finishes" to "Tab Layouts"
+- Adjusted the sizes of both 6 & 8 Compact Layouts to fit better on smaller screens.
+- Increased the Icon size on the presets for better legibility.
+- Replaced the Hostile Icon for a more adequate one to fit the new sizes.
 
 v2.1:
 - Added Fighters to preset "Friendly: All".
