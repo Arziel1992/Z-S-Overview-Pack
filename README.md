@@ -53,7 +53,8 @@ v2.0:
 - - Added 4 finish parts.
 
 v1.0:
-- Fork from SaraShawa-Overview Pack.
+- Manual fork from SaraShawa-Overview Pack v9.1.
+- - (Export pack from the game to the folder, then start editing)
 - Simplified tabs.
 - Added tab colouring.
 - Added preset colouring.
@@ -62,3 +63,5 @@ v1.0:
 - - Added 6 base parts.
 - - Added 1 finish.
 - - Added 1 optional finish.
+
+Notice: SaraShawa Overview pack did not have a GitHub repository nor it was under any License at the moment of the manual fork.
