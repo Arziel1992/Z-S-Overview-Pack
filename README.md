@@ -3,27 +3,27 @@ Overview Pack for EVE Online
 
 Created to provide a user friendly, generalized, 6 tab base on which anybody can create their desired custom overview, or use it "as is" if you find it meets your needs.
 
-Current Version: 2.1
-For Release: 118.6
-Updated: 2016.07.08 EVE Calendar
+- Current Version: 2.1
+- For Release: 118.6
+- Updated: 2016.07.08 EVE Calendar
 
 How to install:
 
 Option 1: 
-In-game, from "Zirio-Syundai Overview" chat channel.
-  1) Open up your Overview Settings ( ≡ button at top left of the Overview window).
-  2) Go to the "Misc" tab and click "Reset All Overview Settings".
-  3) Click in order on the overview links provided below to load the overview.
-  4) (optional) Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes.
+- In-game, from "Zirio-Syundai Overview" chat channel.
+- -  1) Open up your Overview Settings ( ≡ button at top left of the Overview window).
+- -  2) Go to the "Misc" tab and click "Reset All Overview Settings".
+- -  3) Click in order on the overview links provided below to load the overview.
+- -  4) (optional) Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes.
 
 Option 2:
-Out of game.
-  1) Go to the most recent version folder and download the "Zirio-Syundai Full.yaml" file.
-  2) Go to "C:\Users\YourName\Documents\EVE\Overview" and paste the downloaded file here.
-  3) Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
-  4) Go to the "Misc" tab and click "Import Overview Settings".
-  5) Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
-  6) (optional) Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes.
+- Out of game.
+- - 1) Go to the most recent version folder and download the "Zirio-Syundai Full.yaml" file.
+- - 2) Go to "C:\Users\YourName\Documents\EVE\Overview" and paste the downloaded file here.
+- - 3) Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
+- - 4) Go to the "Misc" tab and click "Import Overview Settings".
+- - 5) Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
+- - 6) (optional) Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes.
 
 Changelog:
 
