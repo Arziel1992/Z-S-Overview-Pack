@@ -15,13 +15,12 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - For Release: 118.6
 - Updated: 2016.07.16 EVE Calendar
 - Join our Mailing List in-game: Zirio-Syundai Overview
-- Visit us on [Reddit r/EVE](http://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
+- Visit us on [Reddit r/EVE](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
 
 Zirio - YAML Coding & Pack Maintenence  
 Deuce Syundai - Design & Text Formatting
 
 ### How to install
-
 #### Option 1: In-game, from "Zirio-Syundai Overview" chat channel:
 1. Open up your Overview Settings ( ≡ button at top left of the Overview window).
 2. Go to the "Misc" tab and click "Reset All Overview Settings." You MUST do this the first time you install. This prevents any weirdness that may be caused by any changes already made to the overview.
@@ -40,21 +39,25 @@ Deuce Syundai - Design & Text Formatting
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
 
 #### Option 2: Out of game:
-1. Go to the most recent version folder and download the "Zirio-Syundai Full.yaml" file.
-2. Go to "C:\Users\YourName\Documents\EVE\Overview" and paste the downloaded file here.
-3. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
-4. Go to the "Misc" tab and click "Import Overview Settings".
-5. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
+1. Click the green "Clone or download" button located at the top right of the above file list, then click "Download ZIP".
+2. Once downloaded in the folder of your preference, extract the .zip file contents in a folder of your preference.
+3. Go to the most recent version folder and copy the "Zirio-Syundai Full.yaml" file.
+4. Go to "C:\Users\YourName\Documents\EVE\Overview" and paste the downloaded file here.
+5. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
+6. Go to the "Misc" tab and click "Import Overview Settings".
+7. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
 
+### Popular Forks
+- [Zirio-Syundai Special Overview, Kafferton Mod](https://github.com/ChemicalRascal/Z-S-Overview-Kafferton-Mod)
 
 ### Changelog
-
-##### Version v2.6.1
+##### Version v2.6.1 - _Kr0nK's tweaks_
 >1. Updated Ship Brackets:
 	- Removed "ShipName" variable (completely).
 >2. Reordered Overview Columns:
-	- Added "Tag" coumn.
+	- Added "Tag" coumn:
+		- Easiness of sorting and viewing of target broadcasts during fleet fights.
 >3. Renamed packs:
 	- "Z-S PvE Basic" to "Z-S PvE Basic Extended"
 		- Corrected "Loaded" text to match the pack name.
@@ -70,7 +73,7 @@ Deuce Syundai - Design & Text Formatting
 	- "✥ --- PvP: Basic (No NPC)"
 
 
-##### Version v2.6
+##### Version v2.6 - _Kithanu, Teroh & Sansh's improved Ship Brackets_
 >1. Revamped Ship Brackets:
 	- Condensed the information from 4 to 2 rows for legibility in ship clusters.
 	- Recolored the variables for better identification.
@@ -94,7 +97,7 @@ Deuce Syundai - Design & Text Formatting
 	- "※ D-Scan: Pos + Mods (No Cel)" 
 
 
-##### Version v2.5
+##### Version v2.5 - _Logain's Modular Overhaul_
 >1. Categorized preset links:
 	- Replaces the split preset part system for a more convenient preset category system, where the player loads the preset category he/she wants/needs, then applies the final Tab Layout.
 	- Made to reduce cluttering of unwanted/unneeded presets.
@@ -130,14 +133,14 @@ Deuce Syundai - Design & Text Formatting
 		- Combination of "※ D-Scan: Ships" and "※ D-Scan: Pos All".
 
 
-##### Version v2.2
+##### Version v2.2 - _Deuce's design improvements_
 >1. Ranamed "Finishes" to "Tab Layouts".
 >2. Adjusted the sizes of both 6 & 8 Compact Layouts to fit better on smaller screens.
 >3. Increased the Icon size on the presets for better legibility.
 >4. Replaced the Hostile Icon for a more adequate one to fit the new sizes.
 
 
-##### Version v2.1
+##### Version v2.1 - _Zirio's experiments_
 >1. Adjusted information rows on Player Ship brackets.
 >2. Updated presets:
 	- Added Fighters to preset "Friendly: All".
@@ -146,7 +149,7 @@ Deuce Syundai - Design & Text Formatting
 	- Corrected typo on preset "PvP: Normal".
 
 
-##### Version v2.0
+##### Version v2.0 - _Zirio's renovation_
 >1. Rewrote the entirety of the code for consistency, readability, compactness and scalability.
 >2. Adjusted split imports:
 	- Adjusted into 4 base parts.
@@ -162,7 +165,7 @@ Deuce Syundai - Design & Text Formatting
 	- Added "PvE: Incursion: preset.
 
 
-##### Version v1.0
+##### Version v1.0 - _Zirio's tweaks_
 >1. Manual fork from SaraShawa-Overview Pack v9.1.
 	- (Export pack from the game to the overview folder, then edit the .YAML file)
 >2. Simplified tabs:
@@ -175,6 +178,9 @@ Deuce Syundai - Design & Text Formatting
 	- Added 1 finish.
 	- Added 1 optional finish.
 
+### License  
+Overview Pack licensed under "GNU GENERAL PUBLIC LICENSE - Version 3, 29 June 2007"  
+Further documentation in the LICENSE file.
 
-### Notice:
+### Notice  
 SaraShawa Overview Pack did not have a GitHub repository nor it was under any License at the moment of the manual fork and at the moment of creation of this repository.
