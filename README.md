@@ -11,7 +11,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - [Color-coded presets by category for improved ease of selection.](http://prntscr.com/br0kp1)
 
-#### Current Version: 2.6.1
+#### Current Version: 2.6.10
 - For Release: 118.6
 - Updated: 2016.07.16 EVE Calendar
 - Join our Mailing List in-game: Zirio-Syundai Overview
@@ -51,8 +51,11 @@ Deuce Syundai - Design & Text Formatting
 ### Popular Forks
 - [Zirio-Syundai Special Overview, Kafferton Mod](https://github.com/ChemicalRascal/Z-S-Overview-Kafferton-Mod)
 
+### Screenshots
+![Screenshots](/Images/screenshots.jpg "Screenshots")
+
 ### Changelog
-##### Version v2.6.1 - _Kr0nK's tweaks_
+##### Version v2.6.10 - _Kr0nK's tweaks_
 >1. Updated Ship Brackets:
 	- Removed "ShipName" variable (completely).
 >2. Reordered Overview Columns:
@@ -72,8 +75,7 @@ Deuce Syundai - Design & Text Formatting
 >5. Added presets:
 	- "✥ --- PvP: Basic (No NPC)"
 
-
-##### Version v2.6 - _Kithanu, Teroh & Sansh's improved Ship Brackets_
+##### Version v2.6.00 - _Kithanu, Teroh & Sansh's improved Ship Brackets_
 >1. Revamped Ship Brackets:
 	- Condensed the information from 4 to 2 rows for legibility in ship clusters.
 	- Recolored the variables for better identification.
@@ -96,17 +98,15 @@ Deuce Syundai - Design & Text Formatting
 >5. Added presets:
 	- "※ D-Scan: Pos + Mods (No Cel)" 
 
-
-##### Version v2.5 - _Logain's Modular Overhaul_
+##### Version v2.5.00 - _Logain's Modular Overhaul_
 >1. Categorized preset links:
 	- Replaces the split preset part system for a more convenient preset category system, where the player loads the preset category he/she wants/needs, then applies the final Tab Layout.
 	- Made to reduce cluttering of unwanted/unneeded presets.
 >2. Included changes from:
-	- Version v2.3
-	- Version v2.4
+	- Version v2.3.00
+	- Version v2.4.00
 
-
-##### Version v2.4 (not released, pushed to next version)
+##### Version v2.4.00 (not released, pushed to next version)
 >1. Renamed "Brackets" presets for consistency.
 >2. Renamed "Hostile" presets to "Target" for consistency.
 >3. Updated presets:
@@ -120,8 +120,7 @@ Deuce Syundai - Design & Text Formatting
 		- Added Deployable: Mobile Depot, Mobile Siphon Unit.
 		- Added Entity: Mission Container, Event Container.
 
-
-##### Version v2.3 (not released, pushed to next version)
+##### Version v2.3.00 (not released, pushed to next version)
 >1. Added presets:
 	- Added new preset "⌘ --- Brackets: All":
 		- More permanent solution to "Show All Brackets".
@@ -132,15 +131,13 @@ Deuce Syundai - Design & Text Formatting
 	- Added new preset "※ --- D-Scan: All":
 		- Combination of "※ D-Scan: Ships" and "※ D-Scan: Pos All".
 
-
-##### Version v2.2 - _Deuce's design improvements_
+##### Version v2.2.00 - _Deuce's design improvements_
 >1. Ranamed "Finishes" to "Tab Layouts".
 >2. Adjusted the sizes of both 6 & 8 Compact Layouts to fit better on smaller screens.
 >3. Increased the Icon size on the presets for better legibility.
 >4. Replaced the Hostile Icon for a more adequate one to fit the new sizes.
 
-
-##### Version v2.1 - _Zirio's experiments_
+##### Version v2.1.00 - _Zirio's experiments_
 >1. Adjusted information rows on Player Ship brackets.
 >2. Updated presets:
 	- Added Fighters to preset "Friendly: All".
@@ -148,8 +145,7 @@ Deuce Syundai - Design & Text Formatting
 	- Added Custom Offices to preset "Structures".
 	- Corrected typo on preset "PvP: Normal".
 
-
-##### Version v2.0 - _Zirio's renovation_
+##### Version v2.0.00 - _Zirio's renovation_
 >1. Rewrote the entirety of the code for consistency, readability, compactness and scalability.
 >2. Adjusted split imports:
 	- Adjusted into 4 base parts.
@@ -164,8 +160,7 @@ Deuce Syundai - Design & Text Formatting
 >5. Added presets:
 	- Added "PvE: Incursion: preset.
 
-
-##### Version v1.0 - _Zirio's tweaks_
+##### Version v1.0.00 - _Zirio's tweaks_
 >1. Manual fork from SaraShawa-Overview Pack v9.1.
 	- (Export pack from the game to the overview folder, then edit the .YAML file)
 >2. Simplified tabs:
