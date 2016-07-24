@@ -323,7 +323,7 @@ presets:
         - 1728
         - 1729
         - 1731
-- - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (NPC)</color>'
+- - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+NPC +Neut)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -731,6 +731,7 @@ presets:
         - 1159
         - 1201
         - 1202
+        - 1246
         - 1249
         - 1273
         - 1274
@@ -859,42 +860,42 @@ tabSetup:
   - - - bracket
       - '<color=0xFFFFFFFF><fontsize=12>✈</fontsize> --- Travel: Basic</color>'
     - - name
-      - '<fontsize=13><color=0xFFFFFFFF><b> ✈ </b></color></fontsize>'
+      - '<fontsize=13><color=0xFFFFFFFF><b>  ✈  </b></color></fontsize>'
     - - overview
       - '<color=0xFFFFFFFF><fontsize=12>✈</fontsize> --- Travel: Basic</color>'
 - - 1
   - - - bracket
-      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (NPC)</color>'
+      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+NPC +Neut)</color>'
     - - name
-      - '<fontsize=11><color=0xFFFF6666><b> Main </b></color></fontsize>'
+      - '<fontsize=11><color=0xFFFF6666><b>  Combat  </b></color></fontsize>'
     - - overview
-      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (NPC)</color>'
+      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+NPC +Neut)</color>'
 - - 2
   - - - bracket
       - '<color=0xFFFF6666><fontsize=12>✥</fontsize> Target: Drones</color>'
     - - name
-      - '<fontsize=11><color=0xFFCC66FF><b> 3 </b></color></fontsize>'
+      - '<fontsize=11><color=0xFFCC66FF><b>  Drones  </b></color></fontsize>'
     - - overview
       - '<color=0xFFFF6666><fontsize=12>✥</fontsize> Target: Drones</color>'
 - - 3
   - - - bracket
       - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Salvage/Loot</color>'
     - - name
-      - '<fontsize=11><color=0xFFFFFF66><b> 4 </b></color></fontsize>'
+      - '<fontsize=11><color=0xFFFFFF66><b>  Misc  </b></color></fontsize>'
     - - overview
       - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Salvage/Loot</color>'
 - - 4
   - - - bracket
       - '<color=0xFF66CCFF><fontsize=12>✪</fontsize> --- Friendly: All</color>'
     - - name
-      - '<fontsize=11><color=0xFF66CCFF><b> 5 </b></color></fontsize>'
+      - '<fontsize=11><color=0xFF66CCFF><b>  Friendly  </b></color></fontsize>'
     - - overview
       - '<color=0xFF66CCFF><fontsize=12>✪</fontsize> --- Friendly: All</color>'
 - - 5
   - - - bracket
       - '<color=0xFF66FF66><fontsize=12>➲</fontsize> Extra: Podsaver (!)</color>'
     - - name
-      - '<fontsize=11><color=0xFF66FF66><b> Exit! </b></color></fontsize>'
+      - '<fontsize=11><color=0xFF66FF66><b>  Warpout!  </b></color></fontsize>'
     - - overview
       - '<color=0xFF66FF66><fontsize=12>➲</fontsize> Extra: Podsaver (!)</color>'
 userSettings:
