@@ -44,10 +44,10 @@ backgroundStates:
 - 53
 columnOrder:
 - ICON
+- TAG
 - DISTANCE
 - NAME
 - TYPE
-- TAG
 - ALLIANCE
 - CORPORATION
 - FACTION
@@ -108,6 +108,7 @@ overviewColumns:
 - DISTANCE
 - ICON
 - NAME
+- TAG
 - TRANSVERSALVELOCITY
 - TYPE
 - VELOCITY
@@ -322,7 +323,7 @@ presets:
         - 1728
         - 1729
         - 1731
-- - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic</color>'
+- - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+NPC +Neut)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -354,17 +355,20 @@ presets:
         - 337
         - 358
         - 361
-        - 365
         - 366
         - 380
         - 381
         - 383
         - 419
         - 420
+        - 435
         - 463
         - 479
         - 485
         - 492
+        - 494
+        - 495
+        - 496
         - 513
         - 520
         - 522
@@ -727,6 +731,7 @@ presets:
         - 1159
         - 1201
         - 1202
+        - 1246
         - 1249
         - 1273
         - 1274
@@ -779,7 +784,7 @@ shipLabels:
       - corporation
 - - pilot name
   - - - post
-      - ']</fontsize>'
+      - ']</fontsize><color=0xFFFFFFFF><b> -'
     - - pre
       - '
 
@@ -790,11 +795,11 @@ shipLabels:
       - pilot name
 - - ship name
   - - - post
-      - '</fontsize><color=0xFFFFFFFF><b>- '
+      - ''
     - - pre
-      - '<fontsize=0>'
+      - ''
     - - state
-      - 1
+      - 0
     - - type
       - ship name
 - - ship type
@@ -855,58 +860,44 @@ tabSetup:
   - - - bracket
       - '<color=0xFFFFFFFF><fontsize=12>✈</fontsize> --- Travel: Basic</color>'
     - - name
-      - '<fontsize=13><color=0xFFFFFFFF><b>  ✈  </b></color></fontsize>'
+      - '<fontsize=13><color=0xFFFFFFFF><b> ✈ </b></color></fontsize>'
     - - overview
       - '<color=0xFFFFFFFF><fontsize=12>✈</fontsize> --- Travel: Basic</color>'
 - - 1
   - - - bracket
-      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic</color>'
+      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+NPC +Neut)</color>'
     - - name
-      - '<fontsize=11><color=0xFFFF6666><b>  Combat  </b></color></fontsize>'
+      - '<fontsize=11><color=0xFFFF6666><b> Main </b></color></fontsize>'
     - - overview
-      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic</color>'
+      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+NPC +Neut)</color>'
 - - 2
   - - - bracket
       - '<color=0xFFFF6666><fontsize=12>✥</fontsize> Target: Drones</color>'
     - - name
-      - '<fontsize=11><color=0xFFCC66FF><b>  Drones  </b></color></fontsize>'
+      - '<fontsize=11><color=0xFFCC66FF><b> 3 </b></color></fontsize>'
     - - overview
       - '<color=0xFFFF6666><fontsize=12>✥</fontsize> Target: Drones</color>'
 - - 3
   - - - bracket
       - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Salvage/Loot</color>'
     - - name
-      - '<fontsize=11><color=0xFFFFFF66><b>  Misc  </b></color></fontsize>'
+      - '<fontsize=11><color=0xFFFFFF66><b> 4 </b></color></fontsize>'
     - - overview
       - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Salvage/Loot</color>'
 - - 4
   - - - bracket
       - '<color=0xFF66CCFF><fontsize=12>✪</fontsize> --- Friendly: All</color>'
     - - name
-      - '<fontsize=11><color=0xFF66CCFF><b>  Friendly  </b></color></fontsize>'
+      - '<fontsize=11><color=0xFF66CCFF><b> 5 </b></color></fontsize>'
     - - overview
       - '<color=0xFF66CCFF><fontsize=12>✪</fontsize> --- Friendly: All</color>'
 - - 5
   - - - bracket
       - '<color=0xFF66FF66><fontsize=12>➲</fontsize> Extra: Podsaver (!)</color>'
     - - name
-      - '<fontsize=11><color=0xFF66FF66><b>  Warpout!  </b></color></fontsize>'
+      - '<fontsize=11><color=0xFF66FF66><b> Exit! </b></color></fontsize>'
     - - overview
       - '<color=0xFF66FF66><fontsize=12>➲</fontsize> Extra: Podsaver (!)</color>'
-- - 6
-  - - - bracket
-      - ''
-    - - name
-      - '  Spec 1  '
-    - - overview
-      - ''
-- - 7
-  - - - bracket
-      - ''
-    - - name
-      - '  Spec 2  '
-    - - overview
-      - ''
 userSettings:
 - - applyOnlyToShips
   - false
