@@ -6,7 +6,7 @@ What started as a stop-gap measure to bring the SaraShawa overview up-to-date fo
 If you're familiar with SaraShawa, it shouldn't take too long to adjust to the changes.
 
 ##### New features include:
-- Choice of Full-Size or Compact 6- or 8-Tab Layouts that can be swapped at any time without reloading the entire pack.
+- Choice of Full-Size or Compact 6-Tab Layouts that can be swapped at any time without reloading the entire pack.
 - Modular Setup: Load the Preset Packs you need, not the ones you don't.
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - [Color-coded presets by category for improved ease of selection.](http://prntscr.com/br0kp1)
@@ -15,7 +15,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - For Release: 118.6
 - Updated: 2016.07.24 EVE Calendar
 - Join our Mailing List in-game: Zirio-Syundai Overview
-- Visit us on [Reddit r/EVE](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
+- Visit us on [Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
 
 Zirio - YAML Coding & Pack Maintenence  
 Deuce Syundai - Design & Text Formatting
@@ -119,16 +119,19 @@ Deuce Syundai - Design & Text Formatting
 
 ### Changelog
 ##### How to read versions
->Starting from Version v2.66.2012, versioning has been standardized.
+>Starting from Version v2.66.2012, versioning has been standardized.  
 >Starting from this version up to the newest, should allow to keep a better track of the modifications.
 >- A.BB.XXYY - NAME
-	- A		= Game update
-		- Only if overview types and states are affected
-		- Resets version sub-classifications to 0)
-	- B		= Pack and Layout deployment changes (addition, deletion, split, rename and adjustements)
-	- XX	= Preset changes amount(addition, deletion, split, rename and adjustements)
+	- A	= Game update
+		- Only if overview types and states are affected.
+		- Resets version sub-classifications to 0.
+	- BB = Pack and Layout deployment changes
+		- Addition, deletion, split, rename and adjustements.
+	- XX = Preset changes amount
+		- Addition, deletion, split, rename and adjustements.
 		- Amounts are added up to the previous version amounts to show the current total of modifications.
-	- YY	= Preset updates amount(types by categories and states changes)
+	- YY = Preset updates amount
+		- Types by categories and states changes.
 		- Amounts are added up to the previous version amounts to show the current total of modifications.
 	- NAME	= Shout out to the player(s) that provided the most feedback during the version development.
 
