@@ -117,14 +117,20 @@ Deuce Syundai - Design & Text Formatting
 - ※ D-Scan: POS (-Mods +Celes)
 - ※ D-Scan: Ships (-Celes)
 
-### Changelog
-##### How to read versions
->Starting from Version v2.66.2012, versioning has been standardized.  
->Starting from this version up to the newest, should allow to keep a better track of the modifications.
+### IMPORTANT
+##### If you clone and/or fork the repository!
+>- Starting from Version v2.66.2012, versioning has been standardized.  
+>- The inclusion of version tags and consistant numbering has been implemented, should allow to keep a better track of the modifications.  
+>- If you plan to clone and/or fork the repository, it is recommended to do it from this version forward.  
+>- Commit Squashing WILL NOT be done randomly from now on, so don't worry about an inconsistant history.  
+>- If a Commit Squash happens, we'll notify all the cloners/forkers previously.  
+>- Please send an in-game mail to **Zirio** notifying him that you are a cloner/forker so he can notify you back in case of a Commit Squash.  
+
+>##### How to read versions:
 >- A.BB.XXYY - NAME
 	- A	= Game update
-		- Only if overview types and states are affected.
-		- Resets version sub-classifications to 0.
+		- Only if overview entity types and visual states are affected.
+		- Resets version sub-classifications to 0. (ex. v3.00.0000)
 	- BB = Pack and Layout deployment changes
 		- Addition, deletion, split, rename and adjustements.
 	- XX = Preset changes amount
@@ -134,6 +140,8 @@ Deuce Syundai - Design & Text Formatting
 		- Types by categories and states changes.
 		- Amounts are added up to the previous version amounts to show the current total of modifications.
 	- NAME	= Shout out to the player(s) that provided the most feedback during the version development.
+
+### Changelog
 
 ##### Version v2.66.2012 - _Skrimokst & Parthannun's adjustements_
 >1. Created two new Layouts that allow players to have single-line Player Ship Brackets instead of double-line:
