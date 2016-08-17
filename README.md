@@ -14,9 +14,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v3.05.0522
+#### Current Version: v3.06.0523
 - For Release: **118.7**
-- Updated: **2016.08.11**
+- Updated: **2016.08.17**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
