@@ -8,15 +8,36 @@
 		- Resets version sub-classifications to 0 (ex. v3.00.0000).
 	- BB = Pack and Layout deployment changes
 		- Addition, deletion, split, rename and adjustements.
+        - Amounts are added up to the previous version amounts to show the current total of modifications.
 	- XX = Preset changes amount
 		- Addition, deletion, split, rename and adjustements.
 		- Amounts are added up to the previous version amounts to show the current total of modifications.
 	- YY = Preset updates amount
 		- Types by categories and states changes.
 		- Amounts are added up to the previous version amounts to show the current total of modifications.
-	- NAME	= Shout out to the player(s) that provided the most feedback during the version development.
+	- NAME	= Shout out to the circumstance(s) and/or player(s) that provided the most feedback during the version development.
 
 ##### --- Standard Versions ---
+
+##### Version v3.06.1425 - 118.7 - _Cixin Airuta's illumination_
+>1. Changed presets:
+    - Renamed "✥ --- PvP: Basic (+NPC +Neut)" to "✥ --- PvP: Basic (+Neut +NPC)"
+    - Renamed "✥ --- PvP: Basic (+NPC -Neut)" to "✥ --- PvP: Basic (-Neut +NPC)"
+    - Renamed "✥ --- PvP: Basic (-NPC +Neut)" to "✥ --- PvP: Basic (+Neut -NPC)"
+    - Renamed "✥ --- PvP: Basic (-NPC -Neut)" to "✥ --- PvP: Basic (-Neut -NPC)"
+    - Renamed "※ D-Scan: POS (+Mod +Cel)" to "※ D-Scan: POS (+Cel +Mod)"
+    - Renamed "※ D-Scan: POS (+Mod -Cel)" to "※ D-Scan: POS (-Cel +Mod)"
+    - Renamed "※ D-Scan: POS (-Mod +Cel)" to "※ D-Scan: POS (+Cel -Mod)"
+    - Renamed "※ D-Scan: Ships (-Cel)" to "※ D-Scan: Ships (-Cel +Dro)"
+    - Added "※ D-Scan: Ships (-Cel -Dro)"
+>2. Updated presets:
+    - Added Charge:
+        - "Scanner Probe" to:
+            - "※ D-Scan: Ships (-Cel +Dro)"
+            - "※ D-Scan: Ships (-Cel -Dro)"
+        - "Interdiction Probe" to:
+            - "※ D-Scan: Ships (-Cel +Dro)"
+            - "※ D-Scan: Ships (-Cel -Dro)"
 
 ##### Version v3.06.0523 - 118.7 - _Strawpoll results tweaks_
 >1. Added a new "Z-S Full Unstylized Presets.yaml" import file.
@@ -28,9 +49,9 @@
     - The file will only be available via download from GitHub and the player will have to import it manually into the game.
         - This will avoid creating a new Mailing List and Channel due to character limits in both the Welcoming Mail and MOTD respectively.
     - We will contact CCP regarding a small update to the Overview input fields that will allow to:
-        - Input longer names.
-        - Input Capital letters.
-        - Input styling tags (`<color>` & `<fontsize>`).
+        - ~~Input longer names.~~ Coming on the September 2016 release.
+        - ~~Input Capital letters.~~ Coming on the September 2016 release.
+        - Input styling tags (`<color>` & `<fontsize>`). Not yet, difficult to implement.
 >2. Updated presets:
     - Removed Orbital:
         - "Orbital Infrastructure" from:
