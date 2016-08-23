@@ -1,7 +1,7 @@
 # Zirio-Syundai Special Overview
 ### Overview Pack for EVE Online
 
-The Zirio-Syundai Special™ Overview was created to provide a generalized, user-friendly, 6- or 8-tab overview, ready to use as-is with room to be tailored as needed.  
+The Zirio-Syundai Special™ Overview was created to provide a generalized, user-friendly, 6-Tab Overview, ready to use as-is with room to be tailored as needed.  
 What started as a stop-gap measure to bring the SaraShawa overview up-to-date for 118.6 instead snowballed into a complete re-write of the .YAML file and total overhaul of the visuals.  
 If you're familiar with SaraShawa, it shouldn't take too long to adjust to the changes.
 
@@ -14,9 +14,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v3.06.0523
+#### Current Version: v3.06.1425
 - For Release: **118.7**
-- Updated: **2016.08.17**
+- Updated: **2016.08.23**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
@@ -78,10 +78,10 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
     ✜ PvE: Mining
     ✜ PvE: Ratting
     ✜ PvE: Salvage/Loot
-    ✥ --- PvP: Basic (+NPC +Neut)
-    ✥ --- PvP: Basic (+NPC -Neut)
-    ✥ --- PvP: Basic (-NPC +Neut)
-    ✥ --- PvP: Basic (-NPC -Neut)
+    ✥ --- PvP: Basic (+Neut +NPC)
+    ✥ --- PvP: Basic (+Neut -NPC)
+    ✥ --- PvP: Basic (-Neut +NPC)
+    ✥ --- PvP: Basic (-Neut -NPC)
     ✥ --- PvP: FW
     ✥ -- Ships only
     ✥ = Bombing Warpouts
@@ -119,17 +119,18 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
     ✪ Friendly: Recons
     ✪ Friendly: SC/T
     ※ --- D-Scan: All
-    ※ D-Scan: POS (+Mod +Cel)
-    ※ D-Scan: POS (+Mod -Cel)
-    ※ D-Scan: POS (-Mod +Cel)
-    ※ D-Scan: Ships (-Cel)
+    ※ D-Scan: POS (+Cel +Mod)
+    ※ D-Scan: POS (+Cel -Mod)
+    ※ D-Scan: POS (-Cel +Mod)
+    ※ D-Scan: Ships (-Cel +Dro)
+    ※ D-Scan: Ships (-Cel -Dro)
 
 #### Nomenclature
-    - Dro:  Drone(s) & Fighter(s)
-    - NPC:  Rat(s) - Non-Player Character(s)
-    - Neut: Neutral(s)
-    - Mod:  Module(s)
     - Cel:  Celestial(s)
+    - Dro:  Drone(s) & Fighter(s)
+    - Neut: Neutral(s)
+    - NPC:  Rat(s) - Non-Player Character(s)
+    - Mod:  Module(s)    
 
 ## Important!
 
