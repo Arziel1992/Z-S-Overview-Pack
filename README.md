@@ -26,6 +26,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - FAQ (WIP): **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)**
 
 ## How to install
+Be sure to have a quick read of **EVE University's** Overview guide **[Here](http://wiki.eveuniversity.org/Overview_Guide)**, either to learn how everything works or have a reminder.
 #### Option 1: In-game, from "Zirio-Syundai Overview" chat channel:
 1. Open up your Overview Settings ( ≡ button at top left of the Overview window).
 2. Go to the "Misc" tab and click "Reset All Overview Settings."
