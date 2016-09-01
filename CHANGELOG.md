@@ -15,9 +15,58 @@
 	- YY = Preset updates amount
 		- Types by categories and states changes.
 		- Amounts are added up to the previous version amounts to show the current total of modifications.
-	- NAME	= Shout out to the circumstance(s) and/or player(s) that provided the most feedback during the version development.
+	- NAME = Shout out to the circumstance(s) and/or player(s) that provided the most feedback during the version development.
 
 ##### --- Standard Versions ---
+
+##### Version v3.08.1434 - 118.7 - _Carson Moore's discoveries_
+>1. Changed Appearance:
+    - Colortag:
+        - Colors match E-UNI's specifications.
+        - Blinking match E-UNI's specifications.
+        - Priority order stay the same (further revision needed)
+    - Background:
+        - Colors match E-UNI's specifications.
+        - Blinking match E-UNI's specifications.
+        - Priority order stay the same (further revision needed)
+>2. Updated presets:
+    - Added Deployable:
+        - "Mobile Warp Disruptor" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
+            - "✜ PvE: Salvage/Loot"
+        - "Mobile Cyno Inhibitor" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
+        - "Mobile Scan Inhibitor" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
+        - "Mobile Micro Jump Unit" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
+    - Removed Drones:
+        - All from:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Mining"
+            - "✜ PvE: Ratting"
+    - Removed Charge:
+        - "Survey Probe" from:
+            - "✜ --- PvE: Basic (+Dro)"
+            - "✜ --- PvE: Basic (-Dro)"
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Mining"
+            - "✜ PvE: Ratting"
+    - Removed Deployable:
+        - "Mobile Siphon Unit" from:
+            - "✜ PvE: Mining"
+        - "Encounter Surveillance System" from:
+            - "✜ PvE: Mining"
+    - Updated State:
+        - Show by default:
+            - "Pilot is in your fleet" on "✜ --- PvE: Basic (+Dro)"
+            - "Pilot is in your fleet" on "✜ --- PvE: Basic (-Dro)"
+            - "Pilot is in your fleet" on "✜ PvE: Anoms"
+            - "Pilot is in your fleet" on "✜ PvE: Ratting"
 
 ##### Version v3.06.1425 - 118.7 - _Cixin Airuta's illumination_
 >1. Changed presets:
@@ -181,7 +230,7 @@
 >1. Created two new Layouts that allow players to have single-line Player Ship Brackets instead of double-line:
 	- "1 SB Row" = "1 Ship Bracket Row"
 	- "2 SB Row" = "2 Ship Bracket Rows"
->2. Chaged Layouts:
+>2. Changed Layouts:
 	- Renamed "Z-S 6-Tab Compact Layout" to "Z-S 6-Tab Compact 2 SB Rows"
 	- Renamed "Z-S 6-Tab Standard Layout" to "Z-S 6-Tab Standard 2 SB Rows"
     - Added "Z-S 6-Tab Compact 1 SB Row"
@@ -231,11 +280,10 @@
 		- "Mobile Micro Jump Unit" from:
             - "✜ PvE: Anoms"
             - "✜ PvE: Ratting"
-	- Removed States:
-		- "Neutral" from:
-            - "✜ PvE: Incursion"
-		- "No Standing" from:
-            - "✜ PvE: Incursion"
+	- Updated State:
+        - Filter out:
+            - "Pilot has neutral standing" on "✜ PvE: Incursion"
+            - "Pilot has no standing" on "✜ PvE: Incursion"
 
 ##### --- Non-Standard Versions ---
 

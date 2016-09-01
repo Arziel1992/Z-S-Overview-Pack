@@ -14,14 +14,15 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v3.06.1425
+#### Current Version: v3.08.1434
 - For Release: **118.7**
-- Updated: **2016.08.23**
+- Updated: **2016.09.01**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
 - Visit us on: **[Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/) - [Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/)**
 - Changelog: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)**
+- Top Donators: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONATORS.md)**
 - FAQ (WIP): **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)**
 
 ## How to install
@@ -31,10 +32,10 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
     - You MUST do this the first time you install.
     - This prevents any weirdness that may be caused by any changes already made to the overview.
 3. Apply the Z-S Core preset pack FIRST. This is the only preset pack required. When combined with a Tab Layout, it includes the following presets:
-	- All Travel, Warpout, D-scan, and Bracket presets
-	- PvE: Basic and PvE: Salvage/Loot
-	- PvP: Basic and Target: Drones
-	- Friendly: All and Friendly: Fleet
+	- All Travel, Warpout, D-scan & Bracket presets
+	- PvE: Basic & PvE: Salvage/Loot
+	- PvP: Basic & Target: Drones
+	- Friendly: All & Friendly Fleet
 4. (Optional) Apply any of these Optional preset packs you may need for more specialized presets:
 	- Z-S PvE contains presets for Anoms/Ratting, Incursion, Mining, and Show Drones.
 	- Z-S PvP Basic contains presets for Faction Warfare, Ships Only, Bombing Warpouts, Deployables, NPSI, Structures, and Wartargets.
@@ -45,13 +46,31 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
 
 #### Option 2: Out of game:
-1. Click the green "Clone or download" button located at the top right of the above file list, then click "Download ZIP".
+1. Download:
+    1. Full project:
+        - Click the green "Clone or download" button located at the top right of the above file list, then click "Download ZIP".
+        - It will download a complete copy of the project (not recommended).
+    2. Specific release (version):
+        - Click the "Releases" link near the "Clone or Download" button.
+        - Go to the release you are interested in (latest release is recommneded).
+        - Scroll down to "Downloads" of said release and download the "Z-S ..." .zip file
 2. Once downloaded in the folder of your preference, extract the .zip file contents in a folder of your preference.
-3. Go to the most recent version folder and copy the "Zirio-Syundai Full.yaml" file.
-4. Go to "C:\Users\YourName\Documents\EVE\Overview" and paste the downloaded file here.
+3. Go to the most recent version folder and:
+    - Copy the "Z-S Full Stylized.yaml" file for the complete pre-stylized overview.
+    - Or copy the "Z-S Full Unstylized.yaml" file for the complete default-style overview.
+    - Or copy the specific packs you want/need, alongside one or all layouts.
+4. Go to "C:\Users\YourName\Documents\EVE\Overview" and paste the copied files there.
+    - If the folder doesn't exist, you can either create it manually.
+    - Or export your current overview (recommended) and it will be created automatically.
+        - To export, follow step 5-6.
+        - Instead of import, choose export and mark "Check All".
+        - This will save your current overview and its settings.
 5. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
-6. Go to the "Misc" tab and click "Import Overview Settings".
-7. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
+6. Go to the "Misc" tab
+    - Click "Reset All" to have the default settings loaded.
+    - Follow steps 5-6 and click "Import Overview Settings".
+7. Select one of the copied files on the left list, click "Check All" on the top middle of the window, then click "Import".
+8. Repeat step 7 if you are importing individual packs + layouts instead of a Full profile.
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
 
 #### Popular Forks
