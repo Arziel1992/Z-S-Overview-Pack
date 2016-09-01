@@ -192,6 +192,7 @@ presets:
         - 298
         - 306
         - 340
+        - 361
         - 383
         - 435
         - 448
@@ -832,15 +833,31 @@ shipLabels:
       - ship type
 stateBlinks:
 - - background_13
+  - true
+- - background_17
   - false
 - - background_44
+  - true
+- - background_48
   - false
+- - background_50
+  - true
+- - background_51
+  - true
+- - background_52
+  - true
+- - background_9
+  - true
 - - flag_13
   - true
+- - flag_17
+  - false
 - - flag_44
   - true
-- - flag_50
+- - flag_48
   - false
+- - flag_50
+  - true
 - - flag_51
   - true
 - - flag_52
@@ -849,30 +866,32 @@ stateBlinks:
   - true
 stateColorsNameList:
 - - background_10
-  - white
+  - yellow
 - - background_12
-  - darkBlue
+  - green
 - - background_16
-  - darkBlue
+  - blue
 - - background_18
-  - red
+  - orange
 - - background_20
-  - white
+  - black
 - - background_21
-  - white
+  - blue
 - - background_44
   - red
 - - background_45
-  - blue
+  - indigo
 - - background_49
-  - blue
+  - darkBlue
 - - background_50
-  - orange
+  - yellow
 - - background_51
-  - orange
+  - yellow
 - - background_52
   - orange
 - - background_9
+  - yellow
+- - flag_9
   - orange
 tabSetup:
 - - 0

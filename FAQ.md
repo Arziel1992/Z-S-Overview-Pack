@@ -8,7 +8,7 @@
 > - Summon testers to evaluate a pre-build and reach a consensus.
 > - Run a Strawpoll.
 
-- ##### If I click "Save" to commit the changes the preset name will not save properly.
+- ##### If I click "Save" to commit the changes, the preset name will not save properly.
 > Sadly the game has a character limit on the Name's input field in addition to some other restrictions:
 > - Character limit.
 > - Cannot input capital letters.

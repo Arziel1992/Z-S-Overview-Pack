@@ -117,7 +117,7 @@ presets:
   - - - alwaysShownStates
       - []
     - - filteredStates
-      - - 11
+      - []
     - - groups
       - - 6
         - 9
@@ -160,7 +160,6 @@ presets:
         - 463
         - 479
         - 485
-        - 492
         - 494
         - 495
         - 496
@@ -493,7 +492,7 @@ presets:
   - - - alwaysShownStates
       - []
     - - filteredStates
-      - - 11
+      - []
     - - groups
       - - 6
         - 10
@@ -522,6 +521,7 @@ presets:
         - 335
         - 337
         - 358
+        - 361
         - 366
         - 380
         - 381
@@ -532,7 +532,6 @@ presets:
         - 463
         - 479
         - 485
-        - 492
         - 494
         - 495
         - 496
@@ -546,7 +545,6 @@ presets:
         - 540
         - 541
         - 543
-        - 544
         - 547
         - 548
         - 550
@@ -609,8 +607,6 @@ presets:
         - 631
         - 632
         - 633
-        - 639
-        - 641
         - 659
         - 665
         - 666
@@ -791,6 +787,7 @@ presets:
         - 1202
         - 1207
         - 1246
+        - 1249
         - 1250
         - 1252
         - 1255
@@ -798,6 +795,8 @@ presets:
         - 1262
         - 1265
         - 1274
+        - 1275
+        - 1276
         - 1283
         - 1285
         - 1286
@@ -1190,8 +1189,6 @@ presets:
         - 31
         - 90
         - 99
-        - 100
-        - 101
         - 180
         - 185
         - 237
@@ -1236,7 +1233,6 @@ presets:
         - 469
         - 479
         - 485
-        - 492
         - 494
         - 495
         - 496
@@ -1250,7 +1246,6 @@ presets:
         - 540
         - 541
         - 543
-        - 544
         - 547
         - 548
         - 550
@@ -1474,7 +1469,6 @@ presets:
         - 1081
         - 1082
         - 1149
-        - 1159
         - 1166
         - 1167
         - 1168
@@ -1496,7 +1490,6 @@ presets:
         - 1202
         - 1207
         - 1246
-        - 1247
         - 1249
         - 1250
         - 1252
@@ -1504,7 +1497,6 @@ presets:
         - 1259
         - 1262
         - 1265
-        - 1273
         - 1274
         - 1275
         - 1276
@@ -1580,7 +1572,7 @@ presets:
   - - - alwaysShownStates
       - []
     - - filteredStates
-      - - 11
+      - []
     - - groups
       - - 6
         - 9
@@ -1610,6 +1602,7 @@ presets:
         - 335
         - 337
         - 358
+        - 361
         - 366
         - 380
         - 381
@@ -1620,7 +1613,6 @@ presets:
         - 463
         - 479
         - 485
-        - 492
         - 494
         - 495
         - 496
@@ -1634,7 +1626,6 @@ presets:
         - 540
         - 541
         - 543
-        - 544
         - 547
         - 548
         - 550
@@ -1697,8 +1688,6 @@ presets:
         - 631
         - 632
         - 633
-        - 639
-        - 641
         - 659
         - 665
         - 666
@@ -1879,6 +1868,7 @@ presets:
         - 1202
         - 1207
         - 1246
+        - 1249
         - 1250
         - 1252
         - 1255
@@ -1886,6 +1876,8 @@ presets:
         - 1262
         - 1265
         - 1274
+        - 1275
+        - 1276
         - 1283
         - 1285
         - 1286
@@ -2011,15 +2003,31 @@ shipLabels:
       - ship type
 stateBlinks:
 - - background_13
+  - true
+- - background_17
   - false
 - - background_44
+  - true
+- - background_48
   - false
+- - background_50
+  - true
+- - background_51
+  - true
+- - background_52
+  - true
+- - background_9
+  - true
 - - flag_13
   - true
+- - flag_17
+  - false
 - - flag_44
   - true
-- - flag_50
+- - flag_48
   - false
+- - flag_50
+  - true
 - - flag_51
   - true
 - - flag_52
@@ -2028,30 +2036,32 @@ stateBlinks:
   - true
 stateColorsNameList:
 - - background_10
-  - white
+  - yellow
 - - background_12
-  - darkBlue
+  - green
 - - background_16
-  - darkBlue
+  - blue
 - - background_18
-  - red
+  - orange
 - - background_20
-  - white
+  - black
 - - background_21
-  - white
+  - blue
 - - background_44
   - red
 - - background_45
-  - blue
+  - indigo
 - - background_49
-  - blue
+  - darkBlue
 - - background_50
-  - orange
+  - yellow
 - - background_51
-  - orange
+  - yellow
 - - background_52
   - orange
 - - background_9
+  - yellow
+- - flag_9
   - orange
 tabSetup:
 - - 0
