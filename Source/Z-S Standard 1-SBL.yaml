@@ -831,31 +831,15 @@ shipLabels:
       - ship type
 stateBlinks:
 - - background_13
-  - true
-- - background_17
   - false
 - - background_44
-  - true
-- - background_48
   - false
-- - background_50
-  - true
-- - background_51
-  - true
-- - background_52
-  - true
-- - background_9
-  - true
 - - flag_13
   - true
-- - flag_17
-  - false
 - - flag_44
   - true
-- - flag_48
-  - false
 - - flag_50
-  - true
+  - false
 - - flag_51
   - true
 - - flag_52
@@ -864,32 +848,30 @@ stateBlinks:
   - true
 stateColorsNameList:
 - - background_10
-  - yellow
+  - white
 - - background_12
-  - green
+  - darkBlue
 - - background_16
-  - blue
+  - darkBlue
 - - background_18
-  - orange
+  - red
 - - background_20
-  - black
+  - white
 - - background_21
-  - blue
+  - white
 - - background_44
   - red
 - - background_45
-  - indigo
+  - blue
 - - background_49
-  - darkBlue
+  - blue
 - - background_50
-  - yellow
+  - orange
 - - background_51
-  - yellow
+  - orange
 - - background_52
   - orange
 - - background_9
-  - yellow
-- - flag_9
   - orange
 tabSetup:
 - - 0
