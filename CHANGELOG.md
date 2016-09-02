@@ -19,6 +19,13 @@
 
 ##### --- Standard Versions ---
 
+##### Version v3.10.1434 - 118.7 _Smoothing_
+>1. Changed Appearance:
+    - Colortag:
+        - Reverted to old settings.
+    - Background:
+        - Reverted to old settings.
+
 ##### Version v3.08.1434 - 118.7 - _Carson Moore's discoveries_
 >1. Changed Appearance:
     - Colortag:
