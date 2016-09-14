@@ -488,6 +488,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Anoms</color>'
   - - - alwaysShownStates
       - []
@@ -856,6 +859,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Incursion</color>'
   - - - alwaysShownStates
       - []
@@ -1169,6 +1175,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Mining</color>'
   - - - alwaysShownStates
       - []
@@ -1568,6 +1577,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Ratting</color>'
   - - - alwaysShownStates
       - []
@@ -1937,6 +1949,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 shipLabelOrder:
 - ship type
 - alliance

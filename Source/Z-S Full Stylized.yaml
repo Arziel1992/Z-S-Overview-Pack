@@ -577,6 +577,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> Brackets: Default</color>'
   - - - alwaysShownStates
       - []
@@ -791,10 +794,16 @@ presets:
         - 1054
         - 1056
         - 1149
+        - 1174
         - 1201
         - 1202
         - 1207
         - 1249
+        - 1252
+        - 1255
+        - 1259
+        - 1262
+        - 1265
         - 1273
         - 1274
         - 1275
@@ -803,6 +812,7 @@ presets:
         - 1285
         - 1286
         - 1287
+        - 1288
         - 1305
         - 1307
         - 1310
@@ -853,6 +863,13 @@ presets:
         - 1728
         - 1729
         - 1731
+        - 1734
+        - 1735
+        - 1736
+        - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> Brackets: Hostile</color>'
   - - - alwaysShownStates
       - []
@@ -1072,9 +1089,15 @@ presets:
         - 1054
         - 1056
         - 1149
+        - 1174
         - 1201
         - 1202
         - 1249
+        - 1252
+        - 1255
+        - 1259
+        - 1262
+        - 1265
         - 1273
         - 1274
         - 1275
@@ -1083,6 +1106,7 @@ presets:
         - 1285
         - 1286
         - 1287
+        - 1288
         - 1305
         - 1307
         - 1310
@@ -1110,6 +1134,12 @@ presets:
         - 1665
         - 1666
         - 1667
+        - 1724
+        - 1725
+        - 1726
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> Brackets: None</color>'
   - - - filteredStates
       - - 11
@@ -1355,17 +1385,24 @@ presets:
         - 1082
         - 1149
         - 1159
+        - 1174
         - 1201
         - 1202
         - 1246
         - 1247
         - 1249
         - 1250
+        - 1252
+        - 1255
+        - 1259
+        - 1262
+        - 1265
         - 1273
         - 1274
         - 1275
         - 1276
         - 1283
+        - 1288
         - 1305
         - 1527
         - 1534
@@ -2078,6 +2115,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFD9666><fontsize=12>✜</fontsize> --- PvE: Basic (-Dro)</color>'
   - - - alwaysShownStates
       - []
@@ -2453,6 +2493,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Anoms</color>'
   - - - alwaysShownStates
       - []
@@ -2821,6 +2864,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Incursion</color>'
   - - - alwaysShownStates
       - []
@@ -3134,6 +3180,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Mining</color>'
   - - - alwaysShownStates
       - []
@@ -3533,6 +3582,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Ratting</color>'
   - - - alwaysShownStates
       - []
@@ -3902,6 +3954,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Salvage/Loot</color>'
   - - - alwaysShownStates
       - []
@@ -4059,6 +4114,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+Neut +NPC)</color>'
   - - - alwaysShownStates
       - []
@@ -4358,6 +4416,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+Neut -NPC)</color>'
   - - - alwaysShownStates
       - []
@@ -4754,6 +4815,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (-Neut -NPC)</color>'
   - - - alwaysShownStates
       - []
@@ -5169,6 +5233,13 @@ presets:
         - 1728
         - 1729
         - 1731
+        - 1734
+        - 1735
+        - 1736
+        - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFF6666><fontsize=12>✥</fontsize> -- Ships only</color>'
   - - - alwaysShownStates
       - []

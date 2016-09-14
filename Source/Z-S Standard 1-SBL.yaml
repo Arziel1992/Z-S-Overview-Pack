@@ -329,6 +329,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+Neut +NPC)</color>'
   - - - alwaysShownStates
       - []
@@ -628,6 +631,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFF6666><fontsize=12>✥</fontsize> Target: Drones</color>'
   - - - alwaysShownStates
       - []
