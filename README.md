@@ -14,13 +14,13 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v3.08.1434
-- For Release: **118.7**
-- Updated: **2016.09.01**
+#### Current Version: v4.00.0002
+- For Release: **118.8**
+- Updated: **2016.09.13**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
-- Visit us on: **[Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/) - [Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/)**
+- Visit us on: **[Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/) - [Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992)**
 - Changelog: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)**
 - Top Donators: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONATORS.md)**
 - FAQ (WIP): **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)**

@@ -19,7 +19,18 @@
 
 ##### --- Standard Versions ---
 
-##### Version v3.10.1434 - 118.7 _Smoothing_
+##### Version v4.00.0002 - 118.8 - _New release_
+>1. Updated presets:
+    - Added Entity:
+        - New event entities to:
+            - Several
+    - Updated NPC:
+        - "Pirate NPC" on:
+            - "⌘ Brackets: Default"
+            - "⌘ Brackets: Hostile"
+            - "⌘ Brackets: Skirmirsh"
+
+##### Version v3.10.1434 - 118.7 - _Smoothing_
 >1. Changed Appearance:
     - Colortag:
         - Reverted to old settings.

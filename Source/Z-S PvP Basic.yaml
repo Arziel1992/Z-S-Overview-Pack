@@ -509,6 +509,9 @@ presets:
         - 1735
         - 1736
         - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (-Neut -NPC)</color>'
   - - - alwaysShownStates
       - []
@@ -924,6 +927,13 @@ presets:
         - 1728
         - 1729
         - 1731
+        - 1734
+        - 1735
+        - 1736
+        - 1737
+        - 1759
+        - 1761
+        - 1762
 - - '<color=0xFFFF6666><fontsize=12>✥</fontsize> -- Ships only</color>'
   - - - alwaysShownStates
       - []
