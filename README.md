@@ -16,12 +16,13 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 
 #### Current Version: v4.00.0002
 - For Release: **118.8**
-- Updated: **2016.09.13**
+- Updated: **2016.09.14**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
 - Visit us on: **[Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/) - [Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992)**
 - Changelog: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)**
+- Feedback: **[Here](http://goo.gl/forms/h4rTeZCHNorqEsyx2)**
 - Top Donators: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONATORS.md)**
 - FAQ (WIP): **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)**
 
@@ -73,9 +74,6 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 7. Select one of the copied files on the left list, click "Check All" on the top middle of the window, then click "Import".
 8. Repeat step 7 if you are importing individual packs + layouts instead of a Full profile.
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
-
-#### Popular Forks
-- [Zirio-Syundai Special Overview, Kafferton Mod](https://github.com/ChemicalRascal/Z-S-Overview-Kafferton-Mod)
 
 #### Screenshots
 ![Screenshots](/Images/screenshots.jpg "Screenshots")
@@ -155,12 +153,12 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 ## Important!
 
 ##### If you clone and/or fork the repository!
-- Starting from Version v2.66.2012, versioning has been standardized.  
-- The inclusion of version tags and consistant numbering has been implemented, should allow to keep a better track of the modifications.  
+- Starting from Version v2.66.2012, versioning has been standardized (more information on the **[Changelog](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)** file).  
+    - The inclusion of version tags and consistant numbering has been implemented, should allow to keep a better track of the modifications.  
 - If you plan to clone and/or fork the repository, it is recommended to do it from this version forward.  
 - Commit Squashing WILL NOT be done randomly from now on, so don't worry about an inconsistant history.  
-- If a Commit Squash happens, we'll notify all the cloners/forkers previously.  
-- Please send an in-game mail to **Zirio** notifying him that you are a cloner/forker so he can notify you back in case of a Commit Squash.  
+    - If a Commit Squash happens, we'll notify all the cloners/forkers previously.  
+    - Please send an in-game mail to **Zirio** notifying him that you are a cloner/forker so he can notify you back in case of a Commit Squash.  
 
 ## License  
 Overview Pack licensed under "GNU GENERAL PUBLIC LICENSE - Version 3, 29 June 2007"  
