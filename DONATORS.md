@@ -10,11 +10,13 @@ It's not just me developing the pack, it's all of us working together to reach t
 - And a special shout out to the players that thought I should be rewarded, thank you all very much!
 
 ## Top Donators
-1. **Eirellle** - 152.205.120 ISK
-2. **deathlock2000** - 100.000.000 ISK
-3. **Paetrir Rantall** - 100.000.000 ISK
-4. **Kr0nK** - 90.000.000 ISK
-5. **Denali TheGreatOne** - 25.000.000 ISK
-6. **Riseing** - 10.000.000 ISK
-7. **Stueey Yaken** - 5.000.000 ISK
-8. **Parzon Hrungy** - 1.000.000 ISK
+1. **Sindarin Alliance** - 250.000.000 ISK
+2. **Eirellle** - 152.205.120 ISK
+3. **deathlock2000** - 100.000.000 ISK
+4. **Paetrir Rantall** - 100.000.000 ISK
+5. **Kr0nK** - 90.000.000 ISK
+6. **HotterThanYou2** - 50.000.000 ISK
+7. **Denali TheGreatOne** - 25.000.000 ISK
+8. **Riseing** - 10.000.000 ISK
+9. **Stueey Yaken** - 5.000.000 ISK
+10. **Parzon Hrungy** - 1.000.000 ISK

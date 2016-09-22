@@ -22,11 +22,10 @@
 > To fix it you need to open your "Overview Settings" window and cycle a few times between the menu tabs, this will force a resync.
 
 - ##### How to give you feedback?
-> The prefered method is to use the **Feedback Link** highlighted next to the **Green Text** both in the **MOTD** and the **Mailing List Welcoming Mail**.  
+> The prefered method is to use the **[Google Form Link](http://goo.gl/forms/h4rTeZCHNorqEsyx2)** next to the **Green Feedback Text**, both in the **MOTD** and the **Mailing List** welcoming mail.  
 > Other methods are:
 > - EVE-Mail **Zirio**.
-> - Write a comment on the **[Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)** thread.
-> - Message **Zirio** on **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/)**.
+> - Message **Zirio** on **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/)** or in-game.
 
 ### Will be featured in a future comprenhensive Overview Guide. (G)
 
