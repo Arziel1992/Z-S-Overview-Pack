@@ -78,70 +78,90 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 #### Screenshots
 ![Screenshots](/Images/screenshots.jpg "Screenshots")
 
-#### Preset list
-    ⌘ --- Brackets: All
-    ⌘ Brackets: Default
-    ⌘ Brackets: Hostile
-    ⌘ Brackets: None
-    ⌘ Brackets: Skirmirsh 
-    ➲ Extra: Align Points
-    ➲ Extra: Podsaver (!)
-    ✈ --- Travel: Basic
-    ✈ Travel: Hide Stations
-    ✈ Travel: Show All
-    ✜ --- PvE: Basic (+Dro)
-    ✜ --- PvE: Basic (-Dro)
-    ✜ PvE: Anoms
-    ✜ PvE: Incursion
-    ✜ PvE: Mining
-    ✜ PvE: Ratting
-    ✜ PvE: Salvage/Loot
-    ✥ --- PvP: Basic (+Neut +NPC)
-    ✥ --- PvP: Basic (+Neut -NPC)
-    ✥ --- PvP: Basic (-Neut +NPC)
-    ✥ --- PvP: Basic (-Neut -NPC)
-    ✥ --- PvP: FW
-    ✥ -- Ships only
-    ✥ = Bombing Warpouts
-    ✥ = Deployables
-    ✥ = NPSI
-    ✥ = Structures
-    ✥ = Wartargets
-    ✥ Target: Antibombers (!)
-    ✥ Target: Battlecruisers
-    ✥ Target: Battleships
-    ✥ Target: Caps
-    ✥ Target: Carriers
-    ✥ Target: Cmd Dest
-    ✥ Target: Cruisers
-    ✥ Target: CS/T3
-    ✥ Target: Dictors
-    ✥ Target: Dreads
-    ✥ Target: Drones
-    ✥ Target: Fax
-    ✥ Target: Fighters
-    ✥ Target: Frig/Dest
-    ✥ Target: Logistics
-    ✥ Target: Recons
-    ✥ Target: SC/T
-    ✥ Target: Supercarriers
-    ✥ Target: Titans
-    ✪ --- Friendly: All (+Dro)
-    ✪ --- Friendly: All (-Dro)
-    ✪ = Friendly: Fleet
-    ✪ Friendly: Capitals
-    ✪ Friendly: Carriers
-    ✪ Friendly: Dictors
-    ✪ Friendly: Dreads
-    ✪ Friendly: Logistic
-    ✪ Friendly: Recons
-    ✪ Friendly: SC/T
-    ※ --- D-Scan: All
-    ※ D-Scan: POS (+Cel +Mod)
-    ※ D-Scan: POS (+Cel -Mod)
-    ※ D-Scan: POS (-Cel +Mod)
-    ※ D-Scan: Ships (-Cel +Dro)
-    ※ D-Scan: Ships (-Cel -Dro)
+#### Packs, Layouts & Presets
+- Z-S Core
+
+        ⌘ --- Brackets: All
+        ⌘ Brackets: Default
+        ⌘ Brackets: Hostile
+        ⌘ Brackets: None
+        ⌘ Brackets: Skirmirsh 
+        ➲ Extra: Align Points
+        ✈ Travel: Hide Stations
+        ✈ Travel: Show All
+        ✜ --- PvE: Basic (+Dro)
+        ✪ = Friendly: Fleet
+        ※ --- D-Scan: All
+        ※ D-Scan: POS (+Cel +Mod)
+        ※ D-Scan: POS (+Cel -Mod)
+        ※ D-Scan: POS (-Cel +Mod)
+        ※ D-Scan: Ships (-Cel +Dro)
+        ※ D-Scan: Ships (-Cel -Dro)
+
+- Z-S Friendly Extended
+
+        ✪ --- Friendly: All (-Dro)
+        ✪ Friendly: Capitals
+        ✪ Friendly: Carriers
+        ✪ Friendly: Dictors
+        ✪ Friendly: Dreads
+        ✪ Friendly: Logistic
+        ✪ Friendly: Recons
+        ✪ Friendly: SC/T
+
+- Z-S PvE Extended
+
+        ✜ --- PvE: Basic (-Dro)
+        ✜ PvE: Anoms
+        ✜ PvE: Incursion
+        ✜ PvE: Mining
+        ✜ PvE: Ratting
+
+- Z-S PvP Basic
+
+        ✥ --- PvP: Basic (+Neut -NPC)
+        ✥ --- PvP: Basic (-Neut +NPC)
+        ✥ --- PvP: Basic (-Neut -NPC)
+        ✥ --- PvP: FW
+        ✥ -- Ships only
+        ✥ = Bombing Warpouts
+        ✥ = Deployables
+        ✥ = NPSI
+        ✥ = Structures
+        ✥ = Wartargets
+
+- Z-S PvP Extended (1/2)
+
+        ✥ Target: Antibombers (!)
+        ✥ Target: Battlecruisers
+        ✥ Target: Battleships
+        ✥ Target: Caps
+        ✥ Target: Carriers
+        ✥ Target: Cmd Dest
+        ✥ Target: Cruisers
+        ✥ Target: CS/T3
+        ✥ Target: Dictors
+        ✥ Target: Dreads
+
+- Z-S PvP Extended (2/2)
+
+        ✥ Target: Fax
+        ✥ Target: Fighters
+        ✥ Target: Frig/Dest
+        ✥ Target: Logistics
+        ✥ Target: Recons
+        ✥ Target: SC/T
+        ✥ Target: Supercarriers
+        ✥ Target: Titans
+
+- All 4 Layouts  (Standard 1 & 2-SBL, Compact 1 & 2-SBL)
+
+        ✈ --- Travel: Basic
+        ✥ --- PvP: Basic (+Neut +NPC)
+        ✥ Target: Drones
+        ✜ PvE: Salvage/Loot
+        ✪ --- Friendly: All (+Dro)
+        ➲ Extra: Podsaver (!)
 
 #### Nomenclature
     - Cel:  Celestial(s)
