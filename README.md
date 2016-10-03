@@ -14,9 +14,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v4.00.0002
+#### Current Version: v4.01.0805
 - For Release: **118.8**
-- Updated: **2016.09.14**
+- Updated: **2016.10.02**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
@@ -87,11 +87,15 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
         ⌘ Brackets: None
         ⌘ Brackets: Skirmirsh 
         ➲ Extra: Align Points
-        ✈ Travel: Hide Stations
-        ✈ Travel: Show All
+        ✈ Travel (+Ship -Sta)
+        ✈ Travel (-Ship +Sta)
         ✜ --- PvE: Basic (+Dro)
         ✪ = Friendly: Fleet
         ※ --- D-Scan: All
+
+- Z-S D-Scan Extended
+
+        ※ D-Scan: Hunter
         ※ D-Scan: POS (+Cel +Mod)
         ※ D-Scan: POS (+Cel -Mod)
         ※ D-Scan: POS (-Cel +Mod)
@@ -156,7 +160,7 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 
 - All 4 Layouts  (Standard 1 & 2-SBL, Compact 1 & 2-SBL)
 
-        ✈ --- Travel: Basic
+        ✈ --- Travel: All
         ✥ --- PvP: Basic (+Neut +NPC)
         ✥ Target: Drones
         ✜ PvE: Salvage/Loot
@@ -168,13 +172,14 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
     - Dro:  Drone(s) & Fighter(s)
     - Neut: Neutral(s)
     - NPC:  Rat(s) - Non-Player Character(s)
-    - Mod:  Module(s)    
+    - Mod:  Module(s)
+    - Sta:  Station(s) & Citadel(s)
 
 ## Important!
 
 ##### If you clone and/or fork the repository!
 - Starting from Version v2.66.2012, versioning has been standardized (more information on the **[Changelog](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)** file).  
-    - The inclusion of version tags and consistant numbering has been implemented, should allow to keep a better track of the modifications.  
+    - The inclusion of version tags and consistant numbering has been implemented, will allow to keep a better track of the modifications.  
 - If you plan to clone and/or fork the repository, it is recommended to do it from this version forward.  
 - Commit Squashing WILL NOT be done randomly from now on, so don't worry about an inconsistant history.  
     - If a Commit Squash happens, we'll notify all the cloners/forkers previously.  

@@ -19,6 +19,28 @@
 
 ##### --- Standard Versions ---
 
+##### Version v4.01.0805 - 118.8 - _Feedback follow-up_
+>1. Added new pack "Z-S D-Scan Extended"
+>2. Changed presets:
+    - All styled presets now have the default font size.
+    - "Brackets" presets now have the default color.
+    - Renamed "✈ Travel: Show All" to "✈ --- Travel: All"
+    - Added "✈ Travel (+Ship -Sta)"
+    - Added "✈ Travel (-Ship +Sta)"
+    - Added "※ D-Scan: Hunter"
+    - Removed "✈ --- Travel: Basic"
+    - Removed "✈ Travel: Hide Stations"
+>3. Updated presets:
+    - Added Celestial:
+        - "Wormhole" to:
+            - "➲ Extra: Align Points"
+            - "➲ Extra: Podsaver (!)"
+        - "Stargate" to:
+            - "➲ Extra: Align Points"
+    - Removed Celestial:
+        - "Moon" from:
+            - "✈ --- Travel: All"
+
 ##### Version v4.00.0002 - 118.8 - _New release_
 >1. Updated presets:
     - Added Entity:

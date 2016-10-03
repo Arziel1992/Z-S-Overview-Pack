@@ -10,8 +10,8 @@
 
 - ##### If I click "Save" to commit the changes, the preset name will not save properly.
 > Sadly the game has a character limit on the Name's input field in addition to some other restrictions:
-> - Character limit.
-> - Cannot input capital letters.
+> - ~~Character limit.~~ Increased from 40 to 80 on the September 2016 release.
+> - ~~Cannot input capital letters.~~ Added on the September 2016 release.
 > - Cannot input HTML tags (`<color>` & `<fontsize>`).
 > There is not an easy solution to this aside from saving as a new preset with default style and shorter name.  
 > The "not so easy" solution is to save the preset "as is", export the Overview Profile and edit the Preset name on the .YAML file directly.  
