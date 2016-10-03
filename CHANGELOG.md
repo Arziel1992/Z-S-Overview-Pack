@@ -23,7 +23,8 @@
 >1. Added new pack "Z-S D-Scan Extended"
 >2. Changed presets:
     - All styled presets now have the default font size.
-    - "Brackets" presets now have the default color.
+    - Styled "Brackets" presets now have the default color.
+        - Will allow the player to edit and save them without breaking the HTML tags.
     - Renamed "✈ Travel: Show All" to "✈ --- Travel: All"
     - Added "✈ Travel (+Ship -Sta)"
     - Added "✈ Travel (-Ship +Sta)"
