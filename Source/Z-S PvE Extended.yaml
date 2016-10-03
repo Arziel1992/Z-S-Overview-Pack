@@ -113,7 +113,7 @@ overviewColumns:
 - TYPE
 - VELOCITY
 presets:
-- - '<color=0xFFFD9666><fontsize=12>✜</fontsize> --- PvE: Basic (-Dro)</color>'
+- - '<color=0xFFFD9666>✜ --- PvE: Basic (-Dro)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -491,7 +491,7 @@ presets:
         - 1759
         - 1761
         - 1762
-- - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Anoms</color>'
+- - '<color=0xFFFD9666>✜ PvE: Anoms</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -862,7 +862,7 @@ presets:
         - 1759
         - 1761
         - 1762
-- - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Incursion</color>'
+- - '<color=0xFFFD9666>✜ PvE: Incursion</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -1178,7 +1178,7 @@ presets:
         - 1759
         - 1761
         - 1762
-- - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Mining</color>'
+- - '<color=0xFFFD9666>✜ PvE: Mining</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -1580,7 +1580,7 @@ presets:
         - 1759
         - 1761
         - 1762
-- - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Ratting</color>'
+- - '<color=0xFFFD9666>✜ PvE: Ratting</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -2063,14 +2063,14 @@ stateColorsNameList:
 tabSetup:
 - - 0
   - - - bracket
-      - '<color=0xFFFD9666><fontsize=12>✜</fontsize> --- PvE: Basic (-Dro)</color>'
+      - '<color=0xFFFD9666>✜ --- PvE: Basic (-Dro)</color>'
     - - name
       - ''
     - - overview
-      - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Anoms</color>'
+      - '<color=0xFFFD9666>✜ PvE: Anoms</color>'
 - - 1
   - - - bracket
-      - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Incursion</color>'
+      - '<color=0xFFFD9666>✜ PvE: Incursion</color>'
     - - name
       - '<fontsize=12><color=0xFF66CCFF><b> Z-S PvE Extended loaded! </b></color></fontsize>
 
@@ -2078,10 +2078,10 @@ tabSetup:
 
         <fontsize=12><color=0xFF66FF66><b> • Apply a Layout to finish </b></color></fontsize>'
     - - overview
-      - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Mining</color>'
+      - '<color=0xFFFD9666>✜ PvE: Mining</color>'
 - - 2
   - - - bracket
-      - '<color=0xFFFD9666><fontsize=12>✜</fontsize> PvE: Ratting</color>'
+      - '<color=0xFFFD9666>✜ PvE: Ratting</color>'
     - - name
       - ''
     - - overview
