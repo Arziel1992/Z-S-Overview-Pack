@@ -16,8 +16,9 @@ It's not just me developing the pack, it's all of us working together to reach t
 4. **Eirellle** - 152.205.120 ISK
 5. **deathlock2000** - 100.000.000 ISK
 6. **Paetrir Rantall** - 100.000.000 ISK
-7. **HotterThanYou2** - 50.000.000 ISK
-8. **Denali TheGreatOne** - 25.000.000 ISK
-9. **Riseing** - 10.000.000 ISK
-10. **Stueey Yaken** - 5.000.000 ISK
-11. **Parzon Hrungy** - 1.000.000 ISK
+7. **Ethan Zoromir** - 100.000.000 ISK
+8. **HotterThanYou2** - 50.000.000 ISK
+9. **Denali TheGreatOne** - 25.000.000 ISK
+10. **Riseing** - 10.000.000 ISK
+11. **Stueey Yaken** - 5.000.000 ISK
+12. **Parzon Hrungy** - 1.000.000 ISK

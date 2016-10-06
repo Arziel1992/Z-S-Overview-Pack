@@ -25,6 +25,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - Feedback: **[Here](http://goo.gl/forms/h4rTeZCHNorqEsyx2)**
 - Top Donators: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONATORS.md)**
 - FAQ (WIP): **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)**
+- Milestones: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/MILESTONES.md)**
 
 ## How to install
 Be sure to have a quick read of **EVE University's** Overview guide **[Here](http://wiki.eveuniversity.org/Overview_Guide)**, either to learn how everything works or have a reminder.
