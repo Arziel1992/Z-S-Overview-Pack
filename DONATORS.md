@@ -10,8 +10,8 @@ It's not just me developing the pack, it's all of us working together to reach t
 - And a special shout out to the players that thought I should be rewarded, thank you all very much!
 
 ## Top Donators
-1. **Alberdina** - 500.000.000 ISK
-2. **Kr0nK** - 260.000.000 ISK (First to donate!)
+1. **Kr0nK** - 510.000.000 ISK (First to donate!)
+2. **Alberdina** - 500.000.000 ISK
 3. **Sindarin Alliance** - 250.000.000 ISK
 4. **Eirellle** - 152.205.120 ISK
 5. **deathlock2000** - 100.000.000 ISK
@@ -19,6 +19,10 @@ It's not just me developing the pack, it's all of us working together to reach t
 7. **Ethan Zoromir** - 100.000.000 ISK
 8. **HotterThanYou2** - 50.000.000 ISK
 9. **Denali TheGreatOne** - 25.000.000 ISK
-10. **Riseing** - 10.000.000 ISK
-11. **Stueey Yaken** - 5.000.000 ISK
-12. **Parzon Hrungy** - 1.000.000 ISK
+10. **Mauger** - 25.000.000 ISK
+11. **Ultimate-Pilot Destiny** - 19.168.046 ISK
+12. **Dan Skord** - 13.000.000 ISK
+13. **Riseing** - 10.000.000 ISK
+14. **Stueey Yaken** - 5.000.000 ISK
+15. **Parzon Hrungy** - 1.000.000 ISK
+16. **Momoe Kawaguchi** - 500.000 ISK

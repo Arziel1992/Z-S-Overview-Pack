@@ -809,7 +809,7 @@ presets:
         - 1759
         - 1761
         - 1762
-- - '<color=0xFFFF6666>✥ Target: Drones</color>'
+- - '<color=0xFFD38FFD>✥ Target: Drones</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -1071,11 +1071,11 @@ tabSetup:
       - '<color=0xFFFF6666>✥ --- PvP: Basic (+Neut +NPC)</color>'
 - - 2
   - - - bracket
-      - '<color=0xFFFF6666>✥ Target: Drones</color>'
+      - '<color=0xFFD38FFD>✥ Target: Drones</color>'
     - - name
-      - '<fontsize=11><color=0xFFCC66FF><b> 3 </b></color></fontsize>'
+      - '<fontsize=11><color=0xFFD38FFD><b> 3 </b></color></fontsize>'
     - - overview
-      - '<color=0xFFFF6666>✥ Target: Drones</color>'
+      - '<color=0xFFD38FFD>✥ Target: Drones</color>'
 - - 3
   - - - bracket
       - '<color=0xFFFD9666>✜ PvE: Salvage/Loot</color>'

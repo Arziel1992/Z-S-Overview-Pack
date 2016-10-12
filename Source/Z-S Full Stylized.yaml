@@ -6382,7 +6382,7 @@ presets:
         - 1527
         - 1534
         - 1538
-- - '<color=0xFFFF6666>✥ Target: Antibombers (!)</color>'
+- - '<color=0xFFD38FFD>✥ Target: Antibombers (!)</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -6394,7 +6394,7 @@ presets:
         - 49
     - - groups
       - - 834
-- - '<color=0xFFFF6666>✥ Target: Battlecruisers</color>'
+- - '<color=0xFFD38FFD>✥ Target: Battlecruisers</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -6411,7 +6411,7 @@ presets:
         - 863
         - 864
         - 1201
-- - '<color=0xFFFF6666>✥ Target: Battleships</color>'
+- - '<color=0xFFD38FFD>✥ Target: Battleships</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -6429,7 +6429,7 @@ presets:
         - 864
         - 898
         - 900
-- - '<color=0xFFFF6666>✥ Target: Caps</color>'
+- - '<color=0xFFD38FFD>✥ Target: Caps</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6454,7 +6454,7 @@ presets:
         - 902
         - 941
         - 1538
-- - '<color=0xFFFF6666>✥ Target: Carriers</color>'
+- - '<color=0xFFD38FFD>✥ Target: Carriers</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6471,7 +6471,7 @@ presets:
         - 547
         - 863
         - 864
-- - '<color=0xFFFF6666>✥ Target: Cmd Dest</color>'
+- - '<color=0xFFD38FFD>✥ Target: Cmd Dest</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6488,7 +6488,7 @@ presets:
         - 863
         - 864
         - 1534
-- - '<color=0xFFFF6666>✥ Target: Cruisers</color>'
+- - '<color=0xFFD38FFD>✥ Target: Cruisers</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6511,7 +6511,7 @@ presets:
         - 894
         - 906
         - 963
-- - '<color=0xFFFF6666>✥ Target: CS/T3</color>'
+- - '<color=0xFFD38FFD>✥ Target: CS/T3</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6529,7 +6529,7 @@ presets:
         - 863
         - 864
         - 963
-- - '<color=0xFFFF6666>✥ Target: Dictors</color>'
+- - '<color=0xFFD38FFD>✥ Target: Dictors</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -6547,7 +6547,7 @@ presets:
         - 863
         - 864
         - 894
-- - '<color=0xFFFF6666>✥ Target: Dreads</color>'
+- - '<color=0xFFD38FFD>✥ Target: Dreads</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -6562,7 +6562,7 @@ presets:
         - 485
         - 863
         - 864
-- - '<color=0xFFFF6666>✥ Target: Drones</color>'
+- - '<color=0xFFD38FFD>✥ Target: Drones</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6590,7 +6590,7 @@ presets:
         - 1537
         - 1652
         - 1653
-- - '<color=0xFFFF6666>✥ Target: Fax</color>'
+- - '<color=0xFFD38FFD>✥ Target: Fax</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6607,7 +6607,7 @@ presets:
         - 863
         - 864
         - 1538
-- - '<color=0xFFFF6666>✥ Target: Fighters</color>'
+- - '<color=0xFFD38FFD>✥ Target: Fighters</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6628,7 +6628,7 @@ presets:
         - 1537
         - 1652
         - 1653
-- - '<color=0xFFFF6666>✥ Target: Frig/Dest</color>'
+- - '<color=0xFFD38FFD>✥ Target: Frig/Dest</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6659,7 +6659,7 @@ presets:
         - 1305
         - 1527
         - 1534
-- - '<color=0xFFFF6666>✥ Target: Logistics</color>'
+- - '<color=0xFFD38FFD>✥ Target: Logistics</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6678,7 +6678,7 @@ presets:
         - 864
         - 1527
         - 1538
-- - '<color=0xFFFF6666>✥ Target: Recons</color>'
+- - '<color=0xFFD38FFD>✥ Target: Recons</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -6694,7 +6694,7 @@ presets:
         - 863
         - 864
         - 906
-- - '<color=0xFFFF6666>✥ Target: SC/T</color>'
+- - '<color=0xFFD38FFD>✥ Target: SC/T</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -6710,7 +6710,7 @@ presets:
         - 659
         - 863
         - 864
-- - '<color=0xFFFF6666>✥ Target: Supercarriers</color>'
+- - '<color=0xFFD38FFD>✥ Target: Supercarriers</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -6725,7 +6725,7 @@ presets:
         - 659
         - 863
         - 864
-- - '<color=0xFFFF6666>✥ Target: Titans</color>'
+- - '<color=0xFFD38FFD>✥ Target: Titans</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -7922,11 +7922,11 @@ tabSetup:
       - '<color=0xFFFF6666>✥ --- PvP: Basic (+Neut +NPC)</color>'
 - - 2
   - - - bracket
-      - '<color=0xFFFF6666>✥ Target: Drones</color>'
+      - '<color=0xFFD38FFD>✥ Target: Drones</color>'
     - - name
-      - '<fontsize=11><color=0xFFCC66FF><b>  Drones  </b></color></fontsize>'
+      - '<fontsize=11><color=0xFFD38FFD><b>  Targets  </b></color></fontsize>'
     - - overview
-      - '<color=0xFFFF6666>✥ Target: Drones</color>'
+      - '<color=0xFFD38FFD>✥ Target: Drones</color>'
 - - 3
   - - - bracket
       - '<color=0xFFFD9666>✜ PvE: Salvage/Loot</color>'

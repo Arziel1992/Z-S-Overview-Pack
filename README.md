@@ -15,7 +15,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - Color-coded presets by category for improved ease of selection.
 
 #### Current Version: v4.01.0805
-- For Release: **118.8**
+- For Release: **118.9**
 - Updated: **2016.10.02**
 
 #### Links
