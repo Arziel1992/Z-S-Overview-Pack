@@ -7924,7 +7924,7 @@ tabSetup:
   - - - bracket
       - '✥ Target: Drones'
     - - name
-      - '<fontsize=11><color=0xFFCC66FF><b>  Drones  </b></color></fontsize>'
+      - '<fontsize=11><color=0xFFD38FFD><b>  Targets  </b></color></fontsize>'
     - - overview
       - '✥ Target: Drones'
 - - 3
