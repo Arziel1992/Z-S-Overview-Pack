@@ -14,9 +14,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v4.01.0805
+#### Current Version: v4.03.1114
 - For Release: **118.9**
-- Updated: **2016.10.02**
+- Updated: **2016.10.15**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
@@ -96,12 +96,12 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 
 - Z-S D-Scan Extended
 
-        ※ D-Scan: Hunter
+        ※ D-Scan: Hunter                Offense
         ※ D-Scan: POS (+Cel +Mod)
         ※ D-Scan: POS (+Cel -Mod)
         ※ D-Scan: POS (-Cel +Mod)
-        ※ D-Scan: Ships (-Cel +Dro)
-        ※ D-Scan: Ships (-Cel -Dro)
+        ※ D-Scan: Ships (-Cel +Dro)     Defense
+        ※ D-Scan: Ships (-Cel -Dro)     Defense
 
 - Z-S Friendly Extended
 
@@ -127,13 +127,15 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
         ✥ --- PvP: Basic (+Neut -NPC)
         ✥ --- PvP: Basic (-Neut +NPC)
         ✥ --- PvP: Basic (-Neut -NPC)
-        ✥ --- PvP: FW
         ✥ -- Ships only
         ✥ = Bombing Warpouts
         ✥ = Deployables
         ✥ = NPSI
         ✥ = Structures
         ✥ = Wartargets
+        ✥ PvP: Exploring
+        ✥ PvP: FW
+        ✥ PvP: PI
 
 - Z-S PvP Extended (1/2)
 
@@ -159,7 +161,7 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
         ✥ Target: Supercarriers
         ✥ Target: Titans
 
-- All 4 Layouts  (Standard 1 & 2-SBL, Compact 1 & 2-SBL)
+- All 4 Layouts  (Standard 2BL & 1BL, Compact 2BL & 1BL)
 
         ✈ --- Travel: All
         ✥ --- PvP: Basic (+Neut +NPC)
@@ -176,14 +178,17 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
     - Mod:  Module(s)
     - Sta:  Station(s) & Citadel(s)
 
+#### Pack colors
+![Colors](/Images/colors.jpg "Colors")
+
 ## Important!
 
 ##### If you clone and/or fork the repository!
 - Starting from Version v2.66.2012, versioning has been standardized (more information on the **[Changelog](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)** file).  
     - The inclusion of version tags and consistant numbering has been implemented, will allow to keep a better track of the modifications.  
 - If you plan to clone and/or fork the repository, it is recommended to do it from this version forward.  
-- Commit Squashing WILL NOT be done randomly from now on, so don't worry about an inconsistant history.  
-    - If a Commit Squash happens, we'll notify all the cloners/forkers previously.  
+- Commit Squashing WILL NOT be done randomly from now on, so don't worry about an inconsistent history.  
+    - If a Commit Squash happens, we will notify all the cloners/forkers with anticipation.  
     - Please send an in-game mail to **Zirio** notifying him that you are a cloner/forker so he can notify you back in case of a Commit Squash.  
 
 ## License  
