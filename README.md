@@ -14,9 +14,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v4.03.1114
+#### Current Version: v4.04.2820
 - For Release: **118.9**
-- Updated: **2016.10.15**
+- Updated: **2016.10.20**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
@@ -82,11 +82,11 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 #### Packs, Layouts & Presets
 - Z-S Core
 
-        ⌘ --- Brackets: All
-        ⌘ Brackets: Default
-        ⌘ Brackets: Hostile
-        ⌘ Brackets: None
-        ⌘ Brackets: Skirmirsh 
+        ⌘ Brackets: Combat/Targets/Friendly (+Dro)
+        ⌘ Brackets: Combat/Targets/Friendly (-Dro)
+        ⌘ Brackets: Misc
+        ⌘ Brackets: Travel
+        ⌘ Brackets: Warpout (!)
         ➲ Extra: Align Points
         ✈ Travel (+Ship -Sta)
         ✈ Travel (-Ship +Sta)
@@ -96,16 +96,17 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 
 - Z-S D-Scan Extended
 
-        ※ D-Scan: Hunter                Offense
+        ※ D-Scan: Hunter (+Dro / Offensive) Offense
+        ※ D-Scan: Hunter (-Dro / Offensive) Offense
         ※ D-Scan: POS (+Cel +Mod)
         ※ D-Scan: POS (+Cel -Mod)
         ※ D-Scan: POS (-Cel +Mod)
-        ※ D-Scan: Ships (-Cel +Dro)     Defense
-        ※ D-Scan: Ships (-Cel -Dro)     Defense
+        ※ D-Scan: Ships (+Dro / Defensive)  Defense
+        ※ D-Scan: Ships (-Dro / Defensive)  Defense
 
 - Z-S Friendly Extended
 
-        ✪ --- Friendly: All (-Dro)
+        ✪ --- Friendly: All (+Dro)
         ✪ Friendly: Capitals
         ✪ Friendly: Carriers
         ✪ Friendly: Dictors
@@ -167,7 +168,7 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
         ✥ --- PvP: Basic (+Neut +NPC)
         ✥ Target: Drones
         ✜ PvE: Salvage/Loot
-        ✪ --- Friendly: All (+Dro)
+        ✪ --- Friendly: All (-Dro)
         ➲ Extra: Podsaver (!)
 
 #### Nomenclature
@@ -177,6 +178,8 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
     - NPC:  Rat(s) - Non-Player Character(s)
     - Mod:  Module(s)
     - Sta:  Station(s) & Citadel(s)
+    - Offensive:    
+    - Defensive:    
 
 #### Pack colors
 ![Colors](/Images/colors.jpg "Colors")

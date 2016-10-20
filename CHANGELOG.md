@@ -19,7 +19,63 @@
 
 ##### --- Standard Versions ---
 
-##### Version v4.03.1114 - 118.9 - _Feedback follow-up & 118.9 tweaks_
+##### Version v4.04.2820 - 118.9 - _Critical fixes & additions_
+>1. Changed tab colors:
+    - "Targets" tab color to orange (#FD9666)
+    - "Misc" tab color to purple (#D38FFD)
+>2. Changed "Friendly" tab main preset from "✪ --- Friendly: All (+Dro)" to "✪ --- Friendly: All (-Dro)"
+>3. Changed preset colors:
+    - All "✜ PvE" presets to yellow (#FFFF66)
+    - All "✥ Target" presets to orange (#FD9666)
+>4. Changed presets:
+    - Renamed "※ D-Scan: Hunter" to "※ D-Scan: Hunter (+Dro / Offensive)"
+    - Renamed "※ D-Scan: Ships (-Cel +Dro)" to "※ D-Scan: Ships (+Dro / Defensive)"
+    - Renamed "※ D-Scan: Ships (-Cel -Dro)" to "※ D-Scan: Ships (-Dro / Defensive)"
+    - Added "⌘ Brackets: Combat/Targets/Friendly (+Dro)"
+        - Focuses on combat-related entities and NPC's, player ships regardless of standing.
+    - Added "⌘ Brackets: Combat/Targets/Friendly (-Dro)"
+        - Focuses on combat-related entities and NPC's, player ships regardless of standing, and drones.
+    - Added "⌘ Brackets: Misc"
+        - Includes most available entities and asteroids to be used with almost any preset.
+    - Added "⌘ Brackets: Travel"
+        - Focuses on travel-related brackets, including ships and entities that could present a threat depending on location/security status.
+    - Added "⌘ Brackets: Warpout (!)"
+        - Includes mostly celestial align points for escape.
+    - Added "※ D-Scan: Hunter (-Dro / Offensive)"
+    - Removed "⌘ --- Brackets: All"
+    - Removed "⌘ Brackets: Default"
+    - Removed "⌘ Brackets: Hostile"
+    - Removed "⌘ Brackets: None"
+    - Removed "⌘ Brackets: Skirmirsh"
+>5. Updated presets:
+    - Removed Celestial:
+        - "Stargate" to:
+            - "✪ --- Friendly: All (+Dro)"
+            - "✪ --- Friendly: All (-Dro)"
+            - "✪ = Friendly: Fleet"
+        - "Warp Gate" to:
+            - "✪ --- Friendly: All (+Dro)"
+            - "✪ --- Friendly: All (-Dro)"
+            - "✪ = Friendly: Fleet"
+        - "Wormhole" to:
+            - "✪ --- Friendly: All (+Dro)"
+            - "✪ --- Friendly: All (-Dro)"
+            - "✪ = Friendly: Fleet"
+    - Added Entity:
+        - "Large Collidable Structure" to:
+            - "✜ PvE: Incursion"
+    - Removed Celestial:
+        - "Large Collidable Object" from:
+            - "✜ PvE: Incursion"
+        - "Force Field" from:
+            - "✥ --- PvP: Basic (+Neut +NPC)"
+            - "✥ --- PvP: Basic (+Neut -NPC)"
+            - "✥ --- PvP: Basic (-Neut +NPC)"
+            - "✥ --- PvP: Basic (-Neut -NPC)"
+            - "※ D-Scan: Ships (+Dro / Defensive)  Defense"
+            - "※ D-Scan: Ships (-Dro / Defensive)  Defense"
+
+##### Version v4.02.1214 - 118.9 - _Feedback follow-up & 118.9 tweaks_
 >1. The "Drones" tab is now called "Targets".
     - Changed its color to a brighter purple (#D38FFD), it can be read more easily.
 >2. All "✥ Target" presets now have a new purple (#D38FFD) color to identify them more easily and be consistent with the Tab renaming and recoloring in point 1. 
@@ -28,8 +84,8 @@
     - Added "✥ PvP: Exploring"
     - Added "✥ PvP: PI"
 >3. Updated presets:
-    - Added Entity:
-        - "Large Collidable Structure" to:
+    - Added Celestial:
+        - "Large Collidable Object" to:
             - "✜ PvE: Incursion"
     - Removed Celestial:
         - "Entosis Command Node" from:
