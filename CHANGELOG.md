@@ -2,8 +2,8 @@
 
 >##### How to read versions:
 >- A.BB.XXYY - NAME
-	- A	= Game update - Sub-Classification Reset
-		- **Only if** overview entity types and/or visual states are affected.
+	- A	= New game release - Sub-Classification Reset
+		- **Only if** new entity types and/or visual states are added and affect the pack significantly.
         - **Or** sub-classifications reach the max count (99).
 		- Resets version sub-classifications to 0 (ex. v3.00.0000).
 	- BB = Pack and Layout deployment changes
@@ -18,6 +18,39 @@
 	- NAME = Shout out to the circumstance(s) and/or player(s) that provided the most feedback during the version development.
 
 ##### --- Standard Versions ---
+
+##### Version v4.03.1114 - 118.9 - _Feedback follow-up & 118.9 tweaks_
+>1. The "Drones" tab is now called "Targets".
+    - Changed its color to a brighter purple (#D38FFD), it can be read more easily.
+>2. All "✥ Target" presets now have a new purple (#D38FFD) color to identify them more easily and be consistent with the Tab renaming and recoloring in point 1. 
+>2. Changed presets:
+    - Renamed "✥ --- PvP: FW" to"✥ PvP: FW"
+    - Added "✥ PvP: Exploring"
+    - Added "✥ PvP: PI"
+>3. Updated presets:
+    - Added Entity:
+        - "Large Collidable Structure" to:
+            - "✜ PvE: Incursion"
+    - Removed Celestial:
+        - "Entosis Command Node" from:
+            - "✜ PvE: Mining"
+    - Removed Entity:
+        - All FW entities from:
+            - "✜ PvE: Mining"
+        - All Mission entities from:
+            - "✜ PvE: Mining"
+        - "Deadspace Sleeper Upgraded Avenger" from:
+            - "✜ PvE: Mining"
+        - "Event Container" from:
+            - "✜ PvE: Mining"
+        - "Scatter Container" from:
+            - "✜ PvE: Mining"
+    - Removed NPC:
+        - "Mission NPC" from:
+            - "✜ PvE: Mining"
+    - Removed Sovereignty Structures:
+        - All from:
+            - "✜ PvE: Mining"
 
 ##### Version v4.01.0805 - 118.8 - _Feedback follow-up_
 >1. Added new pack "Z-S D-Scan Extended"
