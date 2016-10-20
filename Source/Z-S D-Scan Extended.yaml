@@ -113,7 +113,7 @@ overviewColumns:
 - TYPE
 - VELOCITY
 presets:
-- - '<color=0xFFFD96CF>※ D-Scan: Hunter</color>'
+- - '<color=0xFFFD96CF>※ D-Scan: Hunter (+Dro / Offensive)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -195,6 +195,79 @@ presets:
         - 1538
         - 1652
         - 1653
+        - 1657
+- - '<color=0xFFFD96CF>※ D-Scan: Hunter (-Dro / Offensive)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 14
+        - 25
+        - 26
+        - 27
+        - 28
+        - 29
+        - 30
+        - 31
+        - 186
+        - 237
+        - 324
+        - 358
+        - 361
+        - 365
+        - 380
+        - 381
+        - 411
+        - 419
+        - 420
+        - 463
+        - 479
+        - 485
+        - 513
+        - 540
+        - 541
+        - 543
+        - 547
+        - 548
+        - 659
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 883
+        - 893
+        - 894
+        - 898
+        - 900
+        - 902
+        - 906
+        - 941
+        - 963
+        - 1022
+        - 1149
+        - 1201
+        - 1202
+        - 1246
+        - 1247
+        - 1249
+        - 1250
+        - 1273
+        - 1275
+        - 1276
+        - 1283
+        - 1305
+        - 1404
+        - 1405
+        - 1406
+        - 1407
+        - 1408
+        - 1409
+        - 1410
+        - 1527
+        - 1534
+        - 1538
         - 1657
 - - '<color=0xFFFD96CF>※ D-Scan: POS (+Cel +Mods)</color>'
   - - - alwaysShownStates
@@ -352,7 +425,7 @@ presets:
         - 1408
         - 1409
         - 1410
-- - '<color=0xFFFD96CF>※ D-Scan: Ships (-Cel +Dro)</color>'
+- - '<color=0xFFFD96CF>※ D-Scan: Ships (+Dro / Defensive)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -373,7 +446,6 @@ presets:
         - 365
         - 380
         - 381
-        - 411
         - 419
         - 420
         - 463
@@ -425,7 +497,7 @@ presets:
         - 1652
         - 1653
         - 1657
-- - '<color=0xFFFD96CF>※ D-Scan: Ships (-Cel -Dro)</color>'
+- - '<color=0xFFFD96CF>※ D-Scan: Ships (-Dro / Defensive)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -445,7 +517,6 @@ presets:
         - 365
         - 380
         - 381
-        - 411
         - 419
         - 420
         - 463
@@ -601,14 +672,14 @@ stateColorsNameList:
 tabSetup:
 - - 0
   - - - bracket
-      - '<color=0xFFFD96CF>※ D-Scan: Hunter</color>'
+      - '<color=0xFFFD96CF>※ D-Scan: Hunter (+Dro / Offensive)</color>'
     - - name
       - ''
     - - overview
-      - '<color=0xFFFD96CF>※ D-Scan: POS (+Cel +Mods)</color>'
+      - '<color=0xFFFD96CF>※ D-Scan: Hunter (-Dro / Offensive)</color>'
 - - 1
   - - - bracket
-      - '<color=0xFFFD96CF>※ D-Scan: POS (+Cel -Mods)</color>'
+      - '<color=0xFFFD96CF>※ D-Scan: POS (+Cel +Mods)</color>'
     - - name
       - '<fontsize=12><color=0xFF66CCFF><b> Z-S D-Scan Extended loaded! </b></color></fontsize>
 
@@ -616,14 +687,21 @@ tabSetup:
 
         <fontsize=12><color=0xFF66FF66><b> • Apply a Layout to finish </b></color></fontsize>'
     - - overview
-      - '<color=0xFFFD96CF>※ D-Scan: POS (-Cel +Mods)</color>'
+      - '<color=0xFFFD96CF>※ D-Scan: POS (+Cel -Mods)</color>'
 - - 2
   - - - bracket
-      - '<color=0xFFFD96CF>※ D-Scan: Ships (-Cel +Dro)</color>'
+      - '<color=0xFFFD96CF>※ D-Scan: POS (-Cel +Mods)</color>'
     - - name
       - ''
     - - overview
-      - '<color=0xFFFD96CF>※ D-Scan: Ships (-Cel -Dro)</color>'
+      - '<color=0xFFFD96CF>※ D-Scan: Ships (+Dro / Defensive)</color>'
+- - 3
+  - - - bracket
+      - '<color=0xFFFD96CF>※ D-Scan: Ships (-Dro / Defensive)</color>'
+    - - name
+      - ''
+    - - overview
+      - ''
 userSettings:
 - - applyOnlyToShips
   - false

@@ -113,7 +113,7 @@ overviewColumns:
 - TYPE
 - VELOCITY
 presets:
-- - '<color=0xFF66CCFF>✪ --- Friendly: All (-Dro)</color>'
+- - '<color=0xFF66CCFF>✪ --- Friendly: All (+Dro)</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -141,6 +141,7 @@ presets:
         - 53
     - - groups
       - - 6
+        - 10
         - 15
         - 25
         - 26
@@ -150,12 +151,15 @@ presets:
         - 30
         - 31
         - 90
+        - 100
+        - 101
         - 237
         - 310
         - 324
         - 358
         - 361
         - 365
+        - 366
         - 380
         - 381
         - 419
@@ -168,8 +172,12 @@ presets:
         - 540
         - 541
         - 543
+        - 544
         - 547
         - 548
+        - 639
+        - 640
+        - 641
         - 659
         - 707
         - 830
@@ -194,11 +202,13 @@ presets:
         - 925
         - 941
         - 963
+        - 988
         - 1003
         - 1005
         - 1012
         - 1022
         - 1149
+        - 1159
         - 1201
         - 1202
         - 1246
@@ -212,7 +222,10 @@ presets:
         - 1316
         - 1527
         - 1534
+        - 1537
         - 1538
+        - 1652
+        - 1653
         - 1657
 - - '<color=0xFF66CCFF>✪ Friendly: Capitals</color>'
   - - - alwaysShownStates
@@ -588,7 +601,7 @@ stateColorsNameList:
 tabSetup:
 - - 0
   - - - bracket
-      - '<color=0xFF66CCFF>✪ --- Friendly: All (-Dro)</color>'
+      - '<color=0xFF66CCFF>✪ --- Friendly: All (+Dro)</color>'
     - - name
       - ''
     - - overview

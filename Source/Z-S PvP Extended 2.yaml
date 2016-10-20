@@ -113,7 +113,7 @@ overviewColumns:
 - TYPE
 - VELOCITY
 presets:
-- - '<color=0xFFD38FFD>✥ Target: Fax</color>'
+- - '<color=0xFFFD9666>✥ Target: Fax</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -130,7 +130,7 @@ presets:
         - 863
         - 864
         - 1538
-- - '<color=0xFFD38FFD>✥ Target: Fighters</color>'
+- - '<color=0xFFFD9666>✥ Target: Fighters</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -151,7 +151,7 @@ presets:
         - 1537
         - 1652
         - 1653
-- - '<color=0xFFD38FFD>✥ Target: Frig/Dest</color>'
+- - '<color=0xFFFD9666>✥ Target: Frig/Dest</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -182,7 +182,7 @@ presets:
         - 1305
         - 1527
         - 1534
-- - '<color=0xFFD38FFD>✥ Target: Logistics</color>'
+- - '<color=0xFFFD9666>✥ Target: Logistics</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -201,7 +201,7 @@ presets:
         - 864
         - 1527
         - 1538
-- - '<color=0xFFD38FFD>✥ Target: Recons</color>'
+- - '<color=0xFFFD9666>✥ Target: Recons</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -217,7 +217,7 @@ presets:
         - 863
         - 864
         - 906
-- - '<color=0xFFD38FFD>✥ Target: SC/T</color>'
+- - '<color=0xFFFD9666>✥ Target: SC/T</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -233,7 +233,7 @@ presets:
         - 659
         - 863
         - 864
-- - '<color=0xFFD38FFD>✥ Target: Supercarriers</color>'
+- - '<color=0xFFFD9666>✥ Target: Supercarriers</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -248,7 +248,7 @@ presets:
         - 659
         - 863
         - 864
-- - '<color=0xFFD38FFD>✥ Target: Titans</color>'
+- - '<color=0xFFFD9666>✥ Target: Titans</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -374,14 +374,14 @@ stateColorsNameList:
 tabSetup:
 - - 0
   - - - bracket
-      - '<color=0xFFD38FFD>✥ Target: Fax</color>'
+      - '<color=0xFFFD9666>✥ Target: Fax</color>'
     - - name
       - ''
     - - overview
-      - '<color=0xFFD38FFD>✥ Target: Fighters</color>'
+      - '<color=0xFFFD9666>✥ Target: Fighters</color>'
 - - 1
   - - - bracket
-      - '<color=0xFFD38FFD>✥ Target: Frig/Dest</color>'
+      - '<color=0xFFFD9666>✥ Target: Frig/Dest</color>'
     - - name
       - '<fontsize=12><color=0xFF66CCFF><b> Z-S PvP Extended (2/2) loaded! </b></color></fontsize>
 
@@ -389,21 +389,21 @@ tabSetup:
 
         <fontsize=12><color=0xFF66FF66><b> • Apply a Layout to finish </b></color></fontsize>'
     - - overview
-      - '<color=0xFFD38FFD>✥ Target: Logistics</color>'
+      - '<color=0xFFFD9666>✥ Target: Logistics</color>'
 - - 2
   - - - bracket
-      - '<color=0xFFD38FFD>✥ Target: Recons</color>'
+      - '<color=0xFFFD9666>✥ Target: Recons</color>'
     - - name
       - ''
     - - overview
-      - '<color=0xFFD38FFD>✥ Target: SC/T</color>'
+      - '<color=0xFFFD9666>✥ Target: SC/T</color>'
 - - 3
   - - - bracket
-      - '<color=0xFFD38FFD>✥ Target: Supercarriers</color>'
+      - '<color=0xFFFD9666>✥ Target: Supercarriers</color>'
     - - name
       - ''
     - - overview
-      - '<color=0xFFD38FFD>✥ Target: Titans</color>'
+      - '<color=0xFFFD9666>✥ Target: Titans</color>'
 userSettings:
 - - applyOnlyToShips
   - false
