@@ -96,13 +96,13 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 
 - Z-S D-Scan Extended
 
-        ※ D-Scan: Hunter (+Dro / Offensive) Offense
-        ※ D-Scan: Hunter (-Dro / Offensive) Offense
+        ※ D-Scan: Hunter (+Dro / Offensive)
+        ※ D-Scan: Hunter (-Dro / Offensive)
         ※ D-Scan: POS (+Cel +Mod)
         ※ D-Scan: POS (+Cel -Mod)
         ※ D-Scan: POS (-Cel +Mod)
-        ※ D-Scan: Ships (+Dro / Defensive)  Defense
-        ※ D-Scan: Ships (-Dro / Defensive)  Defense
+        ※ D-Scan: Ships (+Dro / Defensive)
+        ※ D-Scan: Ships (-Dro / Defensive)
 
 - Z-S Friendly Extended
 
