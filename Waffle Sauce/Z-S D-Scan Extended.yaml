@@ -1,0 +1,709 @@
+backgroundOrder:
+- 13
+- 44
+- 52
+- 11
+- 12
+- 14
+- 15
+- 16
+- 45
+- 49
+- 19
+- 18
+- 9
+- 51
+- 50
+- 53
+- 10
+- 20
+- 21
+- 17
+- 48
+backgroundStates:
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+- 53
+columnOrder:
+- ICON
+- TAG
+- DISTANCE
+- NAME
+- TYPE
+- ALLIANCE
+- CORPORATION
+- FACTION
+- MILITIA
+- SIZE
+- VELOCITY
+- RADIALVELOCITY
+- TRANSVERSALVELOCITY
+- ANGULARVELOCITY
+flagOrder:
+- 13
+- 44
+- 52
+- 11
+- 12
+- 14
+- 15
+- 16
+- 45
+- 9
+- 51
+- 50
+- 53
+- 19
+- 18
+- 49
+- 10
+- 17
+- 48
+- 21
+- 20
+flagStates:
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+- 53
+overviewColumns:
+- ALLIANCE
+- ANGULARVELOCITY
+- CORPORATION
+- DISTANCE
+- ICON
+- NAME
+- TAG
+- TRANSVERSALVELOCITY
+- TYPE
+- VELOCITY
+presets:
+- - '<color=0xFFFD96CF>※ D-Scan: Hunter (+Dro / Offensive)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 14
+        - 25
+        - 26
+        - 27
+        - 28
+        - 29
+        - 30
+        - 31
+        - 100
+        - 101
+        - 186
+        - 237
+        - 324
+        - 358
+        - 361
+        - 365
+        - 380
+        - 381
+        - 411
+        - 419
+        - 420
+        - 463
+        - 479
+        - 485
+        - 513
+        - 540
+        - 541
+        - 543
+        - 544
+        - 547
+        - 548
+        - 639
+        - 640
+        - 641
+        - 659
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 883
+        - 893
+        - 894
+        - 898
+        - 900
+        - 902
+        - 906
+        - 941
+        - 963
+        - 1022
+        - 1149
+        - 1159
+        - 1201
+        - 1202
+        - 1246
+        - 1247
+        - 1249
+        - 1250
+        - 1273
+        - 1275
+        - 1276
+        - 1283
+        - 1305
+        - 1404
+        - 1405
+        - 1406
+        - 1407
+        - 1408
+        - 1409
+        - 1410
+        - 1527
+        - 1534
+        - 1537
+        - 1538
+        - 1652
+        - 1653
+        - 1657
+- - '<color=0xFFFD96CF>※ D-Scan: Hunter (-Dro / Offensive)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 14
+        - 25
+        - 26
+        - 27
+        - 28
+        - 29
+        - 30
+        - 31
+        - 186
+        - 237
+        - 324
+        - 358
+        - 361
+        - 365
+        - 380
+        - 381
+        - 411
+        - 419
+        - 420
+        - 463
+        - 479
+        - 485
+        - 513
+        - 540
+        - 541
+        - 543
+        - 547
+        - 548
+        - 659
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 883
+        - 893
+        - 894
+        - 898
+        - 900
+        - 902
+        - 906
+        - 941
+        - 963
+        - 1022
+        - 1149
+        - 1201
+        - 1202
+        - 1246
+        - 1247
+        - 1249
+        - 1250
+        - 1273
+        - 1275
+        - 1276
+        - 1283
+        - 1305
+        - 1404
+        - 1405
+        - 1406
+        - 1407
+        - 1408
+        - 1409
+        - 1410
+        - 1527
+        - 1534
+        - 1538
+        - 1657
+- - '<color=0xFFFD96CF>※ D-Scan: POS (+Cel +Mods)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 6
+        - 7
+        - 8
+        - 90
+        - 307
+        - 311
+        - 336
+        - 361
+        - 363
+        - 365
+        - 366
+        - 397
+        - 404
+        - 411
+        - 413
+        - 416
+        - 417
+        - 426
+        - 430
+        - 438
+        - 439
+        - 440
+        - 441
+        - 443
+        - 444
+        - 448
+        - 449
+        - 471
+        - 473
+        - 479
+        - 548
+        - 549
+        - 649
+        - 707
+        - 709
+        - 835
+        - 836
+        - 837
+        - 838
+        - 839
+        - 863
+        - 864
+        - 874
+        - 988
+        - 1023
+        - 1071
+        - 1073
+        - 1081
+        - 1082
+        - 1149
+        - 1211
+        - 1212
+        - 1247
+        - 1282
+- - '<color=0xFFFD96CF>※ D-Scan: POS (+Cel -Mods)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 6
+        - 7
+        - 8
+        - 90
+        - 307
+        - 336
+        - 361
+        - 365
+        - 366
+        - 411
+        - 416
+        - 417
+        - 426
+        - 430
+        - 439
+        - 440
+        - 441
+        - 443
+        - 444
+        - 448
+        - 449
+        - 473
+        - 479
+        - 548
+        - 549
+        - 649
+        - 707
+        - 709
+        - 835
+        - 836
+        - 838
+        - 839
+        - 863
+        - 864
+        - 874
+        - 988
+        - 1023
+        - 1071
+        - 1073
+        - 1081
+        - 1082
+        - 1149
+        - 1247
+- - '<color=0xFFFD96CF>※ D-Scan: POS (-Cel +Mods)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 90
+        - 311
+        - 361
+        - 363
+        - 365
+        - 397
+        - 404
+        - 413
+        - 416
+        - 417
+        - 426
+        - 430
+        - 438
+        - 439
+        - 440
+        - 441
+        - 443
+        - 444
+        - 449
+        - 471
+        - 473
+        - 479
+        - 548
+        - 707
+        - 709
+        - 837
+        - 838
+        - 839
+        - 863
+        - 864
+        - 1149
+        - 1212
+        - 1249
+        - 1282
+        - 1404
+        - 1405
+        - 1406
+        - 1407
+        - 1408
+        - 1409
+        - 1410
+- - '<color=0xFFFD96CF>※ D-Scan: Ships (+Dro / Defensive)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 25
+        - 26
+        - 27
+        - 28
+        - 29
+        - 30
+        - 31
+        - 100
+        - 237
+        - 324
+        - 358
+        - 361
+        - 365
+        - 380
+        - 381
+        - 419
+        - 420
+        - 463
+        - 479
+        - 485
+        - 513
+        - 540
+        - 541
+        - 543
+        - 544
+        - 547
+        - 548
+        - 639
+        - 640
+        - 641
+        - 659
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 883
+        - 893
+        - 894
+        - 898
+        - 900
+        - 902
+        - 906
+        - 941
+        - 963
+        - 1022
+        - 1149
+        - 1201
+        - 1202
+        - 1249
+        - 1283
+        - 1305
+        - 1404
+        - 1405
+        - 1406
+        - 1407
+        - 1408
+        - 1409
+        - 1410
+        - 1527
+        - 1534
+        - 1537
+        - 1538
+        - 1652
+        - 1653
+        - 1657
+- - '<color=0xFFFD96CF>※ D-Scan: Ships (-Dro / Defensive)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 25
+        - 26
+        - 27
+        - 28
+        - 29
+        - 30
+        - 31
+        - 237
+        - 324
+        - 358
+        - 361
+        - 365
+        - 380
+        - 381
+        - 419
+        - 420
+        - 463
+        - 479
+        - 485
+        - 513
+        - 540
+        - 541
+        - 543
+        - 547
+        - 548
+        - 659
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 883
+        - 893
+        - 894
+        - 898
+        - 900
+        - 902
+        - 906
+        - 941
+        - 963
+        - 1022
+        - 1149
+        - 1201
+        - 1202
+        - 1249
+        - 1283
+        - 1305
+        - 1404
+        - 1405
+        - 1406
+        - 1407
+        - 1408
+        - 1409
+        - 1410
+        - 1527
+        - 1534
+        - 1538
+        - 1657
+shipLabelOrder:
+- ship type
+- alliance
+- corporation
+- pilot name
+- ship name
+- null
+shipLabels:
+- - null
+  - - - post
+      - ''
+    - - pre
+      - ''
+    - - state
+      - 0
+    - - type
+      - null
+- - alliance
+  - - - post
+      - ']</color></fontsize>'
+    - - pre
+      - '<fontsize=12><color=0xFFFEFF6F> ['
+    - - state
+      - 1
+    - - type
+      - alliance
+- - corporation
+  - - - post
+      - ']</b></fontsize>'
+    - - pre
+      - ' <fontsize=10><b>['
+    - - state
+      - 1
+    - - type
+      - corporation
+- - pilot name
+  - - - post
+      - ']</fontsize><color=0xFFFFFFFF><b> -'
+    - - pre
+      - '
+
+        <fontsize=10> ['
+    - - state
+      - 1
+    - - type
+      - pilot name
+- - ship name
+  - - - post
+      - ''
+    - - pre
+      - ''
+    - - state
+      - 0
+    - - type
+      - ship name
+- - ship type
+  - - - post
+      - '</u></b></color></fontsize>'
+    - - pre
+      - '<fontsize=12><color=0xFFFEBB64><b> <u>'
+    - - state
+      - 1
+    - - type
+      - ship type
+stateBlinks:
+- - background_13
+  - false
+- - background_44
+  - false
+- - flag_13
+  - true
+- - flag_44
+  - true
+- - flag_50
+  - false
+- - flag_51
+  - true
+- - flag_52
+  - true
+- - flag_9
+  - true
+stateColorsNameList:
+- - background_10
+  - white
+- - background_12
+  - darkBlue
+- - background_16
+  - darkBlue
+- - background_18
+  - red
+- - background_20
+  - white
+- - background_21
+  - white
+- - background_44
+  - red
+- - background_45
+  - blue
+- - background_49
+  - blue
+- - background_50
+  - orange
+- - background_51
+  - orange
+- - background_52
+  - orange
+- - background_9
+  - orange
+tabSetup:
+- - 0
+  - - - bracket
+      - '<color=0xFFFD96CF>※ D-Scan: Hunter (+Dro / Offensive)</color>'
+    - - name
+      - ''
+    - - overview
+      - '<color=0xFFFD96CF>※ D-Scan: Hunter (-Dro / Offensive)</color>'
+- - 1
+  - - - bracket
+      - '<color=0xFFFD96CF>※ D-Scan: POS (+Cel +Mods)</color>'
+    - - name
+      - '<fontsize=12><color=0xFF66CCFF><b> Z-S D-Scan Extended loaded! </b></color></fontsize>
+
+        <fontsize=12><color=0xFFFF6666><b> • Apply another Preset Pack, or </b></color></fontsize>
+
+        <fontsize=12><color=0xFF66FF66><b> • Apply a Layout to finish </b></color></fontsize>'
+    - - overview
+      - '<color=0xFFFD96CF>※ D-Scan: POS (+Cel -Mods)</color>'
+- - 2
+  - - - bracket
+      - '<color=0xFFFD96CF>※ D-Scan: POS (-Cel +Mods)</color>'
+    - - name
+      - ''
+    - - overview
+      - '<color=0xFFFD96CF>※ D-Scan: Ships (+Dro / Defensive)</color>'
+- - 3
+  - - - bracket
+      - '<color=0xFFFD96CF>※ D-Scan: Ships (-Dro / Defensive)</color>'
+    - - name
+      - ''
+    - - overview
+      - ''
+userSettings:
+- - applyOnlyToShips
+  - false
+- - overviewBroadcastsToTop
+  - true
