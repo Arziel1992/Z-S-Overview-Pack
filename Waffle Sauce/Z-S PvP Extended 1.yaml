@@ -1,0 +1,446 @@
+backgroundOrder:
+- 13
+- 44
+- 52
+- 11
+- 12
+- 14
+- 15
+- 16
+- 45
+- 49
+- 19
+- 18
+- 9
+- 51
+- 50
+- 53
+- 10
+- 20
+- 21
+- 17
+- 48
+backgroundStates:
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+- 53
+columnOrder:
+- ICON
+- TAG
+- DISTANCE
+- NAME
+- TYPE
+- ALLIANCE
+- CORPORATION
+- FACTION
+- MILITIA
+- SIZE
+- VELOCITY
+- RADIALVELOCITY
+- TRANSVERSALVELOCITY
+- ANGULARVELOCITY
+flagOrder:
+- 13
+- 44
+- 52
+- 11
+- 12
+- 14
+- 15
+- 16
+- 45
+- 9
+- 51
+- 50
+- 53
+- 19
+- 18
+- 49
+- 10
+- 17
+- 48
+- 21
+- 20
+flagStates:
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+- 53
+overviewColumns:
+- ALLIANCE
+- ANGULARVELOCITY
+- CORPORATION
+- DISTANCE
+- ICON
+- NAME
+- TAG
+- TRANSVERSALVELOCITY
+- TYPE
+- VELOCITY
+presets:
+- - '<color=0xFFFD9666>✥ Target: Antibombers (!)</color>'
+  - - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 834
+- - '<color=0xFFFD9666>✥ Target: Battlecruisers</color>'
+  - - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 419
+        - 540
+        - 863
+        - 864
+        - 1201
+- - '<color=0xFFFD9666>✥ Target: Battleships</color>'
+  - - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 27
+        - 90
+        - 381
+        - 863
+        - 864
+        - 898
+        - 900
+- - '<color=0xFFFD9666>✥ Target: Caps</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 30
+        - 90
+        - 485
+        - 513
+        - 547
+        - 659
+        - 863
+        - 864
+        - 883
+        - 902
+        - 941
+        - 1538
+- - '<color=0xFFFD9666>✥ Target: Carriers</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 547
+        - 863
+        - 864
+- - '<color=0xFFFD9666>✥ Target: Cmd Dest</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 863
+        - 864
+        - 1534
+- - '<color=0xFFFD9666>✥ Target: Cruisers</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 26
+        - 90
+        - 358
+        - 832
+        - 833
+        - 863
+        - 864
+        - 894
+        - 906
+        - 963
+- - '<color=0xFFFD9666>✥ Target: CS/T3</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 540
+        - 863
+        - 864
+        - 963
+- - '<color=0xFFFD9666>✥ Target: Dictors</color>'
+  - - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 361
+        - 541
+        - 548
+        - 863
+        - 864
+        - 894
+- - '<color=0xFFFD9666>✥ Target: Dreads</color>'
+  - - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 485
+        - 863
+        - 864
+shipLabelOrder:
+- ship type
+- alliance
+- corporation
+- pilot name
+- ship name
+- null
+shipLabels:
+- - null
+  - - - post
+      - ''
+    - - pre
+      - ''
+    - - state
+      - 0
+    - - type
+      - null
+- - alliance
+  - - - post
+      - ']</color></fontsize>'
+    - - pre
+      - '<fontsize=12><color=0xFFFEFF6F> ['
+    - - state
+      - 1
+    - - type
+      - alliance
+- - corporation
+  - - - post
+      - ']</b></fontsize>'
+    - - pre
+      - ' <fontsize=10><b>['
+    - - state
+      - 1
+    - - type
+      - corporation
+- - pilot name
+  - - - post
+      - ']</fontsize><color=0xFFFFFFFF><b> -'
+    - - pre
+      - '
+
+        <fontsize=10> ['
+    - - state
+      - 1
+    - - type
+      - pilot name
+- - ship name
+  - - - post
+      - ''
+    - - pre
+      - ''
+    - - state
+      - 0
+    - - type
+      - ship name
+- - ship type
+  - - - post
+      - '</u></b></color></fontsize>'
+    - - pre
+      - '<fontsize=12><color=0xFFFEBB64><b> <u>'
+    - - state
+      - 1
+    - - type
+      - ship type
+stateBlinks:
+- - background_13
+  - false
+- - background_44
+  - false
+- - flag_13
+  - true
+- - flag_44
+  - true
+- - flag_50
+  - false
+- - flag_51
+  - true
+- - flag_52
+  - true
+- - flag_9
+  - true
+stateColorsNameList:
+- - background_10
+  - white
+- - background_12
+  - darkBlue
+- - background_16
+  - darkBlue
+- - background_18
+  - red
+- - background_20
+  - white
+- - background_21
+  - white
+- - background_44
+  - red
+- - background_45
+  - blue
+- - background_49
+  - blue
+- - background_50
+  - orange
+- - background_51
+  - orange
+- - background_52
+  - orange
+- - background_9
+  - orange
+tabSetup:
+- - 0
+  - - - bracket
+      - '<color=0xFFFD9666>✥ Target: Antibombers (!)</color>'
+    - - name
+      - ''
+    - - overview
+      - '<color=0xFFFD9666>✥ Target: Battlecruisers</color>'
+- - 1
+  - - - bracket
+      - '<color=0xFFFD9666>✥ Target: Battleships</color>'
+    - - name
+      - '<fontsize=12><color=0xFF66CCFF><b> Z-S PvP Extended (1/2) loaded! </b></color></fontsize>
+
+        <fontsize=12><color=0xFFFF6666><b> • Apply Z-S PvP Extended (2/2) </b></color></fontsize>'
+    - - overview
+      - '<color=0xFFFD9666>✥ Target: Caps</color>'
+- - 2
+  - - - bracket
+      - '<color=0xFFFD9666>✥ Target: Carriers</color>'
+    - - name
+      - ''
+    - - overview
+      - '<color=0xFFFD9666>✥ Target: Cmd Dest</color>'
+- - 3
+  - - - bracket
+      - '<color=0xFFFD9666>✥ Target: Cruisers</color>'
+    - - name
+      - ''
+    - - overview
+      - '<color=0xFFFD9666>✥ Target: CS/T3</color>'
+- - 4
+  - - - bracket
+      - '<color=0xFFFD9666>✥ Target: Dictors</color>'
+    - - name
+      - ''
+    - - overview
+      - '<color=0xFFFD9666>✥ Target: Dreads</color>'
+userSettings:
+- - applyOnlyToShips
+  - false
+- - overviewBroadcastsToTop
+  - true
