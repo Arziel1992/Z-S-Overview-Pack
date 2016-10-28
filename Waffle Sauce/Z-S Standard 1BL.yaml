@@ -1058,35 +1058,35 @@ tabSetup:
   - - - bracket
       - '<color=0xFFFF6666>✥ --- PvP: Basic (+Neut +NPC)</color>'
     - - name
-      - '<fontsize=11><color=0xFFFF6666><b>  Combat  </b></color></fontsize>'
+      - '<color=0xFFFF6666><b>  Combat  </b></color>'
     - - overview
       - '<color=0xFFFF6666>✥ --- PvP: Basic (+Neut +NPC)</color>'
 - - 2
   - - - bracket
       - '<color=0xFFFD9666>✥ Target: Drones</color>'
     - - name
-      - '<fontsize=11><color=0xFFFD9666><b>  Targets  </b></color></fontsize>'
+      - '<color=0xFFFD9666><b>  Targets  </b></color>'
     - - overview
       - '<color=0xFFFD9666>✥ Target: Drones</color>'
 - - 3
   - - - bracket
       - '<color=0xFFFFFF66>✜ PvE: Salvage/Loot</color>'
     - - name
-      - '<fontsize=11><color=0xFFD38FFD><b>  Misc  </b></color></fontsize>'
+      - '<color=0xFFD38FFD><b>  Misc  </b></color>'
     - - overview
       - '<color=0xFFFFFF66>✜ PvE: Salvage/Loot</color>'
 - - 4
   - - - bracket
       - '<color=0xFF66CCFF>✪ --- Friendly: All (-Dro)</color>'
     - - name
-      - '<fontsize=11><color=0xFF66CCFF><b>  Friendly  </b></color></fontsize>'
+      - '<color=0xFF66CCFF><b>  Friendly  </b></color>'
     - - overview
       - '<color=0xFF66CCFF>✪ --- Friendly: All (-Dro)</color>'
 - - 5
   - - - bracket
       - '<color=0xFF66FF66>➲ Extra: Podsaver (!)</color>'
     - - name
-      - '<fontsize=11><color=0xFF66FF66><b>  Warpout!  </b></color></fontsize>'
+      - '<color=0xFF66FF66><b>  Warpout!  </b></color>'
     - - overview
       - '<color=0xFF66FF66>➲ Extra: Podsaver (!)</color>'
 userSettings:
