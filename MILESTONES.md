@@ -99,4 +99,32 @@ What does this mean?
     - Yuki Yoichi
     - Zoe Dallocort
     
-### xx/xx/xxxx - 1000 Subscribers on the Mailing List
+### 2. 1000 Subscribers on the Mailing List
+##### Reached on 30/10/2016
+
+EVE-Mail from Deuce Syundai: 
+
+>We've crossed over 1,000 subscribers on our mailing list! I don't know what the limit is for a mailing list, but SaraShawa had 4 of them before Oh Takashawa went silent. I suppose we'll find out in due time.
+
+>What's that? Yes, 1,000 is a pretty big milestone. Worthy of celebration? It sure is. A giveaway like we had for my personal milestone of 650 subscribers? Sure, why not?
+
+>For 650 subscribers, I selected 65 lucky winners to receive 6.5mil each in commemoration of my original color mod of the original Sarah's Overview Pack™ reaching 65 downloads waaay back in the day. Quick primer for those who have just recently joined us: Sarah's Overview Pack™ is the pack SaraShawa, and by extension, Zirio-Syundai, was originally developed from.
+
+>65 winners was a real pain to sort through. It took me the better part of two hours to manually count and select all the winners, and 6.5 mil was only intended as a symbolic gesture of appreciation.
+
+>So this time, 10 lucky winners out of the 1,000 subscribed at the time we crossed over will receive 100m ISK each! Congratulations to the winners, and remember to check your wallets!
+
+![Screenshots](/Images/1000.png "1000 Subscribers")
+
+**Lucky winners:**
+
+    - Adarian Aideron
+    - Aldaris Malachi
+    - Debaucherous
+    - Jeanne Weber
+    - MaCondis Hammer
+    - Superbibi
+    - Xurkane
+    - Yoruichi Ratsuda
+    - Zetrick
+    - Ziggs Boson
