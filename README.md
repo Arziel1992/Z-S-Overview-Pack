@@ -14,9 +14,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v4.04.2820
+#### Current Version: v4.05.3021
 - For Release: **118.9**
-- Updated: **2016.10.20**
+- Updated: **2016.11.03**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
@@ -129,7 +129,7 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
         ✥ --- PvP: Basic (-Neut +NPC)
         ✥ --- PvP: Basic (-Neut -NPC)
         ✥ -- Ships only
-        ✥ = Bombing Warpouts
+        ✥ = CovOps: Collidables
         ✥ = Deployables
         ✥ = NPSI
         ✥ = Structures
