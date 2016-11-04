@@ -23,7 +23,7 @@ It's not just me developing the pack, it's all of us working together to reach t
 9. **Ethan Zoromir** - 100.000.000 ISK
 10. **Self Ctrl** - 100.000.000 ISK
 11. **HotterThanYou2** - 50.000.000 ISK
-12. **Ultimate-Pilot Destiny** - 39.168.046 ISK
+12. **Ultimate-Pilot Destiny** - 49.168.046 ISK
 13. **Denali TheGreatOne** - 25.000.000 ISK
 14. **Mauger** - 25.000.000 ISK
 15. **Chekman** - 25.000.000 ISK
