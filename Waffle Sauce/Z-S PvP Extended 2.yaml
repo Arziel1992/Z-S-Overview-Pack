@@ -1,0 +1,411 @@
+backgroundOrder:
+- 13
+- 44
+- 52
+- 11
+- 12
+- 14
+- 15
+- 16
+- 45
+- 49
+- 19
+- 18
+- 9
+- 51
+- 50
+- 53
+- 10
+- 20
+- 21
+- 17
+- 48
+backgroundStates:
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+- 53
+columnOrder:
+- ICON
+- TAG
+- DISTANCE
+- NAME
+- TYPE
+- ALLIANCE
+- CORPORATION
+- FACTION
+- MILITIA
+- SIZE
+- VELOCITY
+- RADIALVELOCITY
+- TRANSVERSALVELOCITY
+- ANGULARVELOCITY
+flagOrder:
+- 13
+- 44
+- 52
+- 11
+- 12
+- 14
+- 15
+- 16
+- 45
+- 9
+- 51
+- 50
+- 53
+- 19
+- 18
+- 49
+- 10
+- 17
+- 48
+- 21
+- 20
+flagStates:
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+- 53
+overviewColumns:
+- ALLIANCE
+- ANGULARVELOCITY
+- CORPORATION
+- DISTANCE
+- ICON
+- NAME
+- TAG
+- TRANSVERSALVELOCITY
+- TYPE
+- VELOCITY
+presets:
+- - '<color=0xFFFD9666>✥ Target: Fax</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 863
+        - 864
+        - 1538
+- - '<color=0xFFFD9666>✥ Target: Fighters</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 549
+        - 863
+        - 864
+        - 1023
+        - 1537
+        - 1652
+        - 1653
+- - '<color=0xFFFD9666>✥ Target: Frig/Dest</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 25
+        - 31
+        - 90
+        - 237
+        - 324
+        - 420
+        - 541
+        - 830
+        - 831
+        - 834
+        - 863
+        - 864
+        - 893
+        - 1022
+        - 1283
+        - 1305
+        - 1527
+        - 1534
+- - '<color=0xFFFD9666>✥ Target: Logistics</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 832
+        - 863
+        - 864
+        - 1527
+        - 1538
+- - '<color=0xFFFD9666>✥ Target: Recons</color>'
+  - - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 833
+        - 863
+        - 864
+        - 906
+- - '<color=0xFFFD9666>✥ Target: SC/T</color>'
+  - - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 30
+        - 90
+        - 659
+        - 863
+        - 864
+- - '<color=0xFFFD9666>✥ Target: Supercarriers</color>'
+  - - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 659
+        - 863
+        - 864
+- - '<color=0xFFFD9666>✥ Target: Titans</color>'
+  - - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 30
+        - 90
+        - 863
+        - 864
+shipLabelOrder:
+- ship type
+- alliance
+- corporation
+- pilot name
+- ship name
+- null
+shipLabels:
+- - null
+  - - - post
+      - ''
+    - - pre
+      - ''
+    - - state
+      - 0
+    - - type
+      - null
+- - alliance
+  - - - post
+      - ']</color></fontsize>'
+    - - pre
+      - '<fontsize=12><color=0xFFFEFF6F> ['
+    - - state
+      - 1
+    - - type
+      - alliance
+- - corporation
+  - - - post
+      - ']</b></fontsize>'
+    - - pre
+      - ' <fontsize=10><b>['
+    - - state
+      - 1
+    - - type
+      - corporation
+- - pilot name
+  - - - post
+      - ']</fontsize><color=0xFFFFFFFF><b> -'
+    - - pre
+      - '
+
+        <fontsize=10> ['
+    - - state
+      - 1
+    - - type
+      - pilot name
+- - ship name
+  - - - post
+      - ''
+    - - pre
+      - ''
+    - - state
+      - 0
+    - - type
+      - ship name
+- - ship type
+  - - - post
+      - '</u></b></color></fontsize>'
+    - - pre
+      - '<fontsize=12><color=0xFFFEBB64><b> <u>'
+    - - state
+      - 1
+    - - type
+      - ship type
+stateBlinks:
+- - background_13
+  - false
+- - background_44
+  - false
+- - flag_13
+  - true
+- - flag_44
+  - true
+- - flag_50
+  - false
+- - flag_51
+  - true
+- - flag_52
+  - true
+- - flag_9
+  - true
+stateColorsNameList:
+- - background_10
+  - white
+- - background_12
+  - darkBlue
+- - background_16
+  - darkBlue
+- - background_18
+  - red
+- - background_20
+  - white
+- - background_21
+  - white
+- - background_44
+  - red
+- - background_45
+  - blue
+- - background_49
+  - blue
+- - background_50
+  - orange
+- - background_51
+  - orange
+- - background_52
+  - orange
+- - background_9
+  - orange
+tabSetup:
+- - 0
+  - - - bracket
+      - '<color=0xFFFD9666>✥ Target: Fax</color>'
+    - - name
+      - ''
+    - - overview
+      - '<color=0xFFFD9666>✥ Target: Fighters</color>'
+- - 1
+  - - - bracket
+      - '<color=0xFFFD9666>✥ Target: Frig/Dest</color>'
+    - - name
+      - '<fontsize=12><color=0xFF66CCFF><b> Z-S PvP Extended (2/2) loaded! </b></color></fontsize>
+
+        <fontsize=12><color=0xFFFF6666><b> • Apply another Preset Pack, or </b></color></fontsize>
+
+        <fontsize=12><color=0xFF66FF66><b> • Apply a Layout to finish </b></color></fontsize>'
+    - - overview
+      - '<color=0xFFFD9666>✥ Target: Logistics</color>'
+- - 2
+  - - - bracket
+      - '<color=0xFFFD9666>✥ Target: Recons</color>'
+    - - name
+      - ''
+    - - overview
+      - '<color=0xFFFD9666>✥ Target: SC/T</color>'
+- - 3
+  - - - bracket
+      - '<color=0xFFFD9666>✥ Target: Supercarriers</color>'
+    - - name
+      - ''
+    - - overview
+      - '<color=0xFFFD9666>✥ Target: Titans</color>'
+userSettings:
+- - applyOnlyToShips
+  - false
+- - overviewBroadcastsToTop
+  - true
