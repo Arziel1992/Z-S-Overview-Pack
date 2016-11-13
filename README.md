@@ -14,16 +14,16 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v4.04.2820
+#### Current Version: v4.05.3021
 - For Release: **118.9**
-- Updated: **2016.10.20**
+- Updated: **2016.11.03**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
-- Visit us on: **[Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/) - [Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992)**
+- Visit us on: **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992) - [Discord](http://discord.gg/NSfFKcx)**
 - Changelog: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)**
 - Feedback: **[Here](http://goo.gl/forms/h4rTeZCHNorqEsyx2)**
-- Top Donators: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONATORS.md)**
+- Top Donors: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONORS.md)**
 - FAQ (WIP): **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)**
 - Milestones: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/MILESTONES.md)**
 
@@ -129,7 +129,7 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
         ✥ --- PvP: Basic (-Neut +NPC)
         ✥ --- PvP: Basic (-Neut -NPC)
         ✥ -- Ships only
-        ✥ = Bombing Warpouts
+        ✥ = CovOps: Collidables
         ✥ = Deployables
         ✥ = NPSI
         ✥ = Structures
