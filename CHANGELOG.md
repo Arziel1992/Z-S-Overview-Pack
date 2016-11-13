@@ -6,9 +6,10 @@
 		- **Only if** new entity types and/or visual states are added and affect the pack significantly.
         - **Or** sub-classifications reach the max count (99).
 		- Resets version sub-classifications to 0 (ex. v3.00.0000).
-	- BB = Pack and Layout deployment changes
+	- BB = Pack and Layout deployment and minor coding changes
 		- Addition, deletion, split, rename and adjustements.
         - Amounts are added up to the previous version amounts to show the current total of modifications.
+        - Minor coding chages, backend.
 	- XX = Preset changes amount
 		- Addition, deletion, split, rename and adjustements.
 		- Amounts are added up to the previous version amounts to show the current total of modifications.
@@ -18,6 +19,18 @@
 	- NAME = Shout out to the circumstance(s) and/or player(s) that provided the most feedback during the version development.
 
 ##### --- Standard Versions ---
+
+##### Version v4.05.3021 - 118.9 - _Large Hadron Collider_
+>1. Removed `<fontsize=11>` tags due they are the default game fontsize and do not need to be declared.
+>2. Changed presets:
+    - Added "✥ = CovOps: Collidables"
+    - Removed "✥ = Bombing Warpouts"
+        - "➲ Extra: Align Points" has the same, if not better, functionality.
+>3. Updated presets:
+    - Added Deployable:
+        - "Encounter Surveillance System" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
 
 ##### Version v4.04.2820 - 118.9 - _Critical fixes & additions_
 >1. Changed tab colors:
