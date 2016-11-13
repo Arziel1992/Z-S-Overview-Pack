@@ -1,13 +1,13 @@
 ## Thank you very much!
 Thank you all very much for the support, feedback and suggestions.  
-I deeply appreciate that you all think my work should be rewarded in some way.  
-I don't ask for anything in return, a simple "Thank you" keeps me motivated.  
+We deeply appreciate that you all think our work should be rewarded in some way.  
+We don't ask for anything in return, a simple "Thank you" keeps us motivated.  
   
-It's not just me developing the pack, it's all of us working together to reach the goal of having the best Overview Pack for the game!
+It's not just Deuce and me (Zirio) developing the pack, it's all of us working together to reach the goal of having the best Overview Pack for the game!
   
 - A shout out to everyone using the pack and stopping by the channel to say Hi and voice their opinions!
 - Another shout out to CCP devs on Slack for taking the time to chat and work with me in some simple yet needed changes to improve the Overview System!
-- And a special shout out to the players that thought I should be rewarded, thank you all very much!
+- And a special shout out to the players that thought we should be rewarded, thank you all very much!
 
 ## Top Donators
 ♕ **Whizzard** - 2 PLEX (2.406.000.000 ISK)
