@@ -14,9 +14,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v4.04.2820
-- For Release: **118.9**
-- Updated: **2016.10.20**
+#### Current Version: v5.00.0000
+- For Release: **Ascension**
+- Updated: **2016.11.15**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
@@ -31,10 +31,13 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 Be sure to have a quick read of **EVE University's** Overview guide **[Here](http://wiki.eveuniversity.org/Overview_Guide)**, either to learn how everything works or have a reminder.
 #### Option 1: In-game, from "Zirio-Syundai Overview" chat channel:
 1. Open up your Overview Settings ( ≡ button at top left of the Overview window).
+ - ![Step 1](/Images/Step 1a.png "Step 1")
 2. Go to the "Misc" tab and click "Reset All Overview Settings."
+ - ![Step 2](/Images/Step 1b.png "Step 2")
     - You MUST do this the first time you install.
     - This prevents any weirdness that may be caused by any changes already made to the overview.
 3. Apply the Z-S Core preset pack FIRST. This is the only preset pack required. When combined with a Tab Layout, it includes the following presets:
+	- ![Core + Layout](/Images/Core + Layout.png "Core Presets") Core Presets
 	- All Travel, Warpout, D-scan & Bracket presets
 	- PvE: Basic & PvE: Salvage/Loot
 	- PvP: Basic & Target: Drones
@@ -42,9 +45,15 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 4. (Optional) Apply any of these Optional preset packs you may need for more specialized presets:
 	- Z-S PvE contains presets for Anoms/Ratting, Incursion, Mining, and Show Drones.
 	- Z-S PvP Basic contains presets for Faction Warfare, Ships Only, Bombing Warpouts, Deployables, NPSI, Structures, and Wartargets.
-	- Z-S PvP Extended packs include presets for specific categories from Fighters to Frigates to Logi to Titans. Each pack contains half the categories and should be installed together.
+	- Z-S PvP Extended packs include Target presets for specific categories, from Fighters to Frigates to Logi to Titans. Each pack contains half the categories and should be installed together.
 	- Z-S Friendly Extended includes presets for Capitals, Supercapitals, Carriers, Dictors, Dreads, Logi, and Recon.
-5. To finish and set up the tabs, apply a Tab Layout. Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or sorter names for reduced tab width.
+	- _You can go back to add in additional packs at any time without reloading the entire pack. Simply click on a pack to add, then repeat step 5 below._
+	- ![PvP Basic](/Images/PvP Basic.png "More Presets") ![PvP Extended](/Images/PvP Extended.png "ALL THE PRESETS")
+5. To finish and set up the tabs, apply a Tab Layout. Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or sorter names for reduced tab width. 2BL denotes 2 Bracket Lines, while 1BL denotes 1 Bracket Line.
+ - ![Standard Tabs](/Images/Standard Tabs.png "Standard") Standard tab layout
+ - ![Compact Tabs](/Images/Compact Tabs.png "Compact") Compact tab layout
+ - ![2 Bracket Lines](/Images/2 Bracket Lines.png "2BL") 2 Bracket Lines
+ - ![1 Bracket Line](/Images/1 Bracket Line.png "1BL") 1 Bracket Line
 	- You can alternate between Layouts at any time without reloading the entire pack.
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
 
@@ -76,8 +85,6 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 8. Repeat step 7 if you are importing individual packs + layouts instead of a Full profile.
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
 
-#### Screenshots
-![Screenshots](/Images/screenshots.jpg "Screenshots")
 
 #### Packs, Layouts & Presets
 - Z-S Core
