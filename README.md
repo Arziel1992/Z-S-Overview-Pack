@@ -48,6 +48,7 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 	- Z-S PvP Extended packs include Target presets for specific categories, from Fighters to Frigates to Logi to Titans. Each pack contains half the categories and should be installed together.
 	- Z-S Friendly Extended includes presets for Capitals, Supercapitals, Carriers, Dictors, Dreads, Logi, and Recon.
 	- _You can go back to add in additional packs at any time without reloading the entire pack. Simply click on a pack to add, then repeat step 5 below._
+	- ![Pack Loaded](/Images/Pack Loaded.png "Pack Loaded!") Note the instructions on the tab.
 	- ![PvP Basic](/Images/PvP Basic.png "More Presets") ![PvP Extended](/Images/PvP Extended.png "ALL THE PRESETS")
 5. To finish and set up the tabs, apply a Tab Layout. Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or sorter names for reduced tab width. 2BL denotes 2 Bracket Lines, while 1BL denotes 1 Bracket Line.
  - ![Standard Tabs](/Images/Standard Tabs.png "Standard") Standard tab layout
