@@ -40,27 +40,29 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 3. Apply the Z-S Core preset pack FIRST. This is the only preset pack required. When combined with a Tab Layout, it includes the following presets:
 	- Core Presets  
     ![Core + Layout](/Images/Core + Layout.png "Core Presets")  
-	- All Travel, Warpout, D-scan & Bracket presets
-	- PvE: Basic & PvE: Salvage/Loot
-	- PvP: Basic & Target: Drones
-	- Friendly: All & Friendly Fleet
+	- All **Travel**, **Warpout** & **Brackets** presets
+	- **PvE: Basic** & **PvE: Salvage/Loot**
+	- **PvP: Basic** & **Target: Drones**
+	- **Friendly: All** & **Friendly Fleet**
+	- **D-Scan: All**
 4. (Optional) Apply any of these Optional preset packs you may need for more specialized presets:
-	- Z-S PvE contains presets for Anoms/Ratting, Incursion, Mining, and Show Drones.
-	- Z-S PvP Basic contains presets for Faction Warfare, Ships Only, Bombing Warpouts, Deployables, NPSI, Structures, and Wartargets.
-	- Z-S PvP Extended packs include Target presets for specific categories, from Fighters to Frigates to Logi to Titans. Each pack contains half the categories and should be installed together.
-	- Z-S Friendly Extended includes presets for Capitals, Supercapitals, Carriers, Dictors, Dreads, Logi, and Recon.
+	- **Z-S PvE Extended** contains presets for Anoms/Ratting, Incursion, Mining, and Show Drones.
+	- **Z-S PvP Basic** contains presets for Faction Warfare, Ships Only, Bombing Warpouts, Deployables, NPSI, Structures, and Wartargets.
+	- **Z-S PvP Extended** packs include Target presets for specific categories, from Fighters to Frigates to Logi to Titans. Each pack contains half the categories and should be installed together.
+	- **Z-S Friendly Extended** includes presets for Capitals, Supercapitals, Carriers, Dictors, Dreads, Logi, and Recon.
+	- **Z-S D-Scan Extended** contains more finely-tuned presets specifically for the D-Scan filter.
 	- _You can go back to add in additional packs at any time without reloading the entire pack. Simply click on a pack to add, then repeat step 5 below._
 	- Note the instructions on the tab.  
     ![Pack Loaded](/Images/Pack Loaded.png "Pack Loaded!")  
 	![PvP Basic](/Images/PvP Basic.png "Basic Full Loadout") ![PvP Extended](/Images/PvP Extended.png "Extended Full Loadout")  
 5. To finish and set up the tabs, apply a Tab Layout. Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or sorter names for reduced tab width. 2BL denotes 2 Bracket Lines, while 1BL denotes 1 Bracket Line.
- - Standard tab layout  
+ - **Standard** tab layout  
  ![Standard Tabs](/Images/Standard Tabs.png "Standard")  
- - Compact tab layout  
+ - **Compact** tab layout  
  ![Compact Tabs](/Images/Compact Tabs.png "Compact")  
- - 2 Bracket Lines  
+ - **2BL** Brackets  
  ![2 Bracket Lines](/Images/2 Bracket Lines.png "2BL")  
- - 1 Bracket Line  
+ - **1BL** Brackets  
  ![1 Bracket Line](/Images/1 Bracket Line.png "1BL")  
 	- You can alternate between Layouts at any time without reloading the entire pack.
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
