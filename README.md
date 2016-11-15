@@ -1,4 +1,5 @@
-# Zirio-Syundai Special Overview
+<img src="Images/Z-S Logo.png" align="right" />
+# Zirio-Syundai Overview Pack
 ### Overview Pack for EVE Online
 
 The Zirio-Syundai Special™ Overview was created to provide a generalized, user-friendly, 6-Tab Overview, ready to use as-is with room to be tailored as needed.  
@@ -30,11 +31,15 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 ## How to install
 Be sure to have a quick read of **EVE University's** Overview guide **[Here](http://wiki.eveuniversity.org/Overview_Guide)**, either to learn how everything works or have a reminder.
 #### Option 1: In-game, from "Zirio-Syundai Overview" chat channel:
-1. Open up your Overview Settings ( ≡ button at top left of the Overview window).
-2. Go to the "Misc" tab and click "Reset All Overview Settings."
+1. Open up your Overview Settings ( ≡ button at top left of the Overview window).  
+![Step 1](/Images/Step 1a.png "Step 1")  
+2. Go to the "Misc" tab and click "Reset All Overview Settings."  
+![Step 2](/Images/Step 1b.png "Step 2")  
     - You MUST do this the first time you install.
     - This prevents any weirdness that may be caused by any changes already made to the overview.
 3. Apply the Z-S Core preset pack FIRST. This is the only preset pack required. When combined with a Tab Layout, it includes the following presets:
+	- Core Presets  
+    ![Core + Layout](/Images/Core + Layout.png "Core Presets")  
 	- All Travel, Warpout, D-scan & Bracket presets
 	- PvE: Basic & PvE: Salvage/Loot
 	- PvP: Basic & Target: Drones
@@ -42,9 +47,21 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 4. (Optional) Apply any of these Optional preset packs you may need for more specialized presets:
 	- Z-S PvE contains presets for Anoms/Ratting, Incursion, Mining, and Show Drones.
 	- Z-S PvP Basic contains presets for Faction Warfare, Ships Only, Bombing Warpouts, Deployables, NPSI, Structures, and Wartargets.
-	- Z-S PvP Extended packs include presets for specific categories from Fighters to Frigates to Logi to Titans. Each pack contains half the categories and should be installed together.
+	- Z-S PvP Extended packs include Target presets for specific categories, from Fighters to Frigates to Logi to Titans. Each pack contains half the categories and should be installed together.
 	- Z-S Friendly Extended includes presets for Capitals, Supercapitals, Carriers, Dictors, Dreads, Logi, and Recon.
-5. To finish and set up the tabs, apply a Tab Layout. Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or sorter names for reduced tab width.
+	- _You can go back to add in additional packs at any time without reloading the entire pack. Simply click on a pack to add, then repeat step 5 below._
+	- Note the instructions on the tab.  
+    ![Pack Loaded](/Images/Pack Loaded.png "Pack Loaded!")  
+	![PvP Basic](/Images/PvP Basic.png "Basic Full Loadout") ![PvP Extended](/Images/PvP Extended.png "Extended Full Loadout")  
+5. To finish and set up the tabs, apply a Tab Layout. Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or sorter names for reduced tab width. 2BL denotes 2 Bracket Lines, while 1BL denotes 1 Bracket Line.
+ - Standard tab layout  
+ ![Standard Tabs](/Images/Standard Tabs.png "Standard")  
+ - Compact tab layout  
+ ![Compact Tabs](/Images/Compact Tabs.png "Compact")  
+ - 2 Bracket Lines  
+ ![2 Bracket Lines](/Images/2 Bracket Lines.png "2BL")  
+ - 1 Bracket Line  
+ ![1 Bracket Line](/Images/1 Bracket Line.png "1BL")  
 	- You can alternate between Layouts at any time without reloading the entire pack.
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
 
@@ -76,8 +93,6 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 8. Repeat step 7 if you are importing individual packs + layouts instead of a Full profile.
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
 
-#### Screenshots
-![Screenshots](/Images/screenshots.jpg "Screenshots")
 
 #### Packs, Layouts & Presets
 - Z-S Core
