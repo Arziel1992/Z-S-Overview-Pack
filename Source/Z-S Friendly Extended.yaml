@@ -199,6 +199,7 @@ presets:
         - 900
         - 902
         - 906
+        - 920
         - 925
         - 941
         - 963
@@ -220,13 +221,16 @@ presets:
         - 1283
         - 1305
         - 1316
+        - 1404
         - 1527
         - 1534
         - 1537
         - 1538
+        - 1548
         - 1652
         - 1653
         - 1657
+        - 1704
 - - '<color=0xFF66CCFF>✪ Friendly: Capitals</color>'
   - - - alwaysShownStates
       - - 11
@@ -268,6 +272,7 @@ presets:
         - 864
         - 883
         - 1538
+        - 1548
 - - '<color=0xFF66CCFF>✪ Friendly: Carriers</color>'
   - - - alwaysShownStates
       - - 11
@@ -305,6 +310,7 @@ presets:
         - 863
         - 864
         - 1538
+        - 1548
 - - '<color=0xFF66CCFF>✪ Friendly: Dictors</color>'
   - - - alwaysShownStates
       - - 11
@@ -342,6 +348,7 @@ presets:
         - 863
         - 864
         - 894
+        - 1548
 - - '<color=0xFF66CCFF>✪ Friendly: Dreads</color>'
   - - - alwaysShownStates
       - - 11
@@ -378,7 +385,8 @@ presets:
         - 548
         - 863
         - 864
-- - '<color=0xFF66CCFF>✪ Friendly: Logistic</color>'
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Logistics</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -416,6 +424,7 @@ presets:
         - 863
         - 864
         - 1527
+        - 1548
 - - '<color=0xFF66CCFF>✪ Friendly: Recons</color>'
   - - - alwaysShownStates
       - - 11
@@ -453,6 +462,7 @@ presets:
         - 863
         - 864
         - 906
+        - 1548
 - - '<color=0xFF66CCFF>✪ Friendly: SC/T</color>'
   - - - alwaysShownStates
       - - 11
@@ -490,6 +500,7 @@ presets:
         - 659
         - 863
         - 864
+        - 1548
 shipLabelOrder:
 - ship type
 - alliance
@@ -623,7 +634,7 @@ tabSetup:
     - - name
       - ''
     - - overview
-      - '<color=0xFF66CCFF>✪ Friendly: Logistic</color>'
+      - '<color=0xFF66CCFF>✪ Friendly: Logistics</color>'
 - - 3
   - - - bracket
       - '<color=0xFF66CCFF>✪ Friendly: Recons</color>'

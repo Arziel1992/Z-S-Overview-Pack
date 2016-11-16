@@ -1,4 +1,4 @@
-<img src="Images/Z-S Logo.png" align="right" />
+<img src="Images/Z-S Logo 2.png" align="right" />
 # Zirio-Syundai Overview Pack
 ### Overview Pack for EVE Online
 
@@ -15,9 +15,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v4.05.3021
-- For Release: **118.9**
-- Updated: **2016.11.03**
+#### Current Version: v5.00.0110
+- For Release: **Ascension**
+- Updated: **2016.11.16**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
@@ -128,7 +128,7 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
         ✪ Friendly: Carriers
         ✪ Friendly: Dictors
         ✪ Friendly: Dreads
-        ✪ Friendly: Logistic
+        ✪ Friendly: Logistics
         ✪ Friendly: Recons
         ✪ Friendly: SC/T
 
