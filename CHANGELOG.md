@@ -20,6 +20,29 @@
 
 ##### --- Standard Versions ---
 
+##### Version v5.01.0313 - 118.11 - _Kr0nK Resync_
+>1. Updated ship brackets styles to allow the activation of `Ship Name`, mimicking the naming convention of Star Trek, i.e **USS _Enterprise_**
+    - `Corp Ticker + Ship Name`
+>2. Moved preset:
+    - `✜ --- PvE: Basic (-Dro)` to `Z-S Core`
+    - `✜ --- PvE: Basic (+Dro)` to `Z-S PvE Extended`
+>3. Updated presets:
+    - Added Entity:
+        - All `Hidden Zenith (Faction) Capital` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+    - Added Structure:
+        - `Engineering Complex` to:
+            - `➲ Extra: Align Points`
+    - Removed Starbase:
+        - `Control Tower` from:
+            - `※ D-Scan: Ships (+Dro / Defensive)`
+            - `※ D-Scan: Ships (-Dro / Defensive)`
+
+##### Version v5.00.0110-B (not released, pushed to the next version)
+>1. Reapplied all Updated presets of v5.00.0110:
+    - Some entity changes failed to carry over in random presets on some packs.
+
 ##### Version v5.00.0110 - 118.11 - _Ascension_
 >1. Changed presets:
     - Renamed `✪ Friendly: Logistic` to `✪ Friendly: Logistics`

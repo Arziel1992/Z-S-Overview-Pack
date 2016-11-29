@@ -1107,6 +1107,7 @@ presets:
         - 1690
         - 1691
         - 1692
+        - 1704
         - 1720
         - 1721
         - 1722
@@ -1147,6 +1148,8 @@ presets:
         - 1805
         - 1806
         - 1807
+        - 1813
+        - 1814
 - - '<color=0xFFFF6666>✥ = Deployables</color>'
   - - - alwaysShownStates
       - []
@@ -2755,31 +2758,31 @@ shipLabelOrder:
 - ship type
 - alliance
 - corporation
-- pilot name
 - ship name
 - null
+- pilot name
 shipLabels:
 - - null
   - - - post
       - ''
     - - pre
-      - ''
+      - ']</b></fontsize>'
     - - state
-      - 0
+      - 1
     - - type
       - null
 - - alliance
   - - - post
       - ']</color></fontsize>'
     - - pre
-      - '<fontsize=12><color=0xFFFEFF6F> ['
+      - <fontsize=12><color=0xFFFEFF6F> [
     - - state
       - 1
     - - type
       - alliance
 - - corporation
   - - - post
-      - ']</b></fontsize>'
+      - ''
     - - pre
       - ' <fontsize=10><b>['
     - - state
@@ -2799,18 +2802,18 @@ shipLabels:
       - pilot name
 - - ship name
   - - - post
-      - ''
+      - '</i>'
     - - pre
-      - ''
+      - ' <i>'
     - - state
       - 0
     - - type
       - ship name
 - - ship type
   - - - post
-      - '</u></b></color></fontsize>'
+      - </u></b></color></fontsize>
     - - pre
-      - '<fontsize=12><color=0xFFFEBB64><b> <u>'
+      - <fontsize=12><color=0xFFFEBB64><b> <u>
     - - state
       - 1
     - - type
