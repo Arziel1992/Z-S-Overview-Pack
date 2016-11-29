@@ -15,9 +15,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v5.00.0110
+#### Current Version: v5.01.0313
 - For Release: **Ascension**
-- Updated: **2016.11.16**
+- Updated: **2016.11.29**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
@@ -107,7 +107,7 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
         ➲ Extra: Align Points
         ✈ Travel (+Ship -Sta)
         ✈ Travel (-Ship +Sta)
-        ✜ --- PvE: Basic (+Dro)
+        ✜ --- PvE: Basic (-Dro)
         ✪ = Friendly: Fleet
         ※ --- D-Scan: All
 
@@ -134,7 +134,7 @@ Be sure to have a quick read of **EVE University's** Overview guide **[Here](htt
 
 - Z-S PvE Extended
 
-        ✜ --- PvE: Basic (-Dro)
+        ✜ --- PvE: Basic (+Dro)
         ✜ PvE: Anoms
         ✜ PvE: Incursion
         ✜ PvE: Mining

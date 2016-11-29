@@ -113,7 +113,7 @@ overviewColumns:
 - TYPE
 - VELOCITY
 presets:
-- - '<color=0xFFFFFF66>✜ --- PvE: Basic (-Dro)</color>'
+- - '<color=0xFFFFFF66>✜ --- PvE: Basic (+Dro)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -133,6 +133,7 @@ presets:
         - 31
         - 90
         - 99
+        - 100
         - 180
         - 185
         - 226
@@ -174,6 +175,7 @@ presets:
         - 540
         - 541
         - 543
+        - 544
         - 547
         - 548
         - 550
@@ -236,6 +238,9 @@ presets:
         - 631
         - 632
         - 633
+        - 639
+        - 640
+        - 641
         - 649
         - 659
         - 665
@@ -454,11 +459,14 @@ presets:
         - 1529
         - 1530
         - 1534
+        - 1537
         - 1538
         - 1548
         - 1566
         - 1567
         - 1568
+        - 1652
+        - 1653
         - 1657
         - 1664
         - 1665
@@ -879,6 +887,10 @@ presets:
         - 1759
         - 1761
         - 1762
+        - 1764
+        - 1765
+        - 1766
+        - 1767
         - 1768
         - 1803
         - 1804
@@ -1916,31 +1928,31 @@ shipLabelOrder:
 - ship type
 - alliance
 - corporation
-- pilot name
 - ship name
 - null
+- pilot name
 shipLabels:
 - - null
   - - - post
       - ''
     - - pre
-      - ''
+      - ']</b></fontsize>'
     - - state
-      - 0
+      - 1
     - - type
       - null
 - - alliance
   - - - post
       - ']</color></fontsize>'
     - - pre
-      - '<fontsize=12><color=0xFFFEFF6F> ['
+      - <fontsize=12><color=0xFFFEFF6F> [
     - - state
       - 1
     - - type
       - alliance
 - - corporation
   - - - post
-      - ']</b></fontsize>'
+      - ''
     - - pre
       - ' <fontsize=10><b>['
     - - state
@@ -1960,18 +1972,18 @@ shipLabels:
       - pilot name
 - - ship name
   - - - post
-      - ''
+      - '</i>'
     - - pre
-      - ''
+      - ' <i>'
     - - state
       - 0
     - - type
       - ship name
 - - ship type
   - - - post
-      - '</u></b></color></fontsize>'
+      - </u></b></color></fontsize>
     - - pre
-      - '<fontsize=12><color=0xFFFEBB64><b> <u>'
+      - <fontsize=12><color=0xFFFEBB64><b> <u>
     - - state
       - 1
     - - type
@@ -2023,7 +2035,7 @@ stateColorsNameList:
 tabSetup:
 - - 0
   - - - bracket
-      - '<color=0xFFFFFF66>✜ --- PvE: Basic (-Dro)</color>'
+      - '<color=0xFFFFFF66>✜ --- PvE: Basic (+Dro)</color>'
     - - name
       - ''
     - - overview
