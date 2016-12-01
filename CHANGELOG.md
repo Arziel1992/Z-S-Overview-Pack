@@ -20,7 +20,7 @@
 
 ##### --- Standard Versions ---
 
-##### Version v5.01.0313 - 118.11 - _Kr0nK Resync_
+##### Version v5.01.0313 - _Ascension_ - _Kr0nK Resync_
 >1. Updated ship brackets styles to allow the activation of `Ship Name`, mimicking the naming convention of Star Trek, i.e **USS _Enterprise_**
     - `Corp Ticker + Ship Name`
 >2. Moved preset:
@@ -43,7 +43,7 @@
 >1. Reapplied all Updated presets of v5.00.0110:
     - Some entity changes failed to carry over in random presets on some packs.
 
-##### Version v5.00.0110 - 118.11 - _Ascension_
+##### Version v5.00.0110 - _Ascension_
 >1. Changed presets:
     - Renamed `✪ Friendly: Logistic` to `✪ Friendly: Logistics`
 >2. Updated presets:
