@@ -10,8 +10,10 @@ It's not just Deuce and me (Zirio) developing the pack, it's all of us working t
 - And a special shout out to the players that thought we should be rewarded, thank you all very much!
 
 ## Top Donors
-♕ **Whizzard** - 2 PLEX (2.406.000.000 ISK)
 
+### ♕ **Whizzard** - 2 PLEX (2.406.000.000 ISK)
+
+1. **s33ker** - 1.000.000.000 ISK
 1. **SniggWaffe** - 600.000.000 ISK
 1. **Kr0nK** - 510.000.000 ISK (First to donate!)
 1. **Alberdina** - 500.000.000 ISK
@@ -25,20 +27,25 @@ It's not just Deuce and me (Zirio) developing the pack, it's all of us working t
 1. **Xorium** - 100.000.000 ISK
 1. **HotterThanYou2** - 50.000.000 ISK
 1. **Aedron** - 50.000.000 ISK
+1. **Lord Running Clam** - 50.000.000 ISK
 1. **Ultimate-Pilot Destiny** - 49.168.046 ISK
 1. **w1ndstrike** - 40.000.000 ISK
 1. **Denali TheGreatOne** - 25.000.000 ISK
 1. **Mauger** - 25.000.000 ISK
 1. **Chekman** - 25.000.000 ISK
+1. **Clank Guerilla** - 25.000.000 ISK
 1. **remus wulf** - 20.000.000 ISK
 1. **onatural** - 20.000.000 ISK
 1. **Dan Skord** - 13.000.000 ISK
 1. **Riseing** - 10.000.000 ISK
 1. **Kitaisu Lokiro** - 10.000.000 ISK
 1. **Maliko Laduko** - 10.000.000 ISK
+1. **mr robot0** - 10.000.000 ISK
+1. **Lothar McPoopenshaft** - 8.008.135 ISK (Typo! \o/)
 1. **Stueey Yaken** - 5.000.000 ISK
 1. **Parzon Hrungy** - 1.000.000 ISK
 1. **Minoo Raholan** - 1.000.000 ISK
 1. **Momoe Kawaguchi** - 500.000 ISK
 1. **Chris Eremor** - 200.000 ISK
 1. **Black Romero** - 150.000 ISK
+1. **Patrick Jr Boirelle** - 50.000 ISK
