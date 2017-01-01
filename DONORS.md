@@ -36,6 +36,7 @@ It's not just Deuce and me (Zirio) developing the pack, it's all of us working t
 1. **Clank Guerilla** - 25.000.000 ISK
 1. **remus wulf** - 20.000.000 ISK
 1. **onatural** - 20.000.000 ISK
+1. **CronicX 009** - 20.000.000 ISK
 1. **Dan Skord** - 13.000.000 ISK
 1. **Riseing** - 10.000.000 ISK
 1. **Kitaisu Lokiro** - 10.000.000 ISK

@@ -20,6 +20,60 @@
 
 ##### --- Standard Versions ---
 
+##### Version v5.11.0424 - 118.10 - _Welcome 119!_
+>1. Updated Layouts:
+    - Moved `⌘ Brackets: Combat/Targets/Friendly (+Dro)` from `Z-S Core` to all 4 Layouts.
+    - Moved `⌘ Brackets: Combat/Targets/Friendly (-Dro)` from `Z-S Core` to all 4 Layouts.
+    - Moved `⌘ Brackets: Misc` from `Z-S Core` to all 4 Layouts.
+    - Moved `⌘ Brackets: Travel` from `Z-S Core` to all 4 Layouts.
+    - Moved `⌘ Brackets: Warpout (!)` from `Z-S Core` to all 4 Layouts.
+    - `✈` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Travel`
+    - `Combat`, `Main` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+    - `Targets`, `3` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+    - `Misc`, `4` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Misc`
+    - `Friendly`, `5` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+    - `Warpout!`, `Exit!` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Warpout (!)`
+>2. Changed presets:
+    - Added `✜ --- PvE: Mission Filter (+LCO +LCS)`
+>3. Updated presets:
+    - Added Celestial:
+        - `Planet` to:
+            - `➲ Extra: Podsaver (!)`
+            - `✥ PvP: PI-
+        - `Harvestable Cloud` to:
+            - `✥ = CovOps: Collidables`
+        - `Wormhole` to:
+            - `✥ = CovOps: Collidables`
+    - Added Orbitals:
+        - `Orbital Infrastructure` to:
+            - `✥ = CovOps: Collidables`
+        - `Orbital Construction Platform` to:
+            - `✥ = CovOps: Collidables`
+    - Added Station:
+        - `Station` to:
+            - `✥ = CovOps: Collidables`
+    - Added Structure:
+        - `Engineering Complex` to:
+            - `✥ = CovOps: Collidables`
+        - `Citadel` to:
+            - `✥ = CovOps: Collidables`
+    - Removed Celestial:
+        - `Biomass` from:
+            - `※ D-Scan: Hunter (+Dro / Offensive)`
+            - `※ D-Scan: Hunter (-Dro / Offensive)`
+        - `Large Collidable Object` from:
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+        - `Wreck` from:
+            - `※ D-Scan: Hunter (+Dro / Offensive)`
+            - `※ D-Scan: Hunter (-Dro / Offensive)`
+
 ##### Version v5.01.0313 - _Ascension_ - _Kr0nK Resync_
 >1. Updated ship brackets styles to allow the activation of `Ship Name`, mimicking the naming convention of Star Trek, i.e **USS _Enterprise_**
     - `Corp Ticker + Ship Name`

@@ -15,9 +15,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v5.01.0313
+#### Current Version: v5.11.0424
 - For Release: **118.10**
-- Updated: **2016.11.29**
+- Updated: **2017.01.01**
 
 #### Links
 - In-game Mailing List: **Z-S Overview**
@@ -99,11 +99,6 @@ Be sure to have a quick read of `EVE University's Overview guide` **[Here](http:
 #### Packs, Layouts & Presets
 - Z-S Core
 
-        ⌘ Brackets: Combat/Targets/Friendly (+Dro)
-        ⌘ Brackets: Combat/Targets/Friendly (-Dro)
-        ⌘ Brackets: Misc
-        ⌘ Brackets: Travel
-        ⌘ Brackets: Warpout (!)
         ➲ Extra: Align Points
         ✈ --- Travel: All
         ✈ Travel (+Ship -Sta)
@@ -135,6 +130,7 @@ Be sure to have a quick read of `EVE University's Overview guide` **[Here](http:
 - Z-S PvE Extended
 
         ✜ --- PvE: Basic (+Dro)
+        ✜ --- PvE: Mission Filter (+LCO +LCS)
         ✜ PvE: Anoms
         ✜ PvE: Incursion
         ✜ PvE: Mining
@@ -179,8 +175,13 @@ Be sure to have a quick read of `EVE University's Overview guide` **[Here](http:
         ✥ Target: Supercarriers
         ✥ Target: Titans
 
-- All 4 Layouts  (Standard 2BL & 1BL, Compact 2BL & 1BL)
+- All 4 Layouts (Standard 2BL & 1BL, Compact 2BL & 1BL)
 
+        ⌘ Brackets: Combat/Targets/Friendly (+Dro)
+        ⌘ Brackets: Combat/Targets/Friendly (-Dro)
+        ⌘ Brackets: Misc
+        ⌘ Brackets: Travel
+        ⌘ Brackets: Warpout (!)
         ✈ Travel (-Ship +Sta)
         ✥ --- PvP: Basic (+Neut +NPC)
         ✥ Target: Drones
