@@ -65,7 +65,7 @@ Be sure to have a quick read of `EVE University's Overview guide` **[Here](http:
  - `1BL` Brackets  
  ![1 Bracket Line](/Images/1 Bracket Line.png "1BL")  
 	- You can alternate between Layouts at any time without reloading the entire pack.
-	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
+	- _Some features might not show correctly at first, It may be necessary to open the Overview Settings again, then select the Ships tab to reload the UI to apply all changes._
 
 #### Option 2: Out of game:
 1. Download:

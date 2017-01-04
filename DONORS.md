@@ -25,11 +25,14 @@ It's not just Deuce and me (Zirio) developing the pack, it's all of us working t
 1. **Ethan Zoromir** - 100.000.000 ISK
 1. **Self Ctrl** - 100.000.000 ISK
 1. **Xorium** - 100.000.000 ISK
+1. **Maliko Laduko** - 100.000.000 ISK
 1. **HotterThanYou2** - 50.000.000 ISK
 1. **Aedron** - 50.000.000 ISK
 1. **Lord Running Clam** - 50.000.000 ISK
+1. **HomeGrownBudZ** - 50.000.000 ISK
 1. **Ultimate-Pilot Destiny** - 49.168.046 ISK
 1. **w1ndstrike** - 40.000.000 ISK
+1. **Styxx** - 33.000.000 ISK
 1. **Denali TheGreatOne** - 25.000.000 ISK
 1. **Mauger** - 25.000.000 ISK
 1. **Chekman** - 25.000.000 ISK
@@ -46,6 +49,7 @@ It's not just Deuce and me (Zirio) developing the pack, it's all of us working t
 1. **Stueey Yaken** - 5.000.000 ISK
 1. **Parzon Hrungy** - 1.000.000 ISK
 1. **Minoo Raholan** - 1.000.000 ISK
+1. **Worsecase Scenario** - 1.000.000 ISK
 1. **Momoe Kawaguchi** - 500.000 ISK
 1. **Chris Eremor** - 200.000 ISK
 1. **Black Romero** - 150.000 ISK
