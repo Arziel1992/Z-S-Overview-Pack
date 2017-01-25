@@ -4,7 +4,8 @@
 - ##### How do you evaluate what entity types are useful for each preset?
 > We check the tactical benefit of said entity VS the cluttering it causes on both the Overview Window List and the Ship Brackets.  
 > If we aren't sure about the cost/benefit, we will usually:
-> - Ask for direct feedback on the chat chanel.
+> - Ask for direct feedback on the chat channel.
+> - Ask for direct feedback on mass email via the maiiling list.
 > - Summon testers to evaluate a pre-build and reach a consensus.
 > - Run a Strawpoll.
 
@@ -14,13 +15,13 @@
 > - ~~Cannot input capital letters.~~ Added on the September 2016 release.
 > - Cannot input HTML tags (`<color>` & `<fontsize>`):
 >   - There is not an easy solution to this aside from saving as a new preset with default style and shorter name.  
->   - The "not so easy" solution is to save the preset "as is", export the Overview Profile and edit the Preset name on the .YAML file directly.  
+>   - The "not so easy" solution is to save the preset "as is", export the Overview Profile and edit the Preset name on the .YAML file directly with a text editor.  
         - Replace `&lt;` and `&gt;` with `<` and `>` respectively in the .YAML file.  
 > - We will reach out to CCP to suggest a small feature patch to widen/remove these limits.
 
 - ##### My Ship Brackets aren't loading?
 > This is a known issue due to bad a sync between the Overview profile and the game.  
-> To fix it you need to open your `Overview Settings` window and cycle a few times between the menu tabs, this will force a resync.
+> To fix it you need to open your `Overview Settings` window and click the `Ships` tab, this will force a resync.
 
 - ##### How to give you feedback?
 > The prefered method is to use the **[Google Form Link](http://goo.gl/forms/h4rTeZCHNorqEsyx2)** next to the **Green Feedback Text**, both in the **MOTD** and the **Mailing List** welcoming mail.  
