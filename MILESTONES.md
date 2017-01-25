@@ -134,3 +134,10 @@ EVE-Mail from Deuce Syundai:
 
 Brought a tear to Deuce's eye, seeing another multiple of 65 being achieved.  
 The channel peaked at 671 that day.
+
+### 5. Article on the Imperium News website.
+##### Received on 24/01/2017
+
+A big **Thank You** to **Stephanie Daugherty** for interviewing Deuce and I (Zirio) to write an article on **[Imperium News](https://imperium.news/z-s-overview-pack/)** about the pack.
+
+And another big **Thank You** to **ERJ145a** for making an awesome **[Video Tutorial](https://www.youtube.com/watch?v=lTmXDiEgb7s)** to go along with the article.
