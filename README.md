@@ -27,13 +27,26 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 
 #### Links
 
-- In-game Mailing List: **Z-S Overview**
-- Visit us on: **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992) - [Discord](http://discord.gg/NSfFKcx)**
+- In-game:
+    - Mailing List: **Z-S Overview**
+    - Chat Channel: **Z-S Overview**
+- Visit us on:
+    - **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/)**
+    - **[Twitter](https://twitter.com/Arziel1992)**
+    - **[Discord](http://discord.gg/NSfFKcx)**
 - Changelog: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)**
 - FAQ: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)**
-- Feedback: **[Here](http://goo.gl/forms/h4rTeZCHNorqEsyx2)**
+- Feedback:
+    - **[Feeback form](http://goo.gl/forms/h4rTeZCHNorqEsyx2)**
+    - **[Real-time feedback responses](https://goo.gl/etZH0J)**
 - Donors: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONORS.md)**
 - Milestones: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/MILESTONES.md)**
+
+#### BEWARE of our resident Troll on Z-S chat channel <3 !!!
+
+- **Lothar McPoopenshaft**  
+A good friend and tester of Z-S, keeps trolling players with an in-game link (*Lothar McPoopenshaft Overview*) that redirects back back to **Z-S Overview** chat channel.
+- We love him, our resident troll.
 
 ## How to install
 #### Must Read!
@@ -48,7 +61,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 
 #### Method 1: Video Tutorials
 
-- Follow this in-depth **[Video Tutorial](https://www.youtube.com/watch?v=lTmXDiEgb7s)** kindly made by **ERJ145a** - [English]
+- Follow this in-depth **[Video Tutorial](https://www.youtube.com/watch?v=l7kLIRGTq_Y)** kindly made by **ERJ145a** - [English]
 
 - **OR** Follow this **[Quick Spotlight](https://www.youtube.com/watch?v=pJApc_E66Es)** kindly made by **AHandinit Flo** - [English]
 
@@ -248,18 +261,59 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 
 ![Colors](Images/Colors.png "Colors")
 
-## Popular mods
+## Popular Z-S mods
+
 Since we can't possibly please everyone with a perfect overview solution, players have taken upon themselves to make very useful modifications to the pack.
 
 Be sure to check them out!
 
 - **[Z-S-Overview-Kafferton-Mod](https://github.com/ChemicalRascal/Z-S-Overview-Kafferton-Mod)** made by **Sally Kafferton**
 
+## Up-to-date 3rd party Overview Packs
+
+You might not like Z-S's style, its presets and/or the whole pack just doesn't appeal to you.  
+
+Fear not! Other players have taken upon themselves to make Overview Packs in different flavours and/or for specific purposes.  
+
+Here are the most popular and up-to-date ones:  
+
+- **Charlie Parker Sidrat's Overview**  
+    Not found on any mailing list or website, simply contact **Sidrat Flush** in game, eve mail or a forum message for a copy. He strongly urges you to edit to suit your own play style.
+    
+    
+- **[EVE University Overview](https://wiki.eveuniversity.org/Installing_the_EVE_University_Overview)**  
+    Overview Pack made and maintained by EVE's most prestigious educational corporation, EVE University.  
+    New-player friendly, made to teach you the ropes of handling the Overview.
+    - In-game chat channel: **Overview.E-UNI
+
+
+- **Kismeteer's Overview**  
+    This is a very simple, beginner friendly overview, with 5 tabs, and only 5 presets.  
+    As it's so small, it's distributed in-game only.  
+    - In-game chat channel: **Kissist**
+    - In-game Mailing List: **KisOver**
+
+## Legacy 3rd party Overview Packs
+
+The same as in real life, some things come and some things go, Overview Packs are no different.  
+Many players have made an effort to make and maintain very successful and useful Overview Packs but everyone gets tired at one point or take long breaks from EVE.  
+
+You all shall be remembered for your efforts so future Overview Pack creators can learn from past experiences.  
+
+- **[SaraShawa Overview Pack](https://www.reddit.com/r/Eve/comments/4b3rzx/sarashawa_overview_pack_version_9_released/)**  
+    The Overview Pack that continued Sarah's legacy, **Oh Takashawa** saw **Sarah's** great effort and set his goal to continue her work, making one of the best Overview Packs the players have used.
+    - In-game chat channel: **SaraShawa Overview**
+    - In-game Mailing List: **Overview** , **Overview2**, **Overview3** and **Overview4**
+
+
+- **[Sarah's Overview Pack](http://forums.ponywaffe.org/topic/1697-sarahs-overview-pack%E2%84%A2-rel-034/)**  
+    The Overview Pack that started it all, **Sarah Schneider** pioneered the Overview customization, giving a very important tool to PonyWaffe and many other players around the game to use while doing the combat and other tasks we all love in EVE.
+
 ## Important!
 ##### If you clone and/or fork the repository!
 
 - Starting from Version v2.66.2012, versioning has been standardized (more information on the **[Changelog](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)** file)  
-    - The inclusion of version tags and consistant numbering has been implemented, will allow to keep a better track of the modifications.  
+    - The inclusion of version tags and consistent numbering has been implemented, will allow to keep a better track of the modifications.  
 - If you plan to clone and/or fork the repository, it is recommended to do it from this version forward.  
 - Commit Squashing WILL NOT be done randomly from now on, so don't worry about an inconsistent history.  
     - If a Commit Squash happens, we will notify all the cloners/forkers with anticipation.  

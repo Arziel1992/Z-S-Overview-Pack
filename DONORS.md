@@ -9,19 +9,30 @@ It's not just Deuce and me (Zirio) developing the pack, it's all of us working t
 - Another shout out to CCP devs on Slack for taking the time to chat and work with me in some simple yet needed changes to improve the Overview System!
 - And a special shout out to the players that thought we should be rewarded, thank you all very much!
 
+## Special donors
+
+Some donors are just special, either for the lol's, good times and/or donations we will always cherish the most!  
+
+We love you <3
+
+1. **Kr0nK** - 510.000.000 ISK (First to donate! <3)
+1. **Patrick Jr Boirelle** - 50.000 ISK (What he could from a New Player wallet <3)
+1. **Lothar McPoopenshaft** - 8.008.135 ISK x7 (Typo! \o/)
+
 ## Top Donors
 
 ### ♕ **Whizzard** - 2 PLEX (2.406.000.000 ISK)
 
+1. **ganner desh** - 1.500.000.000 ISK
 1. **Kerberos Inc.** - 1.051.000.000 ISK [Corp]
 1. **Cowardly Sir Robin** - 1.050.000.000 ISK
 1. **s33ker** - 1.000.000.000 ISK
 1. **SniggWaffe** - 600.000.000 ISK [Corp]
-1. **Kr0nK** - 510.000.000 ISK (First to donate!)
 1. **Alberdina** - 500.000.000 ISK
 1. **Sindarin Alliance** - 250.000.000 ISK
 1. **Astroco** - 250.000.000 ISK [Corp]
 1. **Eirellle** - 152.205.120 ISK
+1. **Razr Wolfgang** - 150.000.000 ISK
 1. **Kitaisu Lokiro** - 110.000.000 ISK
 1. **Byggare BoBson** - 101.000.000 ISK
 1. **deathlock2000** - 100.000.000 ISK
@@ -55,13 +66,13 @@ It's not just Deuce and me (Zirio) developing the pack, it's all of us working t
 1. **Riseing** - 10.000.000 ISK
 1. **Maliko Laduko** - 10.000.000 ISK
 1. **mr robot0** - 10.000.000 ISK
-1. **Lothar McPoopenshaft** - 8.008.135 ISK (Typo! \o/)
+1. **GoodKenny** - 10.000.000 ISK
 1. **Stueey Yaken** - 5.000.000 ISK
 1. **Parzon Hrungy** - 1.000.000 ISK
 1. **Minoo Raholan** - 1.000.000 ISK
 1. **Worsecase Scenario** - 1.000.000 ISK
 1. **Addonic X** - 1.000.000 ISK
+1. **Lucy Tra** - 1.000.000 ISK
 1. **Momoe Kawaguchi** - 500.000 ISK
 1. **Chris Eremor** - 200.000 ISK
 1. **Black Romero** - 150.000 ISK
-1. **Patrick Jr Boirelle** - 50.000 ISK (Most appreciated <3)

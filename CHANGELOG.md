@@ -1,7 +1,7 @@
 ## Changelog
 
-##### How to read versions
->- A.BB.XXYY - NAME
+#### How to read versions
+- A.BB.XXYY - NAME
 	- A	= New game release - Sub-Classification Reset
 		- **Only if** new entity types and/or visual states are added and affect the pack significantly.
         - **Or** sub-classifications reach the max count (99).
@@ -18,10 +18,10 @@
 		- Amounts are added up to the previous version amounts to show the current total of modifications.
 	- NAME = Shout out to the circumstance(s) and/or player(s) that provided the most feedback during the version development.
 
-##### --- Standard Versions ---
+#### --- Standard Versions ---
 
 ##### Version v5.11.0424 - 118.10 - _Welcome 119!_
->1. Updated Layouts:
+1. Updated Layouts:
     - Moved `⌘ Brackets: Combat/Targets/Friendly (+Dro)` from `Z-S Core` to all 4 Layouts.
     - Moved `⌘ Brackets: Combat/Targets/Friendly (-Dro)` from `Z-S Core` to all 4 Layouts.
     - Moved `⌘ Brackets: Misc` from `Z-S Core` to all 4 Layouts.
@@ -39,9 +39,9 @@
         - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
     - `Warpout!`, `Exit!` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
         - `⌘ Brackets: Warpout (!)`
->2. Changed presets:
+2. Changed presets:
     - Added `✜ --- PvE: Mission Filter (+LCO +LCS)`
->3. Updated presets:
+3. Updated presets:
     - Added Celestial:
         - `Planet` to:
             - `➲ Extra: Podsaver (!)`
@@ -75,12 +75,12 @@
             - `※ D-Scan: Hunter (-Dro / Offensive)`
 
 ##### Version v5.01.0313 - _Ascension_ - _Kr0nK Resync_
->1. Updated ship brackets styles to allow the activation of `Ship Name`, mimicking the naming convention of Star Trek, i.e **USS _Enterprise_**
+1. Updated ship brackets styles to allow the activation of `Ship Name`, mimicking the naming convention of Star Trek, i.e **USS _Enterprise_**
     - `Corp Ticker + Ship Name`
->2. Moved preset:
+2. Moved preset:
     - `✜ --- PvE: Basic (-Dro)` to `Z-S Core`
     - `✜ --- PvE: Basic (+Dro)` to `Z-S PvE Extended`
->3. Updated presets:
+3. Updated presets:
     - Added Entity:
         - All `Hidden Zenith (Faction) Capital` to:
             - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
@@ -94,13 +94,13 @@
             - `※ D-Scan: Ships (-Dro / Defensive)`
 
 ##### Version v5.00.0110-B (not released, pushed to the next version)
->1. Reapplied all Updated presets of v5.00.0110:
+1. Reapplied all Updated presets of v5.00.0110:
     - Some entity changes failed to carry over in random presets on some packs.
 
 ##### Version v5.00.0110 - _Ascension_
->1. Changed presets:
+1. Changed presets:
     - Renamed `✪ Friendly: Logistic` to `✪ Friendly: Logistics`
->2. Updated presets:
+2. Updated presets:
     - Added Celestial:
         - `Effect Beacon` to:
             - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
@@ -263,26 +263,26 @@
             - `※ D-Scan: Ships (-Dro / Defensive)`
 
 ##### Version v4.05.3021 - 118.9 - _Large Hadron Collider_
->1. Removed `<fontsize=11>` tags due they are the default game fontsize and do not need to be declared.
->2. Changed presets:
+1. Removed `<fontsize=11>` tags due they are the default game fontsize and do not need to be declared.
+2. Changed presets:
     - Added `✥ = CovOps: Collidables`
     - Removed `✥ = Bombing Warpouts`
         - `➲ Extra: Align Points` has the same, if not better, functionality.
->3. Updated presets:
+3. Updated presets:
     - Added Deployable:
         - `Encounter Surveillance System` to:
             - `✜ PvE: Anoms`
             - `✜ PvE: Ratting`
 
 ##### Version v4.04.2820 - 118.9 - _Critical fixes & additions_
->1. Changed tab colors:
+1. Changed tab colors:
     - `Targets` tab color to orange (#FD9666)
     - `Misc` tab color to purple (#D38FFD)
->2. Changed `Friendly` tab main preset from `✪ --- Friendly: All (+Dro)` to `✪ --- Friendly: All (-Dro)`
->3. Changed preset colors:
+2. Changed `Friendly` tab main preset from `✪ --- Friendly: All (+Dro)` to `✪ --- Friendly: All (-Dro)`
+3. Changed preset colors:
     - All `✜ PvE` presets to yellow (#FFFF66)
     - All `✥ Target` presets to orange (#FD9666)
->4. Changed presets:
+4. Changed presets:
     - Renamed `※ D-Scan: Hunter` to `※ D-Scan: Hunter (+Dro / Offensive)`
     - Renamed `※ D-Scan: Ships (-Cel +Dro)` to `※ D-Scan: Ships (+Dro / Defensive)`
     - Renamed `※ D-Scan: Ships (-Cel -Dro)` to `※ D-Scan: Ships (-Dro / Defensive)`
@@ -302,7 +302,7 @@
     - Removed `⌘ Brackets: Hostile`
     - Removed `⌘ Brackets: None`
     - Removed `⌘ Brackets: Skirmirsh`
->5. Updated presets:
+5. Updated presets:
     - Removed Celestial:
         - `Stargate` to:
             - `✪ --- Friendly: All (+Dro)`
@@ -331,14 +331,14 @@
             - `※ D-Scan: Ships (-Dro / Defensive)  Defense`
 
 ##### Version v4.02.1214 - 118.9 - _Feedback follow-up & 118.9 tweaks_
->1. The `Drones` tab is now called `Targets`.
+1. The `Drones` tab is now called `Targets`.
     - Changed its color to a brighter purple (#D38FFD), it can be read more easily.
->2. All `✥ Target` presets now have a new purple (#D38FFD) color to identify them more easily and be consistent with the Tab renaming and recoloring in point 1. 
->3. Changed presets:
+2. All `✥ Target` presets now have a new purple (#D38FFD) color to identify them more easily and be consistent with the Tab renaming and recoloring in point 1. 
+3. Changed presets:
     - Renamed `✥ --- PvP: FW` to `✥ PvP: FW`
     - Added `✥ PvP: Exploring`
     - Added `✥ PvP: PI`
->4. Updated presets:
+4. Updated presets:
     - Added Celestial:
         - `Large Collidable Object` to:
             - `✜ PvE: Incursion`
@@ -364,8 +364,8 @@
             - `✜ PvE: Mining`
 
 ##### Version v4.01.0805 - 118.8 - _Feedback follow-up_
->1. Added new pack `Z-S D-Scan Extended`
->2. Changed presets:
+1. Added new pack `Z-S D-Scan Extended`
+2. Changed presets:
     - All styled presets now have the default font size.
     - Styled `Brackets` presets now have the default color.
         - Will allow the player to edit and save them without breaking the HTML tags.
@@ -375,7 +375,7 @@
     - Added `※ D-Scan: Hunter`
     - Removed `✈ --- Travel: Basic`
     - Removed `✈ Travel: Hide Stations`
->3. Updated presets:
+3. Updated presets:
     - Added Celestial:
         - `Wormhole` to:
             - `➲ Extra: Align Points`
@@ -387,7 +387,7 @@
             - `✈ --- Travel: All`
 
 ##### Version v4.00.0002 - 118.8 - _New release_
->1. Updated presets:
+1. Updated presets:
     - Added Entity:
         - New event entities to:
             - Several
@@ -398,14 +398,14 @@
             - `⌘ Brackets: Skirmirsh`
 
 ##### Version v3.10.1434 - 118.7 - _Smoothing_
->1. Changed Appearance:
+1. Changed Appearance:
     - Colortag:
         - Reverted to old settings.
     - Background:
         - Reverted to old settings.
 
 ##### Version v3.08.1434 - 118.7 - _Carson Moore's discoveries_
->1. Changed Appearance:
+1. Changed Appearance:
     - Colortag:
         - Colors match E-UNI's specifications.
         - Blinking match E-UNI's specifications.
@@ -414,7 +414,7 @@
         - Colors match E-UNI's specifications.
         - Blinking match E-UNI's specifications.
         - Priority order stay the same (further revision needed)
->2. Updated presets:
+2. Updated presets:
     - Added Deployable:
         - `Mobile Warp Disruptor` to:
             - `✜ PvE: Anoms`
@@ -454,7 +454,7 @@
             - `Pilot is in your fleet` on `✜ PvE: Ratting`
 
 ##### Version v3.06.1425 - 118.7 - _Cixin Airuta's illumination_
->1. Changed presets:
+1. Changed presets:
     - Renamed `✥ --- PvP: Basic (+NPC +Neut)` to `✥ --- PvP: Basic (+Neut +NPC)`
     - Renamed `✥ --- PvP: Basic (+NPC -Neut)` to `✥ --- PvP: Basic (-Neut +NPC)`
     - Renamed `✥ --- PvP: Basic (-NPC +Neut)` to `✥ --- PvP: Basic (+Neut -NPC)`
@@ -464,7 +464,7 @@
     - Renamed `※ D-Scan: POS (-Mod +Cel)` to `※ D-Scan: POS (+Cel -Mod)`
     - Renamed `※ D-Scan: Ships (-Cel)` to `※ D-Scan: Ships (-Cel +Dro)`
     - Added `※ D-Scan: Ships (-Cel -Dro)`
->2. Updated presets:
+2. Updated presets:
     - Added Charge:
         - `Scanner Probe` to:
             - `※ D-Scan: Ships (-Cel +Dro)`
@@ -474,9 +474,9 @@
             - `※ D-Scan: Ships (-Cel -Dro)`
 
 ##### Version v3.06.0523 - 118.7 - _Strawpoll results tweaks_
->1. Added a new `Z-S Full Unstylized Presets.yaml` import file.
+1. Added a new `Z-S Full Unstylized Presets.yaml` import file.
     - It'll allow the player to save any changes to the presets without breaking the preset name entirely.
-        - Will not show styling tags anymore (`<color>` & `<fontsize>`).
+        - Will not show styling tags anymore (```<color>``` & ```<fontsize>```).
         - The presets will have the Default colouring.
         - The presets will have the Default font size.
     - Currently when a player saves an edited preset, the system prompts to input a name for it. The input field's character limit will cut some pre-added names.
@@ -485,8 +485,8 @@
     - We will contact CCP regarding a small update to the Overview input fields that will allow to:
         - ~~Input longer names.~~ Coming on the September 2016 release.
         - ~~Input Capital letters.~~ Coming on the September 2016 release.
-        - Input styling tags (`<color>` & `<fontsize>`). Not yet, difficult to implement.
->2. Updated presets:
+        - Input styling tags (```<color>``` & ```<fontsize>```). Not yet, difficult to implement.
+2. Updated presets:
     - Removed Orbital:
         - `Orbital Infrastructure` from:
             - `✥ --- PvP: Basic (+NPC +Neut)`
@@ -495,16 +495,16 @@
             - `✥ --- PvP: Basic (-NPC -Neut)`
 
 ##### Version v3.05.0522 - 118.7 - _Bug fixing, Tweaking & Cleaning_
->1. Implemented standard nomenclatures.
->2. Renamed `Ship Bracket Row` (SBR) to `Ship Bracket Line` (SBL)
+1. Implemented standard nomenclatures.
+2. Renamed `Ship Bracket Row` (SBR) to `Ship Bracket Line` (SBL)
     - Updated Layout names accordingly.
->3. Changed presets:
+3. Changed presets:
     - Renamed `✜ --- PvE: Basic` to `✜ --- PvE: Basic (+Dro)`
     - Renamed `✪ --- Friendly: All` to `✪ --- Friendly: All (+Dro)`
     - Added `✪ --- Friendly: All (-Dro)`
     - Added `✜ --- PvE: Basic (-Dro)`
     - Removed `✜ PvE: Show Drones`
->4. Updated presets:
+4. Updated presets:
     - Updated NPC:
         - `Pirate NPC` on:
             - `✜ --- PvE: Basic (+Dro)`
@@ -612,17 +612,17 @@
             - `※ D-Scan: POS (-Mod +Cel)`
 
 ##### Version v2.66.2012 - 118.6 - _Skrimokst & Parthannun's adjustements_
->1. Created two new Layouts that allow players to have single-line Player Ship Brackets instead of double-line:
+1. Created two new Layouts that allow players to have single-line Player Ship Brackets instead of double-line:
 	- `1 SB Row` = `1 Ship Bracket Row`
 	- `2 SB Row` = `2 Ship Bracket Rows`
->2. Changed Layouts:
+2. Changed Layouts:
 	- Renamed `Z-S 6-Tab Compact Layout` to `Z-S 6-Tab Compact 2 SB Rows`
 	- Renamed `Z-S 6-Tab Standard Layout` to `Z-S 6-Tab Standard 2 SB Rows`
     - Added `Z-S 6-Tab Compact 1 SB Row`
 	- Added `Z-S 6-Tab Standard 1 SB Row`
 	- Removed `Z-S 8-Tab Compact Layout`
 	- Removed `Z-S 8-Tab Standard Layout`
->3. Changed presets:
+3. Changed presets:
 	- Renamed `✥ --- PvP: Basic (NPC)` to `✥ --- PvP: Basic (+NPC +Neut)`
 	- Renamed `✥ --- PvP: Basic (No NPC)` to `✥ --- PvP: Basic (-NPC +Neut)`
 	- Renamed `※ D-Scan: POS + Mods (Cel)` to `※ D-Scan: POS (+Mods +Celes)`
@@ -634,7 +634,7 @@
 		- `✜ PvE: Ratting`
     - Added `✥ --- PvP: Basic (+NPC -Neut)`
 	- Added `✥ --- PvP: Basic (-NPC -Neut)`
->4. Updated presets:
+4. Updated presets:
 	- Added Celestial:
 		- `Force Field` to:
             - `※ D-Scan: Sips (-Celes)`
@@ -670,22 +670,22 @@
             - `Pilot has neutral standing` on `✜ PvE: Incursion`
             - `Pilot has no standing` on `✜ PvE: Incursion`
 
-##### --- Non-Standard Versions ---
+#### --- Non-Standard Versions ---
 
 ##### Version v2.6.10 - 118.6 - _Kr0nK's tweaks_
->1. Updated Ship Brackets:
+1. Updated Ship Brackets:
 	- Removed `ShipName` variable.
->2. Reordered Overview Columns:
+2. Reordered Overview Columns:
 	- Added `Tag` coumn:
 		- Easiness of sorting and viewing of target broadcasts during fleet fights.
->3. Renamed packs:
+3. Renamed packs:
 	- `Z-S PvE Basic` to `Z-S PvE Basic Extended`
 		- Corrected `Loaded` text to match the pack name.
 	- `Z-S PvE Friendly` to `Z-S PvE Friendly Extended`
 		- Corrected `Loaded` text to match the pack name.
->4. Changed presets:
+4. Changed presets:
 	- Added `✥ --- PvP: Basic (No NPC)`
->5. Updated presets:
+5. Updated presets:
 	- Added missing `Overseer NPC's` to:
 		- `✥ --- PvP: Basic`
 		- `✥ --- PvP: FW`
@@ -694,18 +694,18 @@
 	- Renamed `✥ --- PvP: Basic` to `✥ --- PvP: Basic (NPC)`
 
 ##### Version v2.6.00 - 118.6 - _Kithanu, Teroh & Sansh's improved Ship Brackets_
->1. Revamped Ship Brackets:
+1. Revamped Ship Brackets:
 	- Condensed the information from 4 to 2 rows for legibility in ship clusters.
 	- Recolored the variables for better identification.
 	- Resized the variables, distinguishing from most important to insignificant (tactically speaking).
 	- Removed `ShipName` variable (partially).
->2. Ranamed Tabs:
+2. Ranamed Tabs:
 	- `Loot` to `Misc` (yellow).
 	- `Misc` to `Friendly` (blue).
->3. Reorganized column order: Alliance > Corporation
->4. Changed presets:
+3. Reorganized column order: Alliance > Corporation
+4. Changed presets:
 	- Added `※ D-Scan: Pos + Mods (No Cel)`
->5. Updated presets:
+5. Updated presets:
 	- Added missing NPC's to ALL PvE presets:
 		- Overseer NPC's
 		- Event NPC's
@@ -717,19 +717,19 @@
 		- Added the most widely used and useful entities. 
 
 ##### Version v2.5.00 - 118.6 - _Logain's Modular Overhaul_
->1. Categorized preset links:
+1. Categorized preset links:
 	- Replaces the split part system for a more convenient category system, where the player loads the category he/she wants/needs, then applies the final Tab Layout.
 	- Made to reduce cluttering of unwanted/unneeded presets.
->2. Included changes from:
+2. Included changes from:
 	- Version v2.3.00
 	- Version v2.4.00
 
 ##### Version v2.4.00 (not released, pushed to the next version)
->1. Renamed `Brackets` presets for consistency.
->2. Renamed `Hostile` presets to `Target` for consistency.
->3. Changed presets:
+1. Renamed `Brackets` presets for consistency.
+2. Renamed `Hostile` presets to `Target` for consistency.
+3. Changed presets:
     - Ranamed `✥ --- PvP: Normal` to `✥ --- PvP: Basic`
->4. Updated presets:
+4. Updated presets:
 	- Updated `➲ Extra: Align Points`:
 		- Added Structure: Citadel.
 	- Updated `✜ --- PvE: Basic`:
@@ -740,7 +740,7 @@
 		- Added Entity: Mission Container, Event Container.
 
 ##### Version v2.3.00 (not released, pushed to the next version)
->1. Changed presets:
+1. Changed presets:
 	- Added `⌘ --- Brackets: All`:
 		- More permanent solution to `Show All Brackets`
 		- Works as a Collidable locator.
@@ -751,43 +751,43 @@
 		- Combination of `※ D-Scan: Ships` and `※ D-Scan: Pos All`
 
 ##### Version v2.2.00 - 118.6 - _Deuce's design improvements_
->1. Ranamed `Finishes` to `Tab Layouts`
->2. Adjusted the sizes of both 6 & 8 Compact Layouts to fit better on smaller screens.
->3. Increased the Icon size on the presets for better legibility.
->4. Replaced the Hostile Icon for a more adequate one to fit the new sizes.
+1. Ranamed `Finishes` to `Tab Layouts`
+2. Adjusted the sizes of both 6 & 8 Compact Layouts to fit better on smaller screens.
+3. Increased the Icon size on the presets for better legibility.
+4. Replaced the Hostile Icon for a more adequate one to fit the new sizes.
 
 ##### Version v2.1.00 - 118.6 - _Zirio's experiments_
->1. Adjusted information rows on Player Ship brackets.
->2. Updated presets:
+1. Adjusted information rows on Player Ship brackets.
+2. Updated presets:
 	- Added Fighters to `Friendly: All`
 	- Added Warpgates to `PvE: Incursions`
 	- Added Custom Offices to `Structures`
 	- Corrected typo on `PvP: Normal`
 
 ##### Version v2.0.00 - 118.6 - _Zirio's renovation_
->1. Rewrote the entirety of the code for consistency, readability, compactness and scalability.
->2. Adjusted split imports:
+1. Rewrote the entirety of the code for consistency, readability, compactness and scalability.
+2. Adjusted split imports:
 	- Adjusted into 4 base parts.
 	- Added 4 finish parts.
->3. Added finishes:
+3. Added finishes:
 	- Added `6 Compact Tabs`
 	- Added `6 Normal Tabs`
 	- Added `8 Compact Tabs`
 	- Added `8 Normal Tabs`
->4. Added presets:
+4. Added presets:
 	- Added `PvE: Incursion`
->5. Updated presets:
+5. Updated presets:
 	- Added Citadels to `Friendly: All`
 
 ##### Version v1.0.00 - 118.6 - _Zirio's tweaks_
->1. Manual fork from SaraShawa-Overview Pack v9.1
+1. Manual fork from SaraShawa-Overview Pack v9.1
 	- (Export pack from the game to the overview folder, then edit the .YAML file)
->2. Simplified tabs:
+2. Simplified tabs:
 	- Added tab colouring.
->3. Simplified presets:
+3. Simplified presets:
 	- Added preset colouring.
 	- Added preset ideography.
->4. Created split imports:
+4. Created split imports:
 	- Added 6 base parts.
 	- Added 1 finish.
 	- Added 1 optional finish.
