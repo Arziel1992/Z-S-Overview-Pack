@@ -1,4 +1,4 @@
-<img src="Images/Z-S_Logo_2.png" align="right" />  
+<img src="Images/Z-S_Logo_2.png" align="right" />
 
 # Z-S Overview Pack
 ### Overview Pack for EVE Online
@@ -9,19 +9,29 @@ What started as a stop-gap measure back in early 2016 to bring the SaraShawa Ove
 
 If you're familiar with SaraShawa, it shouldn't take too long to adjust to the changes.
 
-**Zirio** - YAML Coding & Pack Maintenence  
+<img src="Images/Zirio.jpg" align="left" height="60" width="60" />
+
+&nbsp;  
+**Zirio** - YAML Coding, Pack Maintenance & Long Term Updates  
+&nbsp;  
+<img src="Images/Deuce.jpg" align="left" height="60" width="60" />
+
 **Deuce Syundai** - Design & Text Formatting
 
-##### New features include:
+&nbsp;
+
+#### New features include:
 
 - Choice of Full-Size or Compact 6-Tab Layouts that can be swapped at any time without reloading the entire pack.
 - Modular Setup: Load the Preset Packs you need.
 - New and ever evolving presets for all activities on EVE, including dedicated Faction Warfare and Incursion presets among others.
 - Color-coded presets by category for improved ease of selection.
 
+___
+
 #### Current Version: v6.16.0008
 
-- Updated: **2017.04.09**
+- Updated: **2017.05.09**
 - For Release: **119.5**
 - Compatible: **119.5**
 
@@ -47,6 +57,8 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - **Lothar McPoopenshaft**  
 A good friend and tester of Z-S, keeps trolling players with an in-game link (*Lothar McPoopenshaft Overview*) that redirects back back to **Z-S Overview** chat channel.
 - We love him, our resident troll.
+
+___
 
 ## How to install
 #### Must Read!
@@ -98,7 +110,8 @@ You may need them for more specialized presets:
 	- _You can go back to add in additional packs at any time without reloading the entire pack. Simply click on a pack to add, then repeat step 5 below._
 	- Note the instructions on the tab.  
     
-    ![Pack Loaded](Images/Pack_Loaded.png "Pack Loaded!")  
+    ![Pack Loaded](Images/Pack_Loaded.png "Pack Loaded!")
+    
     ![PvP Basic](Images/PvP_Basic.png "Basic Full Loadout")  ![PvP Extended](Images/PvP_Extended.png "Extended Full Loadout")  
 
 5. To finish and set up the tabs, apply a Tab Layout by clicking on their links.  
@@ -151,6 +164,7 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 8. Repeat step 7 if you are importing individual packs + layouts instead of a Full profile.
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
 
+___
 
 #### Packs, Layouts & Presets
 
@@ -261,13 +275,15 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 
 ![Colors](Images/Colors.png "Colors")
 
+___
+
 ## Popular Z-S mods
 
 Since we can't possibly please everyone with a perfect overview solution, players have taken upon themselves to make very useful modifications to the pack.
 
 Be sure to check them out!
 
-- **[Z-S-Overview-Kafferton-Mod](https://github.com/ChemicalRascal/Z-S-Overview-Kafferton-Mod)** made by **Sally Kafferton**
+- **[Z-S-Overview-Kafferton-Mod](https://github.com/ChemicalRascal/Z-S-Overview-Kafferton-Mod)** useful tweaks made by **Sally Kafferton**.
 
 ## Up-to-date 3rd party Overview Packs
 
@@ -284,7 +300,7 @@ Here are the most popular and up-to-date ones:
 - **[EVE University Overview](https://wiki.eveuniversity.org/Installing_the_EVE_University_Overview)**  
     Overview Pack made and maintained by EVE's most prestigious educational corporation, EVE University.  
     New-player friendly, made to teach you the ropes of handling the Overview.
-    - In-game chat channel: **Overview.E-UNI
+    - In-game chat channel: **Overview.E-UNI**
 
 
 - **Kismeteer's Overview**  

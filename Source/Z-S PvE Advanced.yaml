@@ -2460,7 +2460,7 @@ tabSetup:
   - - - bracket
       - '<color=0xFFFFFF66>✜ PvE: Anoms</color>'
     - - name
-      - '<fontsize=12><color=0xFF66CCFF><b> Z-S PvE Extended loaded! </b></color></fontsize>
+      - '<fontsize=12><color=0xFF66CCFF><b> Z-S PvE Advanced loaded! </b></color></fontsize>
 
         <fontsize=12><color=0xFFFF6666><b> • Apply another Preset Pack, or </b></color></fontsize>
 
