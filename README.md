@@ -19,11 +19,11 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New and ever evolving presets for all activities on EVE, including dedicated Faction Warfare and Incursion presets among others.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v5.11.0424
+#### Current Version: v6.16.0008
 
-- Updated: **2017.01.01**
-- For Release: **118.10**
-- Compatible: **119.3**
+- Updated: **2017.04.09**
+- For Release: **119.5**
+- Compatible: **119.5**
 
 #### Links
 
@@ -156,6 +156,9 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 
 - Z-S Core
 
+        ⌘ Brackets: Combat/Targets/Friendly (-Dro)
+        ⌘ Brackets: Misc
+        ⌘ Brackets: Travel
         ➲ Extra: Align Points
         ✈ --- Travel: All
         ✈ Travel (+Ship -Sta)
@@ -184,7 +187,7 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
         ✪ Friendly: Recons
         ✪ Friendly: SC/T
 
-- Z-S PvE Extended
+- Z-S PvE Advanced
 
         ✜ --- PvE: Basic (+Dro)
         ✜ --- PvE: Mission Filter (+LCO +LCS)
@@ -193,7 +196,7 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
         ✜ PvE: Mining
         ✜ PvE: Ratting
 
-- Z-S PvP Basic
+- Z-S PvP Advanced
 
         ✥ --- PvP: Basic (+Neut -NPC)
         ✥ --- PvP: Basic (-Neut +NPC)
@@ -235,16 +238,13 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 - All 4 Layouts (Standard 2BL & 1BL, Compact 2BL & 1BL)
 
         ⌘ Brackets: Combat/Targets/Friendly (+Dro)
-        ⌘ Brackets: Combat/Targets/Friendly (-Dro)
-        ⌘ Brackets: Misc
-        ⌘ Brackets: Travel
         ⌘ Brackets: Warpout (!)
+        ➲ Extra: Podsaver (!)
         ✈ Travel (-Ship +Sta)
+        ✜ PvE: Salvage/Loot
         ✥ --- PvP: Basic (+Neut +NPC)
         ✥ Target: Drones
-        ✜ PvE: Salvage/Loot
         ✪ --- Friendly: All (-Dro)
-        ➲ Extra: Podsaver (!)
 
 #### Nomenclature
 
@@ -254,8 +254,8 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
     - NPC:  Rat(s) - Non-Player Character(s)
     - Mod:  Module(s)
     - Sta:  Station(s) & Citadel(s)
-    - Offensive:    
-    - Defensive:    
+    - Offensive:    Active PvP (looking for engagements)
+    - Defensive:    Passive PvP (avoiding engagements)
 
 #### Pack colors
 
