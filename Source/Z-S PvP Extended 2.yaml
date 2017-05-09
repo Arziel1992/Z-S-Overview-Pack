@@ -361,6 +361,8 @@ stateColorsNameList:
   - red
 - - background_45
   - blue
+- - background_48
+  - black
 - - background_49
   - blue
 - - background_50
@@ -371,6 +373,8 @@ stateColorsNameList:
   - orange
 - - background_9
   - orange
+- - flag_48
+  - black
 tabSetup:
 - - 0
   - - - bracket

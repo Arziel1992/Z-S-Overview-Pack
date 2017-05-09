@@ -16,9 +16,102 @@
 	- YY = Preset updates amount
 		- Types by categories and states changes.
 		- Amounts are added up to the previous version amounts to show the current total of modifications.
-	- NAME = Shout out to the circumstance(s) and/or player(s) that provided the most feedback during the version development.
+	- NAME = Shout out to the circumstance(s) and/or player(s) that provided the most feedback and/or impact during the version development.
 
 #### --- Standard Versions ---
+
+##### Version v6.16.0008 - 119.5 - _Bigger things to come!_
+1. Added two new Full profiles for EVE University's colour preferences:
+    - `E-Uni Appearance - Stylized`
+    - `E-Uni Appearance - Unstylized`
+2. Renamed Full profiles for consistency:
+    - `Z-S Full Stylized` to `Z-S Appearance - Stylized`
+    - `Z-S Full Unstylized` to `Z-S Appearance - Unstylized`
+3. Renamed packs for consistency due their contents:
+    - `Z-S PvE Extended` to `Z-S PvE Advanced`
+    - `Z-S PvP Basic` to `Z-S PvP Advanced`
+4. Updated Layouts:
+    - Moved `⌘ Brackets: Combat/Targets/Friendly (-Dro)` from all 4 Layouts back to `Z-S Core`
+    - Moved `⌘ Brackets: Misc` from all 4 Layouts back to `Z-S Core`
+    - Moved `⌘ Brackets: Travel` from all 4 Layouts back to `Z-S Core`
+    - For consistency while switching tabs:
+        - `✈` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+        - `Combat`, `Main` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+        - `Targets`, `3` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+        - `Misc`, `4` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+        - `Friendly`, `5` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+5. Updated Appearance:
+    - `Pilot has No Standing.` colortag set to `Black`
+    - `Pilot has No Standing.` background set to `Black`
+6. Updated presets:
+    - Added Celestial:
+        - `Biomass` to:
+            - `※ --- D-Scan: All`
+            - `※ D-Scan: Hunter (+Dro / Offensive)`
+            - `※ D-Scan: Hunter (-Dro / Offensive)`
+        - `Wreck` to:
+            - `※ --- D-Scan: All`
+            - `※ D-Scan: Hunter (+Dro / Offensive)`
+            - `※ D-Scan: Hunter (-Dro / Offensive)`
+    - Added Deployable:
+        - `Mobile Depot` to:
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (+Neut -NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut -NPC)`
+            - `✥ = NPSI`
+    - Added Entity:
+        - `Drifter Response Battleship` to:
+            - `※ --- D-Scan: All`
+            - `※ D-Scan: Hunter (+Dro / Offensive)`
+            - `※ D-Scan: Hunter (-Dro / Offensive)`
+            - `※ D-Scan: Ships (+Dro / Defensive)`
+            - `※ D-Scan: Ships (-Dro / Defensive)`
+    - Added Structure:
+        - `Citadel` to:
+            - `✥ = NPSI`
+        - `Engineering Complex` to:
+            - `✥ = NPSI`
+        - `♦ Engineering Complex` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (+Neut -NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut -NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ = NPSI`
+            - `✥ = Structures`
+            - `✥ PvP: FW`
+    - Readded Entity:
+        - `♦ (Ship)` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ PvP: FW`
 
 ##### Version v5.11.0424 - 118.10 - _Welcome 119!_
 1. Updated Layouts:
