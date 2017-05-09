@@ -2906,7 +2906,7 @@ tabSetup:
   - - - bracket
       - '<color=0xFFFF6666>✥ --- PvP: Basic (-Neut -NPC)</color>'
     - - name
-      - '<fontsize=12><color=0xFF66CCFF><b> Z-S PvP Basic loaded! </b></color></fontsize>
+      - '<fontsize=12><color=0xFF66CCFF><b> Z-S PvP Advanced loaded! </b></color></fontsize>
 
         <fontsize=12><color=0xFFFF6666><b> • Apply another Preset Pack, or </b></color></fontsize>
 
