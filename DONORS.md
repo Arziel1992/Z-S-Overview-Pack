@@ -22,7 +22,7 @@ We love you <3
 
 ## Top Donors
 
-### ♕ **Whizzard** - 2 PLEX (2.406.000.000 ISK)
+### ♕ **Whizzard** - 2 (old) PLEX (2.406.000.000 ISK)
 
 1. **ganner desh** - 1.500.000.000 ISK
 1. **Kerberos Inc.** - 1.051.000.000 ISK [Corp]
@@ -46,6 +46,7 @@ We love you <3
 1. **Silvanesti Silver** - 100.000.000 ISK
 1. **Welwyn DeLuca** - 100.000.000 ISK
 1. **Parthena** - 100.000.000 ISK
+1. **Karsten** - 100.000.000 ISK
 1. **Ultimate-Pilot Destiny** - 78.476.429 ISK
 1. **HotterThanYou2** - 50.000.000 ISK
 1. **Aedron** - 50.000.000 ISK
@@ -53,6 +54,7 @@ We love you <3
 1. **HomeGrownBudZ** - 50.000.000 ISK
 1. **Spartan BSX86** - 50.000.000 ISK
 1. **Valkh** - 50.000.000 ISK
+1. **Histachii TheGreat** - 50.000.000 ISK
 1. **w1ndstrike** - 40.000.000 ISK
 1. **Styxx** - 33.000.000 ISK
 1. **Denali TheGreatOne** - 25.000.000 ISK
