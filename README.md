@@ -31,9 +31,9 @@ ___
 
 #### Current Version: v6.16.0008
 
-- Updated: **2017.05.09**
-- For Release: **119.5**
-- Compatible: **119.5**
+- Updated: **2017.10.30**
+- For Release: **Lifeblood**
+- Compatible: **Lifeblood**
 
 #### Links
 
@@ -205,7 +205,8 @@ ___
 
         ✜ --- PvE: Basic (+Dro)
         ✜ --- PvE: Mission Filter (+LCO +LCS)
-        ✜ PvE: Anoms
+        ✜ PvE: Anoms (+Dro)
+        ✜ PvE: Anoms (-Dro)
         ✜ PvE: Incursion
         ✜ PvE: Mining
         ✜ PvE: Ratting

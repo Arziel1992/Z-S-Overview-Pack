@@ -20,6 +20,316 @@
 
 #### --- Standard Versions ---
 
+##### Version v7.00.0235 - _Lifeblood_ - _Overhaul Part 1_
+1. Changed presets:
+    - Split `✜ PvE: Anoms` into:
+        - `✜ PvE: Anoms (+Dro)`
+        - `✜ PvE: Anoms (-Dro)`
+2. Updated presets:
+    - Added Asteroid:
+        - `Common Moon Asteroids` to:
+            - `✜ PvE: Mining`
+            - `✥ = CovOps: Collidables`
+        - `Empire Asteroids` to:
+            - `✜ PvE: Mining`
+            - `✥ = CovOps: Collidables`
+        - `Exceptional Moon Asteroids` to:
+            - `✜ PvE: Mining`
+            - `✥ = CovOps: Collidables`
+        - `Rare Moon Asteroids` to:
+            - `✜ PvE: Mining`
+            - `✥ = CovOps: Collidables`
+        - `Ubiquitous Moon Asteroids` to:
+            - `✜ PvE: Mining`
+            - `✥ = CovOps: Collidables`
+        - `Uncommon Moon Asteroids` to:
+            - `✜ PvE: Mining`
+            - `✥ = CovOps: Collidables`
+    - Added Celestial:
+        - `Moon Mining Beacon` to:
+            - `⌘ Brackets: Misc`
+            - `✈ --- Travel: All`
+            - `✈ Travel (+Ship -Sta)`
+            - `✈ Travel (-Ship +Sta)`
+            - `➲ Extra: Align Points`
+            - `✜ PvE: Mining`
+            - `✥ = CovOps: Collidables`
+        - `Warp Gate` to:
+            - `✜ PvE: Salvage/Loot`
+    - Added Drone:
+        - `Combat Drone` to:
+            - `✜ PvE: Anoms (+Dro)`
+        - `Electronic Warfare Drone` to:
+            - `✜ PvE: Anoms (+Dro)`
+        - `Energy Neutralizer Drone` to:
+            - `✜ PvE: Anoms (+Dro)`
+        - `Logistic Drone` to:
+            - `✜ PvE: Anoms (+Dro)`
+        - `Mining Drone` to:
+            - `✜ PvE: Anoms (+Dro)`
+        - `Salvage Drone` to:
+            - `✜ PvE: Anoms (+Dro)`
+        - `Stasis Webifying Drone` to:
+            - `✜ PvE: Anoms (+Dro)`
+    - Added Fighter:
+        - `Heavy Fighter` to:
+            - `✜ PvE: Anoms (+Dro)`
+        - `Light Fighter` to:
+            - `✜ PvE: Anoms (+Dro)`
+        - `Support Fighter` to:
+            - `✜ PvE: Anoms (+Dro)`
+    - Added Entity:
+        - `Event Ships` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Incursion`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ PvP: Exploring`
+            - `✥ PvP: FW`
+        - `Pirate Drone` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ PvP: Exploring`
+            - `✥ PvP: FW`
+        - `Rogue Drone` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ PvP: Exploring`
+            - `✥ PvP: FW`
+        - `Sleeper Event Battlecruiser` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Incursion`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ PvP: Exploring`
+            - `✥ PvP: FW`
+        - `Sleeper Event Battleship` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Incursion`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ PvP: Exploring`
+            - `✥ PvP: FW`
+        - `Sleeper Event Cruiser` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Incursion`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ PvP: Exploring`
+            - `✥ PvP: FW`
+        - `Sleeper Event Destroyer` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Incursion`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ PvP: Exploring`
+            - `✥ PvP: FW`
+        - `Sleeper Event Frigate` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Incursion`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ PvP: Exploring`
+            - `✥ PvP: FW`
+        - `♦ Battlecruiser` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ PvP: FW`
+        - `♦ Industrial Command` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ = CovOps: Collidables`
+    - Added Structure:
+        - `Refinery` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `⌘ Brackets: Travel`
+            - `⌘ Brackets: Warpout (!)`
+            - `➲ Extra: Align Points`
+            - `✈ --- Travel: All`
+            - `✈ Travel (-Ship +Sta)`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Incursion`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (+Neut -NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut -NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ = NPSI`
+            - `✥ = Structures`
+            - `✥ PvP: Exploring`
+            - `✥ PvP: FW`
+            - `✥ PvP: PI`
+            - `✪ --- Friendly: All (+Dro)`
+            - `✪ --- Friendly: All (-Dro)`
+            - `※ --- D-Scan: All`
+            - `※ D-Scan: Hunter (+Dro / Offensive)`
+            - `※ D-Scan: Hunter (-Dro / Offensive)`
+            - `※ D-Scan: Ships (+Dro / Defensive)`
+            - `※ D-Scan: Ships (-Dro / Defensive)`
+        - `♦ Forward Operating Base` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ = NPSI`
+            - `✥ = Structures`
+            - `✥ PvP: FW`
+    - Removed Entity:
+        - `Hidden Zenith Amarr Capital` from:
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+        - `Hidden Zenith Caldari Capital` from:
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+        - `Hidden Zenith Gallente Capital` from:
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+        - `Hidden Zenith Minmatar Capital` from:
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ --- PvE: Mission Filter (+LCO +LCS)`
+            - `✜ PvE: Anoms (+Dro)`
+            - `✜ PvE: Anoms (-Dro)`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+    - Removed Structure:
+        - `♦ Engineering Complex` from:
+            - `✜ PvE: Mining`
+
 ##### Version v6.16.0008 - 119.5 - _Bigger things to come!_
 1. Added two new Full profiles for EVE University's colour preferences:
     - `E-Uni Appearance - Stylized`
@@ -138,7 +448,7 @@
     - Added Celestial:
         - `Planet` to:
             - `➲ Extra: Podsaver (!)`
-            - `✥ PvP: PI-
+            - `✥ PvP: PI`
         - `Harvestable Cloud` to:
             - `✥ = CovOps: Collidables`
         - `Wormhole` to:
