@@ -55,6 +55,7 @@ We love you <3
 1. **Spartan BSX86** - 50.000.000 ISK
 1. **Valkh** - 50.000.000 ISK
 1. **Histachii TheGreat** - 50.000.000 ISK
+1. **Fernah Upshaw** - 50.000.000 ISK
 1. **w1ndstrike** - 40.000.000 ISK
 1. **Styxx** - 33.000.000 ISK
 1. **Denali TheGreatOne** - 25.000.000 ISK
