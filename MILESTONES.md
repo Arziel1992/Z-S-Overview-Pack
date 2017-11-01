@@ -141,3 +141,8 @@ The channel peaked at 671 that day.
 A big **Thank You** to **Stephanie Daugherty** for interviewing Deuce and I (Zirio) to write an article on **[Imperium News](https://imperium.news/z-s-overview-pack/)** about the pack.
 
 And another big **Thank You** to **ERJ145a** for making an awesome **[Video Tutorial](https://www.youtube.com/watch?v=lTmXDiEgb7s)** to go along with the article.
+
+### 6. 5000 Mailing list subscribers
+##### Reached on 09/11/2017
+
+**Cyber Stiesel** you are our 5000 subscriber!

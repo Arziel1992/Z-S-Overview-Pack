@@ -9,6 +9,14 @@ It's not just Deuce and me (Zirio) developing the pack, it's all of us working t
 - Another shout out to CCP devs on Slack for taking the time to chat and work with me in some simple yet needed changes to improve the Overview System!
 - And a special shout out to the players that thought we should be rewarded, thank you all very much!
 
+## Spiritual donors
+
+Some donors are brand new players, donating all their wallet.  
+Truly appreciated but we shall not allow that!  
+Your donation will be listed as spiritual and sent back with "a little extra" <3
+
+1. **Pedro Caminante** - 1.153.321 ISK (literally 1 day new player and donated all his ISK)
+
 ## Special donors
 
 Some donors are just special, either for the lol's, good times and/or donations we will always cherish the most!  
@@ -19,6 +27,12 @@ We love you <3
 1. **Patrick Jr Boirelle** - 50.000 ISK (What he could from a New Player wallet <3)
 1. **Lothar McPoopenshaft** - 8.008.135 ISK x7 (Typo! \o/)
 1. **Snowy Foxxy** - 1,5 ISK (She bought mah booty!)
+
+## Bounty Donors
+
+Title says it all, twisted way of showing support <3
+
+1. **Yucie Van Burean** - 100.068 ISK
 
 ## Top Donors
 
@@ -37,6 +51,8 @@ We love you <3
 1. **Razr Wolfgang** - 150.000.000 ISK
 1. **Kitaisu Lokiro** - 110.000.000 ISK
 1. **Byggare BoBson** - 101.000.000 ISK
+1. **Yucie Van Burean** - 100.000.069 ISK
+1. **Thov** - 100.000.001 ISK
 1. **deathlock2000** - 100.000.000 ISK
 1. **Paetrir Rantall** - 100.000.000 ISK
 1. **Ethan Zoromir** - 100.000.000 ISK
@@ -47,6 +63,7 @@ We love you <3
 1. **Welwyn DeLuca** - 100.000.000 ISK
 1. **Parthena** - 100.000.000 ISK
 1. **Karsten** - 100.000.000 ISK
+1. **Alice Adraer** - 100.000.000 ISK
 1. **Ultimate-Pilot Destiny** - 78.476.429 ISK
 1. **HotterThanYou2** - 50.000.000 ISK
 1. **Aedron** - 50.000.000 ISK
@@ -83,6 +100,7 @@ We love you <3
 1. **Addonic X** - 1.000.000 ISK
 1. **Lucy Tra** - 1.000.000 ISK
 1. **Hwoj Oxlatl** - 1.000.000 ISK
+1. **Zhum Zattar** - 1.000.000 ISK
 1. **Momoe Kawaguchi** - 500.000 ISK
 1. **Chris Eremor** - 200.000 ISK
 1. **Black Romero** - 150.000 ISK
