@@ -29,7 +29,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 
 ___
 
-#### Current Version: v6.16.0008
+#### Current Version: v7.00.0235
 
 - Updated: **2017.10.30**
 - For Release: **Lifeblood**
@@ -38,19 +38,21 @@ ___
 #### Links
 
 - In-game:
-    - Mailing List: **Z-S Overview**
-    - Chat Channel: **Z-S Overview**
+    - Mailing Lists:
+        - **Z-S Overview**
+        - **Z-S Overview - 2**
+    - Channel: **Z-S Overview**
 - Visit us on:
     - **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/)**
     - **[Twitter](https://twitter.com/Arziel1992)**
     - **[Discord](http://discord.gg/NSfFKcx)**
-- Changelog: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)**
-- FAQ: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)**
+- **[Changelog](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)**
+- **[FAQ](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)**
 - Feedback:
     - **[Feeback form](http://goo.gl/forms/h4rTeZCHNorqEsyx2)**
     - **[Real-time feedback responses](https://goo.gl/etZH0J)**
-- Donors: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONORS.md)**
-- Milestones: **[Here](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/MILESTONES.md)**
+- **[Donors](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONORS.md)**
+- **[Milestones](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/MILESTONES.md)**
 
 #### BEWARE of our resident Troll on Z-S chat channel <3 !!!
 
@@ -102,8 +104,8 @@ When combined with a Tab Layout, it includes the following presets for a minimal
 
 4. (Optional) Apply any of the following Optional preset packs by clicking on their links.  
 You may need them for more specialized presets:
-	- `Z-S PvE Extended` contains presets for Anoms/Ratting, Incursion, Mining, and Show Drones.
-	- `Z-S PvP Basic` contains presets for Faction Warfare, Ships Only, Bombing Warpouts, Deployables, NPSI, Structures, and Wartargets.
+	- `Z-S PvE Advanced` contains presets for Anoms/Ratting, Incursion, Mining, and Show Drones.
+	- `Z-S PvP Advanced` contains presets for Faction Warfare, Ships Only, Bombing Warpouts, Deployables, NPSI, Structures, and Wartargets.
 	- `Z-S PvP Extended` packs include Target presets for specific categories, from Fighters to Frigates to Logi to Titans. Each pack contains half the categories and should be installed together.
 	- `Z-S Friendly Extended` includes presets for Capitals, Supercapitals, Carriers, Dictors, Dreads, Logi, and Recon.
 	- `Z-S D-Scan Extended` contains more finely-tuned presets specifically for the D-Scan filter.
@@ -142,9 +144,12 @@ Standard has each tab named for a purpose, and Compact replaces most of the name
 2. Once downloaded in the folder of your preference, extract the .zip file contents in a folder of your preference.
 
 3. Go to the most recent version folder and:
-    - Copy the `Z-S Full Stylized.yaml` file for the complete pre-stylized overview.
-    - Or copy the `Z-S Full Unstylized.yaml` file for the complete default-style overview.
-    - Or copy the specific packs you want/need, alongside one or all layouts.
+    - Copy the specific packs you want/need, alongside one or all layouts.
+    - Alternatively, go inside the Full packs folder:
+        - Copy the `Z-S Appearance - Stylized.yaml` file for the complete Z-S pre-stylized overview.
+        - Or copy the `E-Uni Appearance - Stylized.yaml` file for the complete E-UNI pre-stylized overview.
+        - Or copy the `Z-S Appearance - Unstylized.yaml` file for the complete Z-S default-style overview.
+        - Or copy the `E-Uni Appearance - Unstylized` file for the complete E-UNI default-style overview.
 
 4. Go to `C:\Users\YourName\Documents\EVE\Overview` folder and paste the copied files there.
     - If the folder doesn't exist, you can either create it manually.
