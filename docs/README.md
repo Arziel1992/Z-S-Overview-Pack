@@ -1,4 +1,4 @@
-<img src="Images/Z-S_Logo_2.png" align="right" />
+<img src="images/Z-S_Logo_2.png" align="right" />
 
 # Z-S Overview Pack
 ### Overview Pack for EVE Online
@@ -9,12 +9,12 @@ What started as a stop-gap measure back in early 2016 to bring the SaraShawa Ove
 
 If you're familiar with SaraShawa, it shouldn't take too long to adjust to the changes.
 
-<img src="Images/Zirio.jpg" align="left" height="60" width="60" />
+<img src="images/Zirio.jpg" align="left" height="60" width="60" />
 
 &nbsp;  
 **Zirio** - YAML Coding, Pack Maintenance & Long Term Updates  
 &nbsp;  
-<img src="Images/Deuce.jpg" align="left" height="60" width="60" />
+<img src="images/Deuce.jpg" align="left" height="60" width="60" />
 
 **Deuce Syundai** - Design & Text Formatting
 
@@ -40,19 +40,18 @@ ___
 - In-game:
     - Mailing Lists:
         - **Z-S Overview**
-        - **Z-S Overview - 2**
+        - **Z-S Overview 2**
     - Channel: **Z-S Overview**
 - Visit us on:
-    - **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/)**
     - **[Twitter](https://twitter.com/Arziel1992)**
     - **[Discord](http://discord.gg/NSfFKcx)**
-- **[Changelog](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)**
-- **[FAQ](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)**
+- **[Changelog](CHANGELOG.md)**
+- **[FAQ](FAQ.md)**
 - Feedback:
     - **[Feeback form](http://goo.gl/forms/h4rTeZCHNorqEsyx2)**
     - **[Real-time feedback responses](https://goo.gl/etZH0J)**
-- **[Donors](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/DONORS.md)**
-- **[Milestones](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/MILESTONES.md)**
+- **[Donors](DONORS.md)**
+- **[Milestones](MILESTONES.md)**
 
 #### BEWARE of our resident Troll on Z-S chat channel <3 !!!
 
@@ -71,7 +70,7 @@ ___
 - We expect the **player to have a minimal understanding on how the Overview System works** before attempting to install Z-S and/or any other 3rd party Overview Pack.
 
 
-- Be sure to check our **[FAQ](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/FAQ.md)** to solve the most common issues you might find when attempting to install and/or edit Z-S Overview Pack.
+- Be sure to check our **[FAQ](FAQ.md)** to solve the most common issues you might find when attempting to install and/or edit Z-S Overview Pack.
 
 #### Method 1: Video Tutorials
 
@@ -84,10 +83,10 @@ ___
 #### Method 2: In-game, from `Z-S Overview` chat channel
 
 1. Open up your Overview Settings ( ≡ button at top left of the Overview window).  
-![Step 1](Images/Step_1a.png "Step 1")
+![Step 1](images/Step_1a.png "Step 1")
 
 2. Go to the "Misc" tab and click `Reset All Overview Settings`  
-![Step 2](Images/Step_1b.png "Step 2")  
+![Step 2](images/Step_1b.png "Step 2")  
     - You **MUST** do this the first time you install.
     - This prevents any weirdness that may be caused by any changes already made to the overview.
 
@@ -95,7 +94,7 @@ ___
 This is the only **required** preset pack.  
 When combined with a Tab Layout, it includes the following presets for a minimal setup:
 	- Core Presets  
-    ![Core + Layout](Images/Core_+_Layout.png "Core Presets")  
+    ![Core + Layout](images/Core_+_Layout.png "Core Presets")  
 	- All **Travel**, **Warpout** & **Brackets** presets
 	- **PvE: Basic** & **PvE: Salvage/Loot**
 	- **PvP: Basic** & **Target: Drones**
@@ -111,22 +110,20 @@ You may need them for more specialized presets:
 	- `Z-S D-Scan Extended` contains more finely-tuned presets specifically for the D-Scan filter.
 	- _You can go back to add in additional packs at any time without reloading the entire pack. Simply click on a pack to add, then repeat step 5 below._
 	- Note the instructions on the tab.  
-    
-    ![Pack Loaded](Images/Pack_Loaded.png "Pack Loaded!")
-    
-    ![PvP Basic](Images/PvP_Basic.png "Basic Full Loadout")  ![PvP Extended](Images/PvP_Extended.png "Extended Full Loadout")  
+    ![Pack Loaded](images/Pack_Loaded.png "Pack Loaded!")  
+    ![PvP Basic](images/PvP_Basic.png "Basic Full Loadout")  ![PvP Extended](images/PvP_Extended.png "Extended Full Loadout")  
 
 5. To finish and set up the tabs, apply a Tab Layout by clicking on their links.  
 Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or shorter names for reduced tab width.  
 2BL denotes 2 Bracket Lines, while 1BL denotes 1 Bracket Line.
  - `Standard` tab layout  
- ![Standard Tabs](Images/Standard_Tabs.png "Standard")  
+ ![Standard Tabs](images/Standard_Tabs.png "Standard")  
  - `Compact` tab layout  
- ![Compact Tabs](Images/Compact_Tabs.png "Compact")  
+ ![Compact Tabs](images/Compact_Tabs.png "Compact")  
  - `1BL` Brackets  
- ![1 Bracket Line](Images/1_Bracket_Line.png "1BL") 
+ ![1 Bracket Line](images/1_Bracket_Line.png "1BL") 
  - `2BL` Brackets  
- ![2 Bracket Lines](Images/2_Bracket_Lines.png "2BL")   
+ ![2 Bracket Lines](images/2_Bracket_Lines.png "2BL")   
 	- You can alternate between Layouts at any time without reloading the entire pack by clicking on their links.
 	- _Some features might not show correctly at first, it may be necessary to open the Overview Settings again, then select the Ships tab to reload the UI to force a resync and apply all changes._
 
@@ -279,7 +276,7 @@ ___
 
 #### Pack colors
 
-![Colors](Images/Colors.png "Colors")
+![Colors](images/Colors.png "Colors")
 
 ___
 
@@ -334,7 +331,7 @@ You all shall be remembered for your efforts so future Overview Pack creators ca
 ## Important!
 ##### If you clone and/or fork the repository!
 
-- Starting from Version v2.66.2012, versioning has been standardized (more information on the **[Changelog](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/CHANGELOG.md)** file)  
+- Starting from Version v2.66.2012, versioning has been standardized (more information on the **[Changelog](CHANGELOG.md)** file)  
     - The inclusion of version tags and consistent numbering has been implemented, will allow to keep a better track of the modifications.  
 - If you plan to clone and/or fork the repository, it is recommended to do it from this version forward.  
 - Commit Squashing WILL NOT be done randomly from now on, so don't worry about an inconsistent history.  
@@ -344,7 +341,7 @@ You all shall be remembered for your efforts so future Overview Pack creators ca
 ## License
 
 Overview Pack licensed under "GNU GENERAL PUBLIC LICENSE - Version 3, 29 June 2007"  
-Further documentation in the **[LICENSE](https://github.com/Arziel1992/Z-S-Overview-Pack/blob/master/LICENSE)** file.
+Further documentation in the **[LICENSE](LICENSE.md)** file.
 
 ## Notice
 
