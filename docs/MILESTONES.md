@@ -146,3 +146,8 @@ And another big **Thank You** to **ERJ145a** for making an awesome **[Video Tuto
 ##### Reached on 09/11/2017
 
 **Cyber Stiesel** you are our 5000 subscriber!
+
+### 7. 1000 Active players in the Z-S channel
+##### Reached on 26/11/2017
+
+Thanks for using Z-S Overview, we are very happy that you all like it <3
