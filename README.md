@@ -1,4 +1,4 @@
-<img src="images/Z-S_Logo_2.png" align="right" />
+<img src="docs/images/Z-S_Overview_P-Round.png" align="right" height="70" width="70" />
 
 # Z-S Overview Pack
 ### Overview Pack for EVE Online
@@ -9,16 +9,18 @@ What started as a stop-gap measure back in early 2016 to bring the SaraShawa Ove
 
 If you're familiar with SaraShawa, it shouldn't take too long to adjust to the changes.
 
-<img src="images/Zirio.jpg" align="left" height="60" width="60" />
+<img src="docs/images/Zirio.jpg" align="left" height="60" width="60" />  
 
 &nbsp;  
 **Zirio** - YAML Coding, Pack Maintenance & Long Term Updates  
 &nbsp;  
-<img src="images/Deuce.jpg" align="left" height="60" width="60" />
 
+<img src="docs/images/Deuce.jpg" align="left" height="60" width="60" />  
+
+&nbsp;  
 **Deuce Syundai** - Design & Text Formatting
-
-&nbsp;
+&nbsp;  
+&nbsp;  
 
 #### New features include:
 
@@ -83,10 +85,10 @@ ___
 #### Method 2: In-game, from `Z-S Overview` chat channel
 
 1. Open up your Overview Settings ( ≡ button at top left of the Overview window).  
-![Step 1](images/Step_1a.png "Step 1")
+![Step 1](docs/images/Step_1a.png "Step 1")
 
 2. Go to the "Misc" tab and click `Reset All Overview Settings`  
-![Step 2](images/Step_1b.png "Step 2")  
+![Step 2](docs/images/Step_1b.png "Step 2")  
     - You **MUST** do this the first time you install.
     - This prevents any weirdness that may be caused by any changes already made to the overview.
 
@@ -94,7 +96,7 @@ ___
 This is the only **required** preset pack.  
 When combined with a Tab Layout, it includes the following presets for a minimal setup:
 	- Core Presets  
-    ![Core + Layout](images/Core_+_Layout.png "Core Presets")  
+    ![Core + Layout](docs/images/Core_+_Layout.png "Core Presets")  
 	- All **Travel**, **Warpout** & **Brackets** presets
 	- **PvE: Basic** & **PvE: Salvage/Loot**
 	- **PvP: Basic** & **Target: Drones**
@@ -110,20 +112,20 @@ You may need them for more specialized presets:
 	- `Z-S D-Scan Extended` contains more finely-tuned presets specifically for the D-Scan filter.
 	- _You can go back to add in additional packs at any time without reloading the entire pack. Simply click on a pack to add, then repeat step 5 below._
 	- Note the instructions on the tab.  
-    ![Pack Loaded](images/Pack_Loaded.png "Pack Loaded!")  
-    ![PvP Basic](images/PvP_Basic.png "Basic Full Loadout")  ![PvP Extended](images/PvP_Extended.png "Extended Full Loadout")  
+    ![Pack Loaded](docs/images/Pack_Loaded.png "Pack Loaded!")  
+    ![PvP Basic](docs/images/PvP_Basic.png "Basic Full Loadout")  ![PvP Extended](docs/images/PvP_Extended.png "Extended Full Loadout")  
 
 5. To finish and set up the tabs, apply a Tab Layout by clicking on their links.  
 Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or shorter names for reduced tab width.  
 2BL denotes 2 Bracket Lines, while 1BL denotes 1 Bracket Line.
  - `Standard` tab layout  
- ![Standard Tabs](images/Standard_Tabs.png "Standard")  
+ ![Standard Tabs](docs/images/Standard_Tabs.png "Standard")  
  - `Compact` tab layout  
- ![Compact Tabs](images/Compact_Tabs.png "Compact")  
+ ![Compact Tabs](docs/images/Compact_Tabs.png "Compact")  
  - `1BL` Brackets  
- ![1 Bracket Line](images/1_Bracket_Line.png "1BL") 
+ ![1 Bracket Line](docs/images/1_Bracket_Line.png "1BL") 
  - `2BL` Brackets  
- ![2 Bracket Lines](images/2_Bracket_Lines.png "2BL")   
+ ![2 Bracket Lines](docs/images/2_Bracket_Lines.png "2BL")   
 	- You can alternate between Layouts at any time without reloading the entire pack by clicking on their links.
 	- _Some features might not show correctly at first, it may be necessary to open the Overview Settings again, then select the Ships tab to reload the UI to force a resync and apply all changes._
 
@@ -276,7 +278,7 @@ ___
 
 #### Pack colors
 
-![Colors](images/Colors.png "Colors")
+![Colors](docs/images/Colors.png "Colors")
 
 ___
 
