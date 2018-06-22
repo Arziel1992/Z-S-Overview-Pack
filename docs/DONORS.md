@@ -86,6 +86,7 @@ Title says it all, twisted way of showing support <3
 1. **CronicX 009** - 20.000.000 ISK
 1. **Stahn Steupe** - 20.000.000 ISK
 1. **Jaden Tivianne** - 20.000.000 ISK
+1. **deathfacade** - 20.000.000 ISK
 1. **Dan Skord** - 13.000.000 ISK
 1. **Riseing** - 10.000.000 ISK
 1. **Maliko Laduko** - 10.000.000 ISK
@@ -94,6 +95,7 @@ Title says it all, twisted way of showing support <3
 1. **Daneel Douglas** - 10.000.000 ISK
 1. **Stueey Yaken** - 5.000.000 ISK
 1. **Mitotsudaira** - 5.000.000 ISK
+1. **LordGirl Flowers** - 2.000.000 ISK
 1. **Parzon Hrungy** - 1.000.000 ISK
 1. **Minoo Raholan** - 1.000.000 ISK
 1. **Worsecase Scenario** - 1.000.000 ISK
