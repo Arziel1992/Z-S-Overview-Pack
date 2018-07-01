@@ -98,8 +98,7 @@ When combined with a Tab Layout, it includes the following presets for a minimal
 	- Core Presets  
     ![Core + Layout](docs/images/Core_+_Layout.png "Core Presets")  
 	- All **Travel**, **Warpout** & **Brackets** presets
-	- **PvX: Basic** 
-    - **PvX: Salvage/Loot**
+	- **PvX: Basic** and **PvX: Salvage/Loot**
     - **Target: Drones**
 	- **Friendly: All** & **Friendly Fleet**
 	- **D-Scan: All**
