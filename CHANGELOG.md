@@ -1259,7 +1259,7 @@ Further details below:
 	- Recolored the variables for better identification.
 	- Resized the variables, distinguishing from most important to insignificant (tactically speaking).
 	- Removed `ShipName` variable (partially).
-2. Ranamed Tabs:
+2. Renamed Tabs:
 	- `Loot` to `Misc` (yellow).
 	- `Misc` to `Friendly` (blue).
 3. Reorganized column order: Alliance > Corporation
@@ -1311,7 +1311,7 @@ Further details below:
 		- Combination of `※ D-Scan: Ships` and `※ D-Scan: Pos All`
 
 ##### Version v2.2.00 - 118.6 - _Deuce's design improvements_
-1. Ranamed `Finishes` to `Tab Layouts`
+1. Renamed `Finishes` to `Tab Layouts`
 2. Adjusted the sizes of both 6 & 8 Compact Layouts to fit better on smaller screens.
 3. Increased the Icon size on the presets for better legibility.
 4. Replaced the Hostile Icon for a more adequate one to fit the new sizes.

@@ -64,6 +64,8 @@ Title says it all, twisted way of showing support <3
 1. **Parthena** - 100.000.000 ISK
 1. **Karsten** - 100.000.000 ISK
 1. **Alice Adraer** - 100.000.000 ISK
+1. **Mo Iskies** - 100.000.000 ISK
+1. **Notatallsane** - 100.000.000 ISK
 1. **Ultimate-Pilot Destiny** - 78.476.429 ISK
 1. **HotterThanYou2** - 50.000.000 ISK
 1. **Aedron** - 50.000.000 ISK
@@ -73,6 +75,8 @@ Title says it all, twisted way of showing support <3
 1. **Valkh** - 50.000.000 ISK
 1. **Histachii TheGreat** - 50.000.000 ISK
 1. **Fernah Upshaw** - 50.000.000 ISK
+1. **SuhhSsilenced** - 50.000.000 ISK
+1. **Akdu Arthie** - 50.000.000 ISK
 1. **w1ndstrike** - 40.000.000 ISK
 1. **Styxx** - 33.000.000 ISK
 1. **Denali TheGreatOne** - 25.000.000 ISK
@@ -93,6 +97,9 @@ Title says it all, twisted way of showing support <3
 1. **mr robot0** - 10.000.000 ISK
 1. **GoodKenny** - 10.000.000 ISK
 1. **Daneel Douglas** - 10.000.000 ISK
+1. **Thape Da'Op** - 10.000.000 ISK
+1. **brichardi** - 10.000.000 ISK
+1. **Twongo** - 10.000.000 ISK
 1. **Stueey Yaken** - 5.000.000 ISK
 1. **Mitotsudaira** - 5.000.000 ISK
 1. **LordGirl Flowers** - 2.000.000 ISK
@@ -103,6 +110,10 @@ Title says it all, twisted way of showing support <3
 1. **Lucy Tra** - 1.000.000 ISK
 1. **Hwoj Oxlatl** - 1.000.000 ISK
 1. **Zhum Zattar** - 1.000.000 ISK
+1. **Carth Zen** - 1.000.000 ISK
 1. **Momoe Kawaguchi** - 500.000 ISK
 1. **Chris Eremor** - 200.000 ISK
 1. **Black Romero** - 150.000 ISK
+1. **John Idenhauzen** - 10.000 ISK
+1. **Rogatien Soldier** - 1.110 ISK
+1. **Wogby Nalelmir** - 1 ISK
