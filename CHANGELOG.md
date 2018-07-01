@@ -20,6 +20,163 @@
 
 #### --- Standard Versions ---
 
+##### Version v8.22.1709 - Into The Abyss - _Overhaul Part 2_
+
+Major overhaul of the Z-S Overview, encompassing a new distribution of presets.  
+
+- PvE and PvP presets have been merged and renamed into PvX presets, alongside their respective packs renames.
+
+- New **Into The Abyss** entities have been added.
+
+- **Pilot has No Standing** back to being grey.
+
+Further details below:
+
+1. Renamed packs for consistency due their contents:
+    - `Z-S PvP Advanced` to `Z-S PvX 1`
+    - `Z-S PvE Advanced` to `Z-S PvX 2`
+    - `Z-S PvP Extended (1/2)` to `Z-S Targets Subcaps`
+    - `Z-S PvP Extended (2/2)` to `Z-S Targets Caps`
+2. Updated Packs:
+    - Added `⌘ Brackets: Incursion` to `Z-S Core`
+    - Added `✪ Friendly: Flag` to `Z-S Friendly Extended`
+    - Added `✜ PvX: Exploring` to `Z-S PvX 2`
+    - Added `✜ PvX: FW` to `Z-S PvX 2`
+    - Added `✜ PvX: PI` to `Z-S PvX 2`
+    - Added `✜ PvX: Mining Moon` to `Z-S PvX 2`    
+    - Removed `✜ PvX: Exploring` from `Z-S PvX 1`
+    - Removed `✜ PvX: FW` from `Z-S PvX 1`
+    - Removed `✜ PvX: PI` from `Z-S PvX 1`
+    - Removed `✜ --- PvE: Basic (+Dro)` from `Z-S PvX 2`
+    - Removed `✜ --- PvE: Basic (-Dro)` from `Z-S Core`
+    - Removed `✜ PvE: Anoms (+Dro)` from `Z-S PvX 2`
+    - Removed `※ D-Scan: Hunter (+Dro / Offensive)` from `Z-S D-Scan Extended`
+    - Removed `※ D-Scan: Ships (+Dro / Defensive)` from `Z-S D-Scan Extended`
+    - Removed `✪ --- Friendly: All (+Dro)` from `Z-S Friendly Extended`    
+3. Updated Appearance:
+    - `Pilot has No Standing.` colortag set to `Grey`
+    - `Pilot has No Standing.` background set to `Grey`
+4. Reordered Overview Columns:
+	- Removed `Tag` column.
+5. Changed presets:
+    - New `✥ --- PvX: Basic (+Neut +NPC)` merging `✥ --- PvX: Basic (+Neut +NPC)` and `✜ --- PvE: Basic (-Dro)`
+    - New `✥ --- PvX: Basic (-Neut +NPC)` merging `✥ --- PvX: Basic (-Neut +NPC)` and `✜ --- PvE: Basic (-Dro)`
+    - New `✜ PvX: Anoms` merging `✥ --- PvP: Basic (+Neut +NPC)` and `✜ PvE: Anoms (-Dro)`
+    - New `✜ PvX: Mining` merging `✥ --- PvP: Basic (+Neut +NPC)` and `✜ PvE: Mining`
+    - New `✜ PvX: Ratting` merging `✥ --- PvP: Basic (+Neut +NPC)` and `✜ PvE: Rating`
+    - New `✜ PvX: Salvage/Loot` merging `✥ --- PvP: Basic (+Neut +NPC)` and `✜ PvE: Salvage/Loot`
+    - New `✜ --- PvE: Mission Filter (+LCO +LCS)` merging `✥ --- PvP: Basic (+Neut +NPC)` and `✜ --- PvE: Mission Filter (+LCO +LCS)`
+    - New `⌘ Brackets: Incursion`
+    - New `✜ PvX: Mining Moon`
+    - New `✥ Target: Flag`
+    - New `✥ Target: Pods`
+    - New `✪ Friendly: All Caps`
+    - Renamed `✜ PvX: Mining` to `✜ PvX: Mining All`
+    - Renamed `✥ Target: Caps` to `✥ Target: All Caps`
+    - Renamed `✪ --- Friendly: All (-Dro)` to `✪ --- Friendly: All`
+    - Renamed `※ D-Scan: Hunter (-Dro / Offensive)` to `※ D-Scan: Hunter (Offensive)`
+    - Renamed ` ※ D-Scan: Ships (-Dro / Defensive)` to ` ※ D-Scan: Ships (Defensive)`
+6. Updated presets:
+    - Added Celestial:
+        - `Abyssal Trace` to:
+            - `⌘ Brackets: Misc`
+            - `✜ = CovOps: Collidables`
+            - `✜ PvX: Anoms`
+            - `✜ PvX: Exploring`
+            - `✜ PvX: Mission Filter (+LCO +LCS)`
+            - `✜ PvX: Ratting`
+            - `✜ PvX: Salvage/Loot`
+        - `Triglavian Support pylon` to:
+            - `⌘ Brackets: Misc`
+            - `✜ = CovOps: Collidables`
+            - `✜ PvX: Exploring`
+            - `✜ PvX: Mission Filter (+LCO +LCS)`
+            - `✜ PvX: Ratting`
+            - `✜ PvX: Salvage/Loot`
+    - Added Deployable:
+        - `Mobile Tractor Unit` to:
+            - `✥ --- PvX: Basic (+Neut +NPC)`
+            - `✥ --- PvX: Basic (+Neut -NPC)`
+            - `✥ --- PvX: Basic (-Neut +NPC)`
+            - `✥ --- PvX: Basic (-Neut -NPC)`
+    - Added Entity:
+        - `Abyssal Drone` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+            - `✜ = CovOps: Collidables`
+            - `✜ PvX: Exploring`
+            - `✜ PvX: Mission Filter (+LCO +LCS)`
+            - `✜ PvX: Ratting`
+            - `✜ PvX: Salvage/Loot`
+        - `Abyssal Spaceship` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+            - `✜ = CovOps: Collidables`
+            - `✜ PvX: Exploring`
+            - `✜ PvX: Mission Filter (+LCO +LCS)`
+            - `✜ PvX: Ratting`
+            - `✜ PvX: Salvage/Loot`
+        - `Drifter Reinforcements` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `⌘ Brackets: Travel`
+            - `✈ --- Travel: All`
+            - `✈ Travel (+Ship -Sta)`
+            - `✈ Travel (-Ship +Sta)`
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+            - `✜ = CovOps: Collidables`
+            - `✜ PvX: Exploring`
+            - `✜ PvX: Mining - All`
+            - `✜ PvX: Mining - Moon`
+            - `✜ PvX: Mission Filter (+LCO +LCS)`
+            - `✜ PvX: Ratting`
+            - `✜ PvX: Salvage/Loot`
+        - `Drifter Response Battleship` to:
+            - `✈ --- Travel: All`
+            - `✈ Travel (+Ship -Sta)`
+            - `✈ Travel (-Ship +Sta)`
+    - Added Ship:
+        - `Flag Cruiser` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Incursion`
+            - `⌘ Brackets: Misc`
+            - `⌘ Brackets: Travel`
+            - `✈ Travel (+Ship -Sta)`
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (+Neut -NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut -NPC)`
+            - `✜ -- Ships only`
+            - `✜ = CovOps: Collidables`
+            - `✜ = NPSI`
+            - `✜ = Wartargets`
+            - `✜ PvX: Anoms`
+            - `✜ PvX: Exploring`
+            - `✜ PvX: FW`
+            - `✜ PvX: Incursion`
+            - `✜ PvX: Mining - All`
+            - `✜ PvX: Mining - Moon`
+            - `✜ PvX: Mission Filter (+LCO +LCS)`
+            - `✜ PvX: PI`
+            - `✜ PvX: Ratting`
+            - `✜ PvX: Salvage/Loot`
+            - `✪ --- Friendly: All`
+            - `※ --- D-Scan: All`
+            - `※ D-Scan: Hunter (Offensive)`
+            - `※ D-Scan: Ships (Defensive)`
+    - Removed Starbase:
+        - `Moon Mining` from:
+            - `※ D-Scan: POS (+Cel -Mod)`
+
 ##### Version v7.00.0235 - Lifeblood - _Overhaul Part 1_
 1. Changed presets:
     - Split `✜ PvE: Anoms` into:
@@ -1079,7 +1236,7 @@
 1. Updated Ship Brackets:
 	- Removed `ShipName` variable.
 2. Reordered Overview Columns:
-	- Added `Tag` coumn:
+	- Added `Tag` column:
 		- Easiness of sorting and viewing of target broadcasts during fleet fights.
 3. Renamed packs:
 	- `Z-S PvE Basic` to `Z-S PvE Basic Extended`
