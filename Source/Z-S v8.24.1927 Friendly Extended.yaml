@@ -108,7 +108,6 @@ overviewColumns:
 - DISTANCE
 - ICON
 - NAME
-- TAG
 - TRANSVERSALVELOCITY
 - TYPE
 - VELOCITY
@@ -237,6 +236,43 @@ presets:
         - 863
         - 864
         - 1538
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Command Dest</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 6
+        - 90
+        - 361
+        - 479
+        - 492
+        - 548
+        - 863
+        - 864
+        - 1534
         - 1548
 - - '<color=0xFF66CCFF>✪ Friendly: Dictors</color>'
   - - - alwaysShownStates
@@ -564,7 +600,7 @@ stateColorsNameList:
 - - background_45
   - blue
 - - background_48
-  - black
+  - white
 - - background_49
   - blue
 - - background_50
@@ -576,7 +612,7 @@ stateColorsNameList:
 - - background_9
   - orange
 - - flag_48
-  - black
+  - white
 tabSetup:
 - - 0
   - - - bracket
@@ -595,28 +631,28 @@ tabSetup:
 
         <fontsize=12><color=0xFF66FF66><b> • Apply a Layout to finish </b></color></fontsize>'
     - - overview
-      - '<color=0xFF66CCFF>✪ Friendly: Dictors</color>'
+      - '<color=0xFF66CCFF>✪ Friendly: Command Dest</color>'
 - - 2
   - - - bracket
-      - '<color=0xFF66CCFF>✪ Friendly: Dreads</color>'
+      - '<color=0xFF66CCFF>✪ Friendly: Dictors</color>'
     - - name
       - ''
     - - overview
-      - '<color=0xFF66CCFF>✪ Friendly: Flag</color>'
+      - '<color=0xFF66CCFF>✪ Friendly: Dreads</color>'
 - - 3
   - - - bracket
-      - '<color=0xFF66CCFF>✪ Friendly: Logistics</color>'
+      - '<color=0xFF66CCFF>✪ Friendly: Flag</color>'
     - - name
       - ''
     - - overview
-      - '<color=0xFF66CCFF>✪ Friendly: Recons</color>'
+      - '<color=0xFF66CCFF>✪ Friendly: Logistics</color>'
 - - 4
   - - - bracket
-      - '<color=0xFF66CCFF>✪ Friendly: SC/T</color>'
+      - '<color=0xFF66CCFF>✪ Friendly: Recons</color>'
     - - name
       - ''
     - - overview
-      - ''
+      - '<color=0xFF66CCFF>✪ Friendly: SC/T</color>'
 userSettings:
 - - applyOnlyToShips
   - false
