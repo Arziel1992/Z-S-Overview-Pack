@@ -7,78 +7,63 @@ backgroundOrder:
 - 14
 - 15
 - 16
-- 45
-- 49
-- 19
-- 18
 - 9
 - 51
 - 50
 - 53
+- 19
+- 18
+- 45
+- 49
 - 10
-- 20
-- 21
 - 17
+- 21
+- 20
 - 48
 backgroundStates:
 - 9
-- 10
-- 11
-- 12
 - 13
-- 14
-- 15
-- 16
-- 17
-- 18
-- 19
-- 20
-- 21
 - 44
-- 45
-- 48
-- 49
 - 50
 - 51
 - 52
-- 53
 columnOrder:
 - ICON
 - TAG
 - DISTANCE
 - NAME
 - TYPE
+- RADIALVELOCITY
+- ANGULARVELOCITY
 - ALLIANCE
 - CORPORATION
 - FACTION
 - MILITIA
 - SIZE
 - VELOCITY
-- RADIALVELOCITY
 - TRANSVERSALVELOCITY
-- ANGULARVELOCITY
 flagOrder:
 - 13
 - 44
-- 52
 - 11
 - 12
 - 14
 - 15
 - 16
-- 45
 - 9
 - 51
 - 50
+- 52
 - 53
 - 19
 - 18
+- 45
 - 49
 - 10
 - 17
-- 48
 - 21
 - 20
+- 48
 flagStates:
 - 9
 - 10
@@ -91,11 +76,9 @@ flagStates:
 - 17
 - 18
 - 19
-- 20
 - 21
 - 44
 - 45
-- 48
 - 49
 - 50
 - 51
@@ -108,9 +91,8 @@ overviewColumns:
 - DISTANCE
 - ICON
 - NAME
-- TRANSVERSALVELOCITY
+- RADIALVELOCITY
 - TYPE
-- VELOCITY
 presets:
 - - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
   - - - alwaysShownStates
@@ -131,7 +113,6 @@ presets:
         - 30
         - 31
         - 90
-        - 99
         - 100
         - 101
         - 180
@@ -551,7 +532,6 @@ presets:
         - 30
         - 31
         - 90
-        - 99
         - 180
         - 185
         - 237
@@ -946,10 +926,7 @@ presets:
   - - - alwaysShownStates
       - []
     - - filteredStates
-      - - 11
-        - 17
-        - 21
-        - 48
+      - - 21
     - - groups
       - - 6
         - 12
@@ -960,12 +937,11 @@ presets:
         - 29
         - 30
         - 31
-        - 99
+        - 100
         - 180
         - 185
         - 237
         - 287
-        - 301
         - 306
         - 310
         - 319
@@ -995,6 +971,7 @@ presets:
         - 540
         - 541
         - 543
+        - 544
         - 547
         - 550
         - 551
@@ -1056,6 +1033,9 @@ presets:
         - 631
         - 632
         - 633
+        - 639
+        - 640
+        - 641
         - 659
         - 665
         - 666
@@ -1720,7 +1700,6 @@ presets:
         - 30
         - 31
         - 90
-        - 99
         - 180
         - 237
         - 310
@@ -2013,7 +1992,6 @@ presets:
         - 14
         - 15
         - 16
-        - 21
         - 45
         - 49
     - - groups
@@ -2647,12 +2625,10 @@ presets:
         - 14
         - 15
         - 16
-        - 21
         - 45
         - 49
     - - groups
       - - 6
-        - 9
         - 10
         - 12
         - 15
@@ -2664,7 +2640,6 @@ presets:
         - 30
         - 31
         - 90
-        - 99
         - 180
         - 185
         - 237
@@ -3054,7 +3029,9 @@ presets:
         - 1929
         - 1956
         - 1972
+        - 1981
         - 1982
+        - 1991
         - 1997
 - - '✜ --- PvX: Basic (+Neut -NPC)'
   - - - alwaysShownStates
@@ -3168,13 +3145,11 @@ presets:
         - 15
         - 16
         - 17
-        - 21
         - 45
         - 48
         - 49
     - - groups
       - - 6
-        - 9
         - 10
         - 12
         - 15
@@ -3186,7 +3161,6 @@ presets:
         - 30
         - 31
         - 90
-        - 99
         - 180
         - 185
         - 237
@@ -3576,7 +3550,9 @@ presets:
         - 1929
         - 1956
         - 1972
+        - 1981
         - 1982
+        - 1991
         - 1997
 - - '✜ --- PvX: Basic (-Neut -NPC)'
   - - - alwaysShownStates
@@ -6061,13 +6037,11 @@ presets:
         - 29
         - 30
         - 31
-        - 99
         - 180
         - 185
         - 226
         - 237
         - 287
-        - 301
         - 306
         - 310
         - 319
@@ -6330,8 +6304,6 @@ presets:
         - 1305
         - 1307
         - 1310
-        - 1404
-        - 1406
         - 1452
         - 1453
         - 1454
@@ -6343,7 +6315,6 @@ presets:
         - 1566
         - 1567
         - 1568
-        - 1657
         - 1664
         - 1665
         - 1666
@@ -8368,7 +8339,6 @@ presets:
         - 49
     - - groups
       - - 6
-        - 9
         - 10
         - 12
         - 14
@@ -8381,11 +8351,11 @@ presets:
         - 30
         - 31
         - 90
-        - 99
         - 100
         - 101
         - 180
         - 185
+        - 186
         - 237
         - 279
         - 286
@@ -9502,6 +9472,43 @@ presets:
         - 864
         - 1538
         - 1548
+- - '✪ Friendly: Command Dest'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 6
+        - 90
+        - 361
+        - 479
+        - 492
+        - 548
+        - 863
+        - 864
+        - 1534
+        - 1548
 - - '✪ Friendly: Dictors'
   - - - alwaysShownStates
       - - 11
@@ -9855,7 +9862,87 @@ presets:
         - 1653
         - 1657
         - 1972
-- - '※ D-Scan: Hunter (Offensive)'
+- - '※ D-Scan: Hunter (+Dro) (Offensive)'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 14
+        - 25
+        - 26
+        - 27
+        - 28
+        - 29
+        - 30
+        - 31
+        - 100
+        - 186
+        - 237
+        - 324
+        - 358
+        - 361
+        - 365
+        - 380
+        - 381
+        - 411
+        - 419
+        - 420
+        - 463
+        - 479
+        - 485
+        - 513
+        - 540
+        - 541
+        - 543
+        - 544
+        - 547
+        - 548
+        - 639
+        - 640
+        - 641
+        - 659
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 883
+        - 893
+        - 894
+        - 898
+        - 900
+        - 902
+        - 906
+        - 941
+        - 963
+        - 1022
+        - 1149
+        - 1201
+        - 1202
+        - 1246
+        - 1247
+        - 1249
+        - 1250
+        - 1273
+        - 1275
+        - 1276
+        - 1283
+        - 1305
+        - 1404
+        - 1405
+        - 1406
+        - 1407
+        - 1408
+        - 1409
+        - 1410
+        - 1527
+        - 1530
+        - 1534
+        - 1538
+        - 1657
+        - 1972
+- - '※ D-Scan: Hunter (-Dro) (Offensive)'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -10152,79 +10239,85 @@ presets:
         - 1972
 shipLabelOrder:
 - ship type
-- alliance
+- pilot name
 - corporation
+- alliance
 - ship name
 - null
-- pilot name
 shipLabels:
 - - null
   - - - post
       - ''
     - - pre
-      - ']</b></fontsize>'
+      - '['
     - - state
-      - 1
+      - 0
     - - type
       - null
 - - alliance
   - - - post
-      - ']</color></fontsize>'
+      - '&gt;'
     - - pre
-      - <fontsize=12><color=0xFFFEFF6F> [
+      - '&lt;'
     - - state
       - 1
     - - type
       - alliance
 - - corporation
   - - - post
-      - ''
+      - ']'
     - - pre
-      - ' <fontsize=10><b>['
+      - '['
     - - state
       - 1
     - - type
       - corporation
 - - pilot name
   - - - post
-      - ']</fontsize><color=0xFFFFFFFF><b> -'
+      - ' '
     - - pre
-      - '
-
-        <fontsize=10> ['
+      - ''
     - - state
       - 1
     - - type
       - pilot name
 - - ship name
   - - - post
-      - </i>
+      - ''''
     - - pre
-      - ' <i>'
+      - ''''
     - - state
       - 0
     - - type
       - ship name
 - - ship type
   - - - post
-      - </u></b></color></fontsize>
+      - )
     - - pre
-      - <fontsize=12><color=0xFFFEBB64><b> <u>
+      - (
     - - state
       - 1
     - - type
       - ship type
 stateBlinks:
 - - background_13
-  - false
+  - true
 - - background_44
-  - false
+  - true
+- - background_50
+  - true
+- - background_51
+  - true
+- - background_52
+  - true
+- - background_9
+  - true
 - - flag_13
   - true
 - - flag_44
   - true
 - - flag_50
-  - false
+  - true
 - - flag_51
   - true
 - - flag_52
@@ -10233,80 +10326,84 @@ stateBlinks:
   - true
 stateColorsNameList:
 - - background_10
-  - white
+  - yellow
 - - background_12
-  - darkBlue
+  - green
 - - background_16
-  - darkBlue
+  - blue
 - - background_18
-  - red
+  - orange
 - - background_20
-  - white
+  - black
 - - background_21
-  - white
+  - blue
 - - background_44
   - red
 - - background_45
-  - blue
+  - indigo
 - - background_48
   - white
 - - background_49
-  - blue
+  - darkBlue
 - - background_50
-  - orange
+  - yellow
 - - background_51
-  - orange
+  - yellow
 - - background_52
   - orange
 - - background_9
-  - orange
-- - flag_20
-  - black
+  - yellow
 - - flag_48
   - white
+- - flag_9
+  - orange
 tabSetup:
 - - 0
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - <fontsize=13><color=0xFFFFFFFF><b>  ✈  </b></color></fontsize>
+      - '<fontsize=13><color=0xFFFFFFFF><b>  ✈  </b></color></fontsize>'
     - - overview
-      - ✈ Travel (-Ship +Sta)
+      - '✈ Travel (-Ship +Sta)'
 - - 1
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - <color=0xFFFF6666><b>  Combat  </b></color>
+      - '<color=0xFFFF6666><b>  Combat  </b></color>'
     - - overview
       - '✜ --- PvX: Basic (+Neut +NPC)'
 - - 2
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - <color=0xFFFD9666><b>  Targets  </b></color>
+      - '<color=0xFFFFFF66><b>  Targets  </b></color>'
     - - overview
       - '✥ Target: Drones'
 - - 3
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - <color=0xFFD38FFD><b>  Misc  </b></color>
+      - '<color=0xFFD38FFD><b>  Misc  </b></color>'
     - - overview
       - '✜ PvX: Salvage/Loot'
 - - 4
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - <color=0xFF66CCFF><b>  Friendly  </b></color>
+      - '<color=0xFF66CCFF><b>  Friendly  </b></color>'
     - - overview
       - '✪ --- Friendly: All'
 - - 5
   - - - bracket
       - '⌘ Brackets: Warpout (!)'
     - - name
-      - <color=0xFF66FF66><b>  Warpout!  </b></color>
+      - '<color=0xFF66FF66><b>  Warpout!  </b></color>'
     - - overview
       - '➲ Extra: Podsaver (!)'
 userSettings:
+- - applyOnlyToShips
+  - false
+- - hideCorpTicker
+  - true
 - - overviewBroadcastsToTop
   - true

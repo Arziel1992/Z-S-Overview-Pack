@@ -6,7 +6,7 @@
 		- **Only if** new entity types and/or visual states are added and affect the pack significantly.
         - **Or** sub-classifications reach the max count (99).
 		- Resets version sub-classifications to 0 (ex. v3.00.0000).
-	- BB = Pack and Layout deployment and minor coding changes
+	- BB = Pack and Layout deployment, and minor coding changes
 		- Addition, deletion, split, rename and adjustements.
         - Amounts are added up to the previous version amounts to show the current total of modifications.
         - Minor coding chages, backend.
@@ -19,6 +19,74 @@
 	- NAME = Shout out to the circumstance(s) and/or player(s) that provided the most feedback and/or impact during the version development.
 
 #### --- Standard Versions ---
+
+##### Version v8.24.1927 - Into The Abyss - _Fixes_
+
+1. Changed all Orange colours to Yellow to help with contrast.
+    - Affects Tab (Targets) names and Preset names (Targets).
+2. Reordered Overview Columns:
+	- Removed `Tag` column, again.
+3. Changed presets:
+    - Re-added `※ D-Scan: Hunter (+Dro) (Offensive)`
+    - Renamed `※ D-Scan: Hunter (Offensive)` to `※ D-Scan: Hunter (-Dro) (Offensive)`
+4. Updated states:
+    - Show by default:
+        - `Pilot (agent) is interactable`:
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+        - `Pilot has Neutral Standing`:
+            - `⌘ Brackets: Incursion`
+        - `Pilot has No Standing`:
+            - `⌘ Brackets: Incursion`
+        - `Pilot is in your fleet`:
+            - `⌘ Brackets: Incursion`
+5. Updated presets:
+    - Added Celestial:
+        - `Abyssal Trace` to:
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+        - `Triglavian Support Pylon` to:
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+        - `Wreck` to:
+            - `✜ PvX: Salvage/Loot`
+    - Added Drone:
+        - `Combat Drone` to:
+            - `⌘ Brackets: Incursion`
+        - `Electronic Warfare Drone` to:
+            - `⌘ Brackets: Incursion`
+        - `Energy Neutralizer Drone` to:
+            - `⌘ Brackets: Incursion`
+        - `Logistic Drone` to:
+            - `⌘ Brackets: Incursion`
+        - `Stasis Webifying Drone` to:
+            - `⌘ Brackets: Incursion`
+    - Removed Celestial:
+        - `Asteroid Belt` from:
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+            - `✜ PvX: Salvage/Loot`
+    - Removed Entity:
+        - `Sentry Gun` from:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Incursion`
+            - `⌘ Brackets: Travel`
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+            - `✜ PvX: Incursion`
+            - `✜ PvX: Salvage/Loot`
+    - Removed NPC:
+        - `Concord NPC` from:
+            - `⌘ Brackets: Incursion`
+            - `✜ PvX: Incursion`
+    - Removed Structure:
+        - `Citadel` from:
+            - `✜ PvX: Incursion`
+        - `Engineering Complex` from:
+            - `✜ PvX: Incursion`
+        - `Refinery` from:
+            - `✜ PvX: Incursion`
 
 ##### Version v8.22.1709 - Into The Abyss - _Overhaul Part 2_
 

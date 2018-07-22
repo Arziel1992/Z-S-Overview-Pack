@@ -31,9 +31,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 
 ___
 
-#### Current Version: v8.22.1709
+#### Current Version: v8.24.1927
 
-- Updated: **2018.06.30**
+- Updated: **2018.07.22**
 - For Release: **Into The Abyss**
 - Compatible: **Into The Abyss**
 
@@ -190,7 +190,8 @@ ___
 
 - Z-S D-Scan Extended
 
-        ※ D-Scan: Hunter (Offensive)
+        ※ D-Scan: Hunter (+Dro) (Offensive)
+        ※ D-Scan: Hunter (-Dro) (Offensive)
         ※ D-Scan: POS (+Cel +Mod)
         ※ D-Scan: POS (+Cel -Mod)
         ※ D-Scan: POS (-Cel +Mod)
@@ -225,12 +226,12 @@ ___
         ✜ PvX: Anoms
         ✜ PvX: Exploring
         ✜ PvX: FW
-        ✜ PvE: Incursion
-        ✜ PvE: Mining - All
-        ✜ PvE: Mining - Moon
+        ✜ PvX: Incursion
+        ✜ PvX: Mining - All
+        ✜ PvX: Mining - Moon
         ✜ PvX: Mission Filter (+LCO +LCS)
         ✜ PvX: PI
-        ✜ PvE: Ratting
+        ✜ PvX: Ratting
 
 - Z-S Targets Caps
 
