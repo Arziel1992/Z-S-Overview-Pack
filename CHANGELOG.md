@@ -20,6 +20,191 @@
 
 #### --- Standard Versions ---
 
+##### Version v9.00.0346 - April 2019 - _No more POS's!_
+1. Changed presets:
+    - Removed:
+        - `※ D-Scan: POS (+Cel +Mod)`
+        - `※ D-Scan: POS (+Cel -Mod)`
+        - `※ D-Scan: POS (-Cel +Mod)`
+2. Updated presets:
+    - Added Asteroid:
+        - `Common Moon Asteroids` to:
+            - `⌘ Brackets: Misc`
+        - `Deadspace Asteroids` to:
+            - `✜ = CovOps: Collidables`
+            - `✜ PvX: Mining - All`
+        - `Exceptional Moon Asteroids` to:
+            - `⌘ Brackets: Misc`
+        - `Fluorite` to:
+            - `✜ = CovOps: Collidables`
+            - `✜ PvX: Mining - All`
+            - `✜ PvX: Mining - Moon`
+        - `Rare Moon Asteroids` to:
+            - `⌘ Brackets: Misc`
+        - `Temporal Resources` to:
+            - `✜ = CovOps: Collidables`
+            - `✜ PvX: Mining - All`
+        - `Ubiquitous Moon Asteroids` to:
+            - `⌘ Brackets: Misc`
+        - `Uncommon Moon Asteroids` to:
+            - `⌘ Brackets: Misc`
+    - Added Celestial:
+        - `Force Field` to:
+            - `✜ = CovOps: Collidables`
+        - `Industrial Support Facility` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `✜ = CovOps: Collidables`
+        - `Station Conversion Monument` to:
+            - `✜ = CovOps: Collidables`
+    - Added Deployable:
+        - `Deployable Advertisement` to:
+            - `✜ = CovOps: Collidables`
+        - `Mobile Scan Inhibitor` to:
+            - `※ D-Scan: Ships (Defensive)`
+    - Added Entity:
+        - `Precursor Cache` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (+Neut -NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut -NPC)`
+            - `✜ = CovOps: Collidables`
+            - `✜ PvX: Exploring`
+            - `✜ PvX: Mission Filter (+LCO +LCS)`
+    - Added Ship:
+        - `Citizen Ships` to:
+            - `✜ = CovOps: Collidables`
+    - Added Structure:
+        - `Upwell Cyno Beacon` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `⌘ Brackets: Travel`
+            - `✈ --- Travel: All`
+            - `✈ Travel (+Ship -Sta)`
+            - `✈ Travel (-Ship +Sta)`
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (+Neut -NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut -NPC)`
+            - `✜ = CovOps: Collidables`
+            - `✜ = NPSI`
+            - `✜ = Structures`
+            - `✜ = Wartargets`
+            - `✜ PvX: Anoms`
+            - `✜ PvX: Exploring`
+            - `✜ PvX: FW`
+            - `✜ PvX: Mining - All`
+            - `✜ PvX: Mining - Moon`
+            - `✜ PvX: Mission Filter (+LCO +LCS)`
+            - `✜ PvX: PI`
+            - `✜ PvX: Ratting`
+            - `✜ PvX: Salvage/Loot`
+            - `✪ --- Friendly: All`
+            - `※ --- D-Scan: All`
+            - `※ D-Scan: Hunter (+Dro) (Offensive)`
+            - `※ D-Scan: Hunter (-Dro) (Offensive)`
+            - `※ D-Scan: Ships (Defensive)`
+        - `Upwell Cyno Jammer` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `✈ Travel (-Ship +Sta)`
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (+Neut -NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut -NPC)`
+            - `✜ = CovOps: Collidables`
+            - `✜ = NPSI`
+            - `✜ = Structures`
+            - `✜ = Wartargets`
+            - `✜ PvX: Anoms`
+            - `✜ PvX: Exploring`
+            - `✜ PvX: FW`
+            - `✜ PvX: Mining - All`
+            - `✜ PvX: Mining - Moon`
+            - `✜ PvX: Mission Filter (+LCO +LCS)`
+            - `✜ PvX: PI`
+            - `✜ PvX: Ratting`
+            - `✜ PvX: Salvage/Loot`
+            - `✪ --- Friendly: All`
+            - `※ --- D-Scan: All`
+            - `※ D-Scan: Hunter (+Dro) (Offensive)`
+            - `※ D-Scan: Hunter (-Dro) (Offensive)`
+            - `※ D-Scan: Ships (Defensive)`
+        - `Upwell Jump Gate` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Incursion`
+            - `⌘ Brackets: Misc`
+            - `⌘ Brackets: Travel`
+            - `✈ --- Travel: All`
+            - `✈ Travel (+Ship -Sta)`
+            - `✈ Travel (-Ship +Sta)`
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (+Neut -NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut -NPC)`
+            - `✜ = CovOps: Collidables`
+            - `✜ = NPSI`
+            - `✜ = Structures`
+            - `✜ = Wartargets`
+            - `✜ PvX: Anoms`
+            - `✜ PvX: Exploring`
+            - `✜ PvX: FW`
+            - `✜ PvX: Incursion`
+            - `✜ PvX: Mining - All`
+            - `✜ PvX: Mining - Moon`
+            - `✜ PvX: Mission Filter (+LCO +LCS)`
+            - `✜ PvX: PI`
+            - `✜ PvX: Ratting`
+            - `✜ PvX: Salvage/Loot`
+            - `✪ --- Friendly: All`
+            - `※ --- D-Scan: All`
+            - `※ D-Scan: Hunter (+Dro) (Offensive)`
+            - `※ D-Scan: Hunter (-Dro) (Offensive)`
+            - `※ D-Scan: Ships (Defensive)`
+        - `Upwell Jump Gate` to:
+            - `✜ = CovOps: Collidables`
+    - Removed Entity:
+        - `FW Infrastructure Hub` from:
+            - `➲ Extra: Podsaver (!)`
+    - Removed Starbase:
+        - `EVERYTHING` from:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Incursion`
+            - `⌘ Brackets: Misc`
+            - `⌘ Brackets: Travel`
+            - `⌘ Brackets: Warpout (!)`
+            - `➲ Extra: Align Points`
+            - `✈ --- Travel: All`
+            - `✈ Travel (+Ship -Sta)`
+            - `✈ Travel (-Ship +Sta)`
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (+Neut -NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut -NPC)`
+            - `✜ = NPSI`
+            - `✜ = Structures`
+            - `✜ = Wartargets`
+            - `✜ PvX: Anoms`
+            - `✜ PvX: Exploring`
+            - `✜ PvX: FW`
+            - `✜ PvX: Incursion`
+            - `✜ PvX: Mining - All`
+            - `✜ PvX: Mining - Moon`
+            - `✜ PvX: Mission Filter (+LCO +LCS)`
+            - `✜ PvX: PI`
+            - `✜ PvX: Ratting`
+            - `✜ PvX: Salvage/Loot`
+            - `✪ --- Friendly: All`
+            - `※ --- D-Scan: All`
+            - `※ D-Scan: Hunter (+Dro) (Offensive)`
+            - `※ D-Scan: Hunter (-Dro) (Offensive)`
+
 ##### Version v8.24.1927 - Into The Abyss - _Fixes_
 
 1. Changed all Orange colours to Yellow to help with contrast.

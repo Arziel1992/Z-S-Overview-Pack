@@ -31,11 +31,11 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 
 ___
 
-#### Current Version: v8.24.1927
+#### Current Version: v9.00.0346
 
-- Updated: **2018.07.22**
-- For Release: **Into The Abyss**
-- Compatible: **Into The Abyss**
+- Updated: **2019.05.06**
+- For Release: **April 2019**
+- Compatible: **April 2019**
 
 #### Links
 
@@ -48,12 +48,12 @@ ___
     - **[Twitter](https://twitter.com/Arziel1992)**
     - **[Discord](http://discord.gg/NSfFKcx)**
 - **[Changelog](CHANGELOG.md)**
-- **[FAQ](FAQ.md)**
+- **[FAQ](docs/FAQ.md)**
 - Feedback:
     - **[Feeback form](http://goo.gl/forms/h4rTeZCHNorqEsyx2)**
     - **[Real-time feedback responses](https://goo.gl/etZH0J)**
-- **[Donors](DONORS.md)**
-- **[Milestones](MILESTONES.md)**
+- **[Donors](docs/DONORS.md)**
+- **[Milestones](docs/MILESTONES.md)**
 
 #### BEWARE of our resident Troll on Z-S chat channel <3 !!!
 
@@ -192,9 +192,6 @@ ___
 
         ※ D-Scan: Hunter (+Dro) (Offensive)
         ※ D-Scan: Hunter (-Dro) (Offensive)
-        ※ D-Scan: POS (+Cel +Mod)
-        ※ D-Scan: POS (+Cel -Mod)
-        ※ D-Scan: POS (-Cel +Mod)
         ※ D-Scan: Ships (Defensive)
 
 - Z-S Friendly Extended
@@ -202,6 +199,7 @@ ___
         ✪ Friendly: All Caps
         ✪ Friendly: Capitals
         ✪ Friendly: Carriers
+        ✪ Friendly: Command Dest
         ✪ Friendly: Dictors
         ✪ Friendly: Dreads
         ✪ Friendly: Flag
