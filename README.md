@@ -49,9 +49,6 @@ ___
     - **[Discord](http://discord.gg/NSfFKcx)**
 - **[Changelog](CHANGELOG.md)**
 - **[FAQ](docs/FAQ.md)**
-- Feedback:
-    - **[Feeback form](http://goo.gl/forms/h4rTeZCHNorqEsyx2)**
-    - **[Real-time feedback responses](https://goo.gl/etZH0J)**
 - **[Donors](docs/DONORS.md)**
 - **[Milestones](docs/MILESTONES.md)**
 
