@@ -532,6 +532,7 @@ presets:
         - 2009
         - 2016
         - 2017
+        - 2020
 - - '⌘ Brackets: Warpout (!)'
   - - - alwaysShownStates
       - []
@@ -747,6 +748,7 @@ presets:
         - 1915
         - 1956
         - 2017
+        - 2020
 - - '<color=0xFFFF6666>✜ --- PvX: Basic (+Neut +NPC)</color>'
   - - - alwaysShownStates
       - []
@@ -1164,6 +1166,7 @@ presets:
         - 2009
         - 2016
         - 2017
+        - 2020
 - - '<color=0xFFFF6666>✜ PvX: Salvage/Loot</color>'
   - - - alwaysShownStates
       - []
@@ -1592,6 +1595,7 @@ presets:
         - 1997
         - 2016
         - 2017
+        - 2020
 - - '<color=0xFFFFFF66>✥ Target: Drones</color>'
   - - - alwaysShownStates
       - []
@@ -1729,6 +1733,7 @@ presets:
         - 1972
         - 2016
         - 2017
+        - 2020
 shipLabelOrder:
 - ship type
 - alliance
@@ -1768,14 +1773,16 @@ shipLabels:
   - - - post
       - ']</fontsize><color=0xFFFFFFFF><b> -'
     - - pre
-      - '<fontsize=10> ['
+      - '
+
+        <fontsize=10> ['
     - - state
       - 1
     - - type
       - pilot name
 - - ship name
   - - - post
-      - </i>
+      - '</i>'
     - - pre
       - ' <i>'
     - - state

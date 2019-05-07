@@ -532,6 +532,7 @@ presets:
         - 2009
         - 2016
         - 2017
+        - 2020
 - - '⌘ Brackets: Warpout (!)'
   - - - alwaysShownStates
       - []
@@ -747,6 +748,7 @@ presets:
         - 1915
         - 1956
         - 2017
+        - 2020
 - - '<color=0xFFFF6666>✜ --- PvX: Basic (+Neut +NPC)</color>'
   - - - alwaysShownStates
       - []
@@ -1164,6 +1166,7 @@ presets:
         - 2009
         - 2016
         - 2017
+        - 2020
 - - '<color=0xFFFF6666>✜ PvX: Salvage/Loot</color>'
   - - - alwaysShownStates
       - []
@@ -1592,6 +1595,7 @@ presets:
         - 1997
         - 2016
         - 2017
+        - 2020
 - - '<color=0xFFFFFF66>✥ Target: Drones</color>'
   - - - alwaysShownStates
       - []
@@ -1729,6 +1733,7 @@ presets:
         - 1972
         - 2016
         - 2017
+        - 2020
 shipLabelOrder:
 - ship type
 - alliance
@@ -1768,16 +1773,14 @@ shipLabels:
   - - - post
       - ']</fontsize><color=0xFFFFFFFF><b> -'
     - - pre
-      - '
-
-        <fontsize=10> ['
+      - '<fontsize=10> ['
     - - state
       - 1
     - - type
       - pilot name
 - - ship name
   - - - post
-      - '</i>'
+      - </i>
     - - pre
       - ' <i>'
     - - state
@@ -1846,42 +1849,42 @@ tabSetup:
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - '<fontsize=13><color=0xFFFFFFFF><b>  ✈  </b></color></fontsize>'
+      - '<fontsize=13><color=0xFFFFFFFF><b> ✈ </b></color></fontsize>'
     - - overview
       - '<color=0xFFFFFFFF>✈ Travel (-Ship +Sta)</color>'
 - - 1
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - '<color=0xFFFF6666><b>  Combat  </b></color>'
+      - '<color=0xFFFF6666><b> Main </b></color>'
     - - overview
       - '<color=0xFFFF6666>✜ --- PvX: Basic (+Neut +NPC)</color>'
 - - 2
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - '<color=0xFFFFFF66><b>  Targets  </b></color>'
+      - '<color=0xFFFFFF66><b> 3 </b></color>'
     - - overview
       - '<color=0xFFFFFF66>✥ Target: Drones</color>'
 - - 3
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - '<color=0xFFD38FFD><b>  Misc  </b></color>'
+      - '<color=0xFFD38FFD><b> 4 </b></color>'
     - - overview
       - '<color=0xFFFF6666>✜ PvX: Salvage/Loot</color>'
 - - 4
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - '<color=0xFF66CCFF><b>  Friendly  </b></color>'
+      - '<color=0xFF66CCFF><b> 5 </b></color>'
     - - overview
       - '<color=0xFF66CCFF>✪ --- Friendly: All</color>'
 - - 5
   - - - bracket
       - '⌘ Brackets: Warpout (!)'
     - - name
-      - '<color=0xFF66FF66><b>  Warpout!  </b></color>'
+      - '<color=0xFF66FF66><b> Exit! </b></color>'
     - - overview
       - '<color=0xFF66FF66>➲ Extra: Podsaver (!)</color>'
 userSettings:

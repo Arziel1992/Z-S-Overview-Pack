@@ -31,7 +31,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 
 ___
 
-#### Current Version: v9.00.0346
+#### Current Version: v9.00.0347
 
 - Updated: **2019.05.06**
 - For Release: **April 2019**

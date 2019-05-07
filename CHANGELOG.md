@@ -20,6 +20,37 @@
 
 #### --- Standard Versions ---
 
+##### Version v9.00.0346 - April 2019 - _The William_Pierce fix!_
+1. Updated presets:
+    - Added Celestial:
+        - `Cynosural Fields` to:
+            - `⌘ Brackets: Co   mbat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `⌘ Brackets: Travel`
+            - `➲ Extra: Align Points`
+            - `✈ --- Travel: All`
+            - `✈ Travel (+Ship -Sta)`
+            - `✈ Travel (-Ship +Sta)`
+            - `✜ --- PvX: Basic (+Neut +NPC)`
+            - `✜ --- PvX: Basic (+Neut -NPC)`
+            - `✜ --- PvX: Basic (-Neut +NPC)`
+            - `✜ --- PvX: Basic (-Neut -NPC)`
+            - `✜ = CovOps: Collidables`
+            - `✜ = NPSI`
+            - `✜ = Structures`
+            - `✜ = Wartargets`
+            - `✜ PvX: Anoms`
+            - `✜ PvX: Exploring`
+            - `✜ PvX: FW`
+            - `✜ PvX: Mining - All`
+            - `✜ PvX: Mining - Moon`
+            - `✜ PvX: Mission Filter (+LCO +LCS)`
+            - `✜ PvX: PI`
+            - `✜ PvX: Ratting`
+            - `✜ PvX: Salvage/Loot`
+            - `✪ --- Friendly: All`
+
 ##### Version v9.00.0346 - April 2019 - _No more POS's!_
 1. Changed presets:
     - Removed:
