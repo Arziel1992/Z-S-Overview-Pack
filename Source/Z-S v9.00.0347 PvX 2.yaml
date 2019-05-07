@@ -527,6 +527,7 @@ presets:
         - 1991
         - 2016
         - 2017
+        - 2020
 - - '<color=0xFFFF6666>✜ PvX: Exploring</color>'
   - - - alwaysShownStates
       - []
@@ -826,6 +827,7 @@ presets:
         - 2009
         - 2016
         - 2017
+        - 2020
 - - '<color=0xFFFF6666>✜ PvX: FW</color>'
   - - - alwaysShownStates
       - []
@@ -1170,6 +1172,7 @@ presets:
         - 1972
         - 2016
         - 2017
+        - 2020
 - - '<color=0xFFFF6666>✜ PvX: Incursion</color>'
   - - - alwaysShownStates
       - []
@@ -1940,6 +1943,7 @@ presets:
         - 2006
         - 2016
         - 2017
+        - 2020
         - 2022
         - 2024
 - - '<color=0xFFFF6666>✜ PvX: Mining - Moon</color>'
@@ -2370,6 +2374,7 @@ presets:
         - 1972
         - 2016
         - 2017
+        - 2020
         - 2024
 - - '<color=0xFFFF6666>✜ PvX: Mission Filter (+LCO +LCS)</color>'
   - - - alwaysShownStates
@@ -2793,6 +2798,7 @@ presets:
         - 2009
         - 2016
         - 2017
+        - 2020
 - - '<color=0xFFFF6666>✜ PvX: PI</color>'
   - - - alwaysShownStates
       - []
@@ -3051,6 +3057,7 @@ presets:
         - 1972
         - 2016
         - 2017
+        - 2020
 - - '<color=0xFFFF6666>✜ PvX: Ratting</color>'
   - - - alwaysShownStates
       - []
@@ -3470,6 +3477,7 @@ presets:
         - 1997
         - 2016
         - 2017
+        - 2020
 shipLabelOrder:
 - ship type
 - alliance

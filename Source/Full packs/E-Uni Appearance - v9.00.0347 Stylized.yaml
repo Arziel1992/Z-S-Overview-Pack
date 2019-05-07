@@ -7,78 +7,63 @@ backgroundOrder:
 - 14
 - 15
 - 16
-- 45
-- 49
-- 19
-- 18
 - 9
 - 51
 - 50
 - 53
+- 19
+- 18
+- 45
+- 49
 - 10
-- 20
-- 21
 - 17
+- 21
+- 20
 - 48
 backgroundStates:
 - 9
-- 10
-- 11
-- 12
 - 13
-- 14
-- 15
-- 16
-- 17
-- 18
-- 19
-- 20
-- 21
 - 44
-- 45
-- 48
-- 49
 - 50
 - 51
 - 52
-- 53
 columnOrder:
 - ICON
 - TAG
 - DISTANCE
 - NAME
 - TYPE
+- RADIALVELOCITY
+- ANGULARVELOCITY
 - ALLIANCE
 - CORPORATION
 - FACTION
 - MILITIA
 - SIZE
 - VELOCITY
-- RADIALVELOCITY
 - TRANSVERSALVELOCITY
-- ANGULARVELOCITY
 flagOrder:
 - 13
 - 44
-- 52
 - 11
 - 12
 - 14
 - 15
 - 16
-- 45
 - 9
 - 51
 - 50
+- 52
 - 53
 - 19
 - 18
+- 45
 - 49
 - 10
 - 17
-- 48
 - 21
 - 20
+- 48
 flagStates:
 - 9
 - 10
@@ -91,11 +76,9 @@ flagStates:
 - 17
 - 18
 - 19
-- 20
 - 21
 - 44
 - 45
-- 48
 - 49
 - 50
 - 51
@@ -108,9 +91,8 @@ overviewColumns:
 - DISTANCE
 - ICON
 - NAME
-- TRANSVERSALVELOCITY
+- RADIALVELOCITY
 - TYPE
-- VELOCITY
 presets:
 - - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
   - - - alwaysShownStates
@@ -532,6 +514,7 @@ presets:
         - 2009
         - 2016
         - 2017
+        - 2020
 - - '⌘ Brackets: Combat/Targets/Friendly (-Dro)'
   - - - alwaysShownStates
       - []
@@ -942,6 +925,7 @@ presets:
         - 2009
         - 2016
         - 2017
+        - 2020
 - - '⌘ Brackets: Incursion'
   - - - alwaysShownStates
       - []
@@ -1703,6 +1687,7 @@ presets:
         - 1997
         - 2009
         - 2017
+        - 2020
 - - '⌘ Brackets: Travel'
   - - - alwaysShownStates
       - []
@@ -1941,6 +1926,7 @@ presets:
         - 1956
         - 1972
         - 2017
+        - 2020
 - - '⌘ Brackets: Warpout (!)'
   - - - alwaysShownStates
       - []
@@ -1961,7 +1947,7 @@ presets:
         - 1404
         - 1406
         - 1657
-- - '➲ Extra: Align Points'
+- - '<color=0xFF66FF66>➲ Extra: Align Points</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -1990,7 +1976,8 @@ presets:
         - 1406
         - 1657
         - 1915
-- - '➲ Extra: Podsaver (!)'
+        - 2020
+- - '<color=0xFF66FF66>➲ Extra: Podsaver (!)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -2004,7 +1991,7 @@ presets:
         - 988
         - 1081
         - 1082
-- - '✈ --- Travel: All'
+- - '<color=0xFFFFFFFF>✈ --- Travel: All</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -2228,7 +2215,8 @@ presets:
         - 1915
         - 1956
         - 2017
-- - '✈ Travel (+Ship -Sta)'
+        - 2020
+- - '<color=0xFFFFFFFF>✈ Travel (+Ship -Sta)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -2450,7 +2438,8 @@ presets:
         - 1956
         - 1972
         - 2017
-- - '✈ Travel (-Ship +Sta)'
+        - 2020
+- - '<color=0xFFFFFFFF>✈ Travel (-Ship +Sta)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -2631,7 +2620,8 @@ presets:
         - 1915
         - 1956
         - 2017
-- - '✜ --- PvX: Basic (+Neut +NPC)'
+        - 2020
+- - '<color=0xFFFF6666>✜ --- PvX: Basic (+Neut +NPC)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -3048,7 +3038,8 @@ presets:
         - 2009
         - 2016
         - 2017
-- - '✜ --- PvX: Basic (+Neut -NPC)'
+        - 2020
+- - '<color=0xFFFF6666>✜ --- PvX: Basic (+Neut -NPC)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -3150,7 +3141,8 @@ presets:
         - 2009
         - 2016
         - 2017
-- - '✜ --- PvX: Basic (-Neut +NPC)'
+        - 2020
+- - '<color=0xFFFF6666>✜ --- PvX: Basic (-Neut +NPC)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -3569,7 +3561,8 @@ presets:
         - 2009
         - 2016
         - 2017
-- - '✜ --- PvX: Basic (-Neut -NPC)'
+        - 2020
+- - '<color=0xFFFF6666>✜ --- PvX: Basic (-Neut -NPC)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -3673,7 +3666,8 @@ presets:
         - 2009
         - 2016
         - 2017
-- - '✜ -- Ships only'
+        - 2020
+- - '<color=0xFFFF6666>✜ -- Ships only</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -3736,7 +3730,7 @@ presets:
         - 1548
         - 1704
         - 1972
-- - '✜ = CovOps: Collidables'
+- - '<color=0xFFFF6666>✜ = CovOps: Collidables</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -4239,9 +4233,10 @@ presets:
         - 2015
         - 2016
         - 2017
+        - 2020
         - 2022
         - 2024
-- - '✜ = Deployables'
+- - '<color=0xFFFF6666>✜ = Deployables</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -4277,7 +4272,7 @@ presets:
         - 1297
         - 1312
         - 1548
-- - '✜ = NPSI'
+- - '<color=0xFFFF6666>✜ = NPSI</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -4514,7 +4509,8 @@ presets:
         - 1972
         - 2016
         - 2017
-- - '✜ = Structures'
+        - 2020
+- - '<color=0xFFFF6666>✜ = Structures</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -4712,7 +4708,8 @@ presets:
         - 1924
         - 2016
         - 2017
-- - '✜ = Wartargets'
+        - 2020
+- - '<color=0xFFFF6666>✜ = Wartargets</color>'
   - - - alwaysShownStates
       - - 13
         - 44
@@ -4962,7 +4959,8 @@ presets:
         - 1972
         - 2016
         - 2017
-- - '✜ PvX: Anoms'
+        - 2020
+- - '<color=0xFFFF6666>✜ PvX: Anoms</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -5377,7 +5375,8 @@ presets:
         - 1991
         - 2016
         - 2017
-- - '✜ PvX: Exploring'
+        - 2020
+- - '<color=0xFFFF6666>✜ PvX: Exploring</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -5676,7 +5675,8 @@ presets:
         - 2009
         - 2016
         - 2017
-- - '✜ PvX: FW'
+        - 2020
+- - '<color=0xFFFF6666>✜ PvX: FW</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6020,7 +6020,8 @@ presets:
         - 1972
         - 2016
         - 2017
-- - '✜ PvX: Incursion'
+        - 2020
+- - '<color=0xFFFF6666>✜ PvX: Incursion</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6343,7 +6344,7 @@ presets:
         - 1928
         - 1929
         - 1972
-- - '✜ PvX: Mining - All'
+- - '<color=0xFFFF6666>✜ PvX: Mining - All</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -6790,9 +6791,10 @@ presets:
         - 2006
         - 2016
         - 2017
+        - 2020
         - 2022
         - 2024
-- - '✜ PvX: Mining - Moon'
+- - '<color=0xFFFF6666>✜ PvX: Mining - Moon</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -7220,8 +7222,9 @@ presets:
         - 1972
         - 2016
         - 2017
+        - 2020
         - 2024
-- - '✜ PvX: Mission Filter (+LCO +LCS)'
+- - '<color=0xFFFF6666>✜ PvX: Mission Filter (+LCO +LCS)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -7643,7 +7646,8 @@ presets:
         - 2009
         - 2016
         - 2017
-- - '✜ PvX: PI'
+        - 2020
+- - '<color=0xFFFF6666>✜ PvX: PI</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -7901,7 +7905,8 @@ presets:
         - 1972
         - 2016
         - 2017
-- - '✜ PvX: Ratting'
+        - 2020
+- - '<color=0xFFFF6666>✜ PvX: Ratting</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -8320,7 +8325,8 @@ presets:
         - 1997
         - 2016
         - 2017
-- - '✜ PvX: Salvage/Loot'
+        - 2020
+- - '<color=0xFFFF6666>✜ PvX: Salvage/Loot</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -8748,7 +8754,8 @@ presets:
         - 1997
         - 2016
         - 2017
-- - '✥ Target: All Caps'
+        - 2020
+- - '<color=0xFFFFFF66>✥ Target: All Caps</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -8773,7 +8780,7 @@ presets:
         - 902
         - 941
         - 1538
-- - '✥ Target: Antibombers (!)'
+- - '<color=0xFFFFFF66>✥ Target: Antibombers (!)</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -8785,7 +8792,7 @@ presets:
         - 49
     - - groups
       - - 834
-- - '✥ Target: Battlecruisers'
+- - '<color=0xFFFFFF66>✥ Target: Battlecruisers</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -8802,7 +8809,7 @@ presets:
         - 863
         - 864
         - 1201
-- - '✥ Target: Battleships'
+- - '<color=0xFFFFFF66>✥ Target: Battleships</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -8820,7 +8827,7 @@ presets:
         - 864
         - 898
         - 900
-- - '✥ Target: Carriers'
+- - '<color=0xFFFFFF66>✥ Target: Carriers</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -8837,7 +8844,7 @@ presets:
         - 547
         - 863
         - 864
-- - '✥ Target: Cmd Dest'
+- - '<color=0xFFFFFF66>✥ Target: Cmd Dest</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -8854,7 +8861,7 @@ presets:
         - 863
         - 864
         - 1534
-- - '✥ Target: Cruisers'
+- - '<color=0xFFFFFF66>✥ Target: Cruisers</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -8877,7 +8884,7 @@ presets:
         - 894
         - 906
         - 963
-- - '✥ Target: CS/T3'
+- - '<color=0xFFFFFF66>✥ Target: CS/T3</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -8895,7 +8902,7 @@ presets:
         - 863
         - 864
         - 963
-- - '✥ Target: Dictors'
+- - '<color=0xFFFFFF66>✥ Target: Dictors</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -8913,7 +8920,7 @@ presets:
         - 863
         - 864
         - 894
-- - '✥ Target: Dreads'
+- - '<color=0xFFFFFF66>✥ Target: Dreads</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -8928,7 +8935,7 @@ presets:
         - 485
         - 863
         - 864
-- - '✥ Target: Drones'
+- - '<color=0xFFFFFF66>✥ Target: Drones</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -8956,7 +8963,7 @@ presets:
         - 1537
         - 1652
         - 1653
-- - '✥ Target: Fax'
+- - '<color=0xFFFFFF66>✥ Target: Fax</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -8973,7 +8980,7 @@ presets:
         - 863
         - 864
         - 1538
-- - '✥ Target: Fighters'
+- - '<color=0xFFFFFF66>✥ Target: Fighters</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -8994,7 +9001,7 @@ presets:
         - 1537
         - 1652
         - 1653
-- - '✥ Target: Flag'
+- - '<color=0xFFFFFF66>✥ Target: Flag</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -9011,7 +9018,7 @@ presets:
         - 863
         - 864
         - 1972
-- - '✥ Target: Frig/Dest'
+- - '<color=0xFFFFFF66>✥ Target: Frig/Dest</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -9042,7 +9049,7 @@ presets:
         - 1305
         - 1527
         - 1534
-- - '✥ Target: Logistics'
+- - '<color=0xFFFFFF66>✥ Target: Logistics</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -9061,7 +9068,7 @@ presets:
         - 864
         - 1527
         - 1538
-- - '✥ Target: Pods'
+- - '<color=0xFFFFFF66>✥ Target: Pods</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -9078,7 +9085,7 @@ presets:
         - 90
         - 863
         - 864
-- - '✥ Target: Recons'
+- - '<color=0xFFFFFF66>✥ Target: Recons</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -9094,7 +9101,7 @@ presets:
         - 863
         - 864
         - 906
-- - '✥ Target: SC/T'
+- - '<color=0xFFFFFF66>✥ Target: SC/T</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -9110,7 +9117,7 @@ presets:
         - 659
         - 863
         - 864
-- - '✥ Target: Supercarriers'
+- - '<color=0xFFFFFF66>✥ Target: Supercarriers</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -9125,7 +9132,7 @@ presets:
         - 659
         - 863
         - 864
-- - '✥ Target: Titans'
+- - '<color=0xFFFFFF66>✥ Target: Titans</color>'
   - - - filteredStates
       - - 11
         - 12
@@ -9140,7 +9147,7 @@ presets:
         - 90
         - 863
         - 864
-- - '✪ --- Friendly: All'
+- - '<color=0xFF66CCFF>✪ --- Friendly: All</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -9249,7 +9256,8 @@ presets:
         - 1972
         - 2016
         - 2017
-- - '✪ = Friendly: Fleet'
+        - 2020
+- - '<color=0xFF66CCFF>✪ = Friendly: Fleet</color>'
   - - - alwaysShownStates
       - - 11
     - - filteredStates
@@ -9340,7 +9348,7 @@ presets:
         - 1538
         - 1548
         - 1704
-- - '✪ Friendly: All Caps'
+- - '<color=0xFF66CCFF>✪ Friendly: All Caps</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -9385,7 +9393,7 @@ presets:
         - 941
         - 1538
         - 1548
-- - '✪ Friendly: Capitals'
+- - '<color=0xFF66CCFF>✪ Friendly: Capitals</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -9427,7 +9435,7 @@ presets:
         - 883
         - 1538
         - 1548
-- - '✪ Friendly: Carriers'
+- - '<color=0xFF66CCFF>✪ Friendly: Carriers</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -9465,7 +9473,7 @@ presets:
         - 864
         - 1538
         - 1548
-- - '✪ Friendly: Command Dest'
+- - '<color=0xFF66CCFF>✪ Friendly: Command Dest</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -9502,7 +9510,7 @@ presets:
         - 864
         - 1534
         - 1548
-- - '✪ Friendly: Dictors'
+- - '<color=0xFF66CCFF>✪ Friendly: Dictors</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -9540,7 +9548,7 @@ presets:
         - 864
         - 894
         - 1548
-- - '✪ Friendly: Dreads'
+- - '<color=0xFF66CCFF>✪ Friendly: Dreads</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -9577,7 +9585,7 @@ presets:
         - 863
         - 864
         - 1548
-- - '✪ Friendly: Flag'
+- - '<color=0xFF66CCFF>✪ Friendly: Flag</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -9614,7 +9622,7 @@ presets:
         - 864
         - 1548
         - 1972
-- - '✪ Friendly: Logistics'
+- - '<color=0xFF66CCFF>✪ Friendly: Logistics</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -9653,7 +9661,7 @@ presets:
         - 1527
         - 1538
         - 1548
-- - '✪ Friendly: Recons'
+- - '<color=0xFF66CCFF>✪ Friendly: Recons</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -9691,7 +9699,7 @@ presets:
         - 864
         - 906
         - 1548
-- - '✪ Friendly: SC/T'
+- - '<color=0xFF66CCFF>✪ Friendly: SC/T</color>'
   - - - alwaysShownStates
       - - 11
         - 12
@@ -9729,7 +9737,7 @@ presets:
         - 863
         - 864
         - 1548
-- - '※ --- D-Scan: All'
+- - '<color=0xFFFD96CF>※ --- D-Scan: All</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -9832,7 +9840,7 @@ presets:
         - 1972
         - 2016
         - 2017
-- - '※ D-Scan: Hunter (+Dro) (Offensive)'
+- - '<color=0xFFFD96CF>※ D-Scan: Hunter (+Dro) (Offensive)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -9913,7 +9921,7 @@ presets:
         - 1972
         - 2016
         - 2017
-- - '※ D-Scan: Hunter (-Dro) (Offensive)'
+- - '<color=0xFFFD96CF>※ D-Scan: Hunter (-Dro) (Offensive)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -9989,7 +9997,7 @@ presets:
         - 1972
         - 2016
         - 2017
-- - '※ D-Scan: Ships (Defensive)'
+- - '<color=0xFFFD96CF>※ D-Scan: Ships (Defensive)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -10059,79 +10067,85 @@ presets:
         - 2017
 shipLabelOrder:
 - ship type
-- alliance
+- pilot name
 - corporation
+- alliance
 - ship name
 - null
-- pilot name
 shipLabels:
 - - null
   - - - post
       - ''
     - - pre
-      - ']</b></fontsize>'
+      - '['
     - - state
-      - 1
+      - 0
     - - type
       - null
 - - alliance
   - - - post
-      - ']</color></fontsize>'
+      - '&gt;'
     - - pre
-      - <fontsize=12><color=0xFFFEFF6F> [
+      - '&lt;'
     - - state
       - 1
     - - type
       - alliance
 - - corporation
   - - - post
-      - ''
+      - ']'
     - - pre
-      - ' <fontsize=10><b>['
+      - '['
     - - state
       - 1
     - - type
       - corporation
 - - pilot name
   - - - post
-      - ']</fontsize><color=0xFFFFFFFF><b> -'
+      - ' '
     - - pre
-      - '
-
-        <fontsize=10> ['
+      - ''
     - - state
       - 1
     - - type
       - pilot name
 - - ship name
   - - - post
-      - </i>
+      - ''''
     - - pre
-      - ' <i>'
+      - ''''
     - - state
       - 0
     - - type
       - ship name
 - - ship type
   - - - post
-      - </u></b></color></fontsize>
+      - )
     - - pre
-      - <fontsize=12><color=0xFFFEBB64><b> <u>
+      - (
     - - state
       - 1
     - - type
       - ship type
 stateBlinks:
 - - background_13
-  - false
+  - true
 - - background_44
-  - false
+  - true
+- - background_50
+  - true
+- - background_51
+  - true
+- - background_52
+  - true
+- - background_9
+  - true
 - - flag_13
   - true
 - - flag_44
   - true
 - - flag_50
-  - false
+  - true
 - - flag_51
   - true
 - - flag_52
@@ -10140,78 +10154,84 @@ stateBlinks:
   - true
 stateColorsNameList:
 - - background_10
-  - white
+  - yellow
 - - background_12
-  - darkBlue
+  - green
 - - background_16
-  - darkBlue
+  - blue
 - - background_18
-  - red
+  - orange
 - - background_20
-  - white
+  - black
 - - background_21
-  - white
+  - blue
 - - background_44
   - red
 - - background_45
-  - blue
+  - indigo
 - - background_48
   - white
 - - background_49
-  - blue
+  - darkBlue
 - - background_50
-  - orange
+  - yellow
 - - background_51
-  - orange
+  - yellow
 - - background_52
   - orange
 - - background_9
-  - orange
+  - yellow
 - - flag_48
   - white
+- - flag_9
+  - orange
 tabSetup:
 - - 0
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - <fontsize=13><color=0xFFFFFFFF><b>  ✈  </b></color></fontsize>
+      - '<fontsize=13><color=0xFFFFFFFF><b>  ✈  </b></color></fontsize>'
     - - overview
-      - ✈ Travel (-Ship +Sta)
+      - '<color=0xFFFFFFFF>✈ Travel (-Ship +Sta)</color>'
 - - 1
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - <color=0xFFFF6666><b>  Combat  </b></color>
+      - '<color=0xFFFF6666><b>  Combat  </b></color>'
     - - overview
-      - '✜ --- PvX: Basic (+Neut +NPC)'
+      - '<color=0xFFFF6666>✜ --- PvX: Basic (+Neut +NPC)</color>'
 - - 2
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - <color=0xFFFFFF66><b>  Targets  </b></color>
+      - '<color=0xFFFFFF66><b>  Targets  </b></color>'
     - - overview
-      - '✥ Target: Drones'
+      - '<color=0xFFFFFF66>✥ Target: Drones</color>'
 - - 3
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - <color=0xFFD38FFD><b>  Misc  </b></color>
+      - '<color=0xFFD38FFD><b>  Misc  </b></color>'
     - - overview
-      - '✜ PvX: Salvage/Loot'
+      - '<color=0xFFFF6666>✜ PvX: Salvage/Loot</color>'
 - - 4
   - - - bracket
       - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
     - - name
-      - <color=0xFF66CCFF><b>  Friendly  </b></color>
+      - '<color=0xFF66CCFF><b>  Friendly  </b></color>'
     - - overview
-      - '✪ --- Friendly: All'
+      - '<color=0xFF66CCFF>✪ --- Friendly: All</color>'
 - - 5
   - - - bracket
       - '⌘ Brackets: Warpout (!)'
     - - name
-      - <color=0xFF66FF66><b>  Warpout!  </b></color>
+      - '<color=0xFF66FF66><b>  Warpout!  </b></color>'
     - - overview
-      - '➲ Extra: Podsaver (!)'
+      - '<color=0xFF66FF66>➲ Extra: Podsaver (!)</color>'
 userSettings:
+- - applyOnlyToShips
+  - false
+- - hideCorpTicker
+  - true
 - - overviewBroadcastsToTop
   - true
