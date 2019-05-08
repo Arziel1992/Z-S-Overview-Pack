@@ -1,4 +1,5 @@
-## Thank you very much!
+# Thank you very much
+
 Thank you all very much for the support, feedback and suggestions.  
 We deeply appreciate that you all think our work should be rewarded in some way.   
 We don't ask for anything in return, a simple "Thank you" keeps us motivated.    
@@ -88,6 +89,7 @@ Title says it all, twisted way of showing support <3
 1. **Chekman** - 25.000.000 ISK
 1. **Clank Guerilla** - 25.000.000 ISK
 1. **Logan5 TheSandman** - 25.000.000 ISK
+1. **Cyber Xaz** - 25.000.000 ISK
 1. **Alexia Serosa** - 20.000.000,1 ISK
 1. **remus wulf** - 20.000.000 ISK
 1. **onatural** - 20.000.000 ISK

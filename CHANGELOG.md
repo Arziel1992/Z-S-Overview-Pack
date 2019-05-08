@@ -1,26 +1,28 @@
-## Changelog
+# Changelog
 
-#### How to read versions
+## How to read versions
+
 - A.BB.XXYY - NAME
-	- A	= New game release - Sub-Classification Reset
-		- **Only if** new entity types and/or visual states are added and affect the pack significantly.
-        - **Or** sub-classifications reach the max count (99).
-		- Resets version sub-classifications to 0 (ex. v3.00.0000).
-	- BB = Pack and Layout deployment, and minor coding changes
-		- Addition, deletion, split, rename and adjustements.
-        - Amounts are added up to the previous version amounts to show the current total of modifications.
-        - Minor coding chages, backend.
-	- XX = Preset changes amount
-		- Addition, deletion, split, rename and adjustements.
-		- Amounts are added up to the previous version amounts to show the current total of modifications.
-	- YY = Preset updates amount
-		- Types by categories and states changes.
-		- Amounts are added up to the previous version amounts to show the current total of modifications.
-	- NAME = Shout out to the circumstance(s) and/or player(s) that provided the most feedback and/or impact during the version development.
+  - A = New game release - Sub-Classification Reset
+    - **Only if** new entity types and/or visual states are added and affect the pack significantly.
+      - **Or** sub-classifications reach the max count (99).
+    - Resets version sub-classifications to 0 (ex. v3.00.0000).
+  - BB = Pack and Layout deployment, and minor coding changes
+    - Addition, deletion, split, rename and adjustements.
+      - Amounts are added up to the previous version amounts to show the current total of modifications.
+      - Minor coding chages, backend.
+  - XX = Preset changes amount
+    - Addition, deletion, split, rename and adjustements.
+    - Amounts are added up to the previous version amounts to show the current total of modifications.
+  - YY = Preset updates amount
+    - Types by categories and states changes.
+    - Amounts are added up to the previous version amounts to show the current total of modifications.
+  - NAME = Shout out to the circumstance(s) and/or player(s) that provided the most feedback and/or impact during the version development.
 
-#### --- Standard Versions ---
+## Standard Versions
 
-##### Version v9.00.0346 - April 2019 - _The William_Pierce fix!_
+### Version v9.00.0347 - April 2019 - _The William_Pierce fix!_
+
 1. Updated presets:
     - Added Celestial:
         - `Cynosural Fields` to:
@@ -51,7 +53,8 @@
             - `✜ PvX: Salvage/Loot`
             - `✪ --- Friendly: All`
 
-##### Version v9.00.0346 - April 2019 - _No more POS's!_
+### Version v9.00.0346 - April 2019 - _No more POS's!_
+
 1. Changed presets:
     - Removed:
         - `※ D-Scan: POS (+Cel +Mod)`
@@ -236,12 +239,12 @@
             - `※ D-Scan: Hunter (+Dro) (Offensive)`
             - `※ D-Scan: Hunter (-Dro) (Offensive)`
 
-##### Version v8.24.1927 - Into The Abyss - _Fixes_
+### Version v8.24.1927 - Into The Abyss - _Fixes_
 
 1. Changed all Orange colours to Yellow to help with contrast.
     - Affects Tab (Targets) names and Preset names (Targets).
 2. Reordered Overview Columns:
-	- Removed `Tag` column, again.
+    - Removed `Tag` column, again.
 3. Changed presets:
     - Re-added `※ D-Scan: Hunter (+Dro) (Offensive)`
     - Renamed `※ D-Scan: Hunter (Offensive)` to `※ D-Scan: Hunter (-Dro) (Offensive)`
@@ -304,7 +307,7 @@
         - `Refinery` from:
             - `✜ PvX: Incursion`
 
-##### Version v8.22.1709 - Into The Abyss - _Overhaul Part 2_
+### Version v8.22.1709 - Into The Abyss - _Overhaul Part 2_
 
 Major overhaul of the Z-S Overview, encompassing a new distribution of presets.  
 
@@ -327,7 +330,7 @@ Further details below:
     - Added `✜ PvX: Exploring` to `Z-S PvX 2`
     - Added `✜ PvX: FW` to `Z-S PvX 2`
     - Added `✜ PvX: PI` to `Z-S PvX 2`
-    - Added `✜ PvX: Mining Moon` to `Z-S PvX 2`    
+    - Added `✜ PvX: Mining Moon` to `Z-S PvX 2`
     - Removed `✜ PvX: Exploring` from `Z-S PvX 1`
     - Removed `✜ PvX: FW` from `Z-S PvX 1`
     - Removed `✜ PvX: PI` from `Z-S PvX 1`
@@ -336,12 +339,12 @@ Further details below:
     - Removed `✜ PvE: Anoms (+Dro)` from `Z-S PvX 2`
     - Removed `※ D-Scan: Hunter (+Dro / Offensive)` from `Z-S D-Scan Extended`
     - Removed `※ D-Scan: Ships (+Dro / Defensive)` from `Z-S D-Scan Extended`
-    - Removed `✪ --- Friendly: All (+Dro)` from `Z-S Friendly Extended`    
+    - Removed `✪ --- Friendly: All (+Dro)` from `Z-S Friendly Extended`
 3. Updated Appearance:
     - `Pilot has No Standing.` colortag set to `Grey`
     - `Pilot has No Standing.` background set to `Grey`
 4. Reordered Overview Columns:
-	- Removed `Tag` column.
+    - Removed `Tag` column.
 5. Changed presets:
     - New `✥ --- PvX: Basic (+Neut +NPC)` merging `✥ --- PvX: Basic (+Neut +NPC)` and `✜ --- PvE: Basic (-Dro)`
     - New `✥ --- PvX: Basic (-Neut +NPC)` merging `✥ --- PvX: Basic (-Neut +NPC)` and `✜ --- PvE: Basic (-Dro)`
@@ -359,7 +362,7 @@ Further details below:
     - Renamed `✥ Target: Caps` to `✥ Target: All Caps`
     - Renamed `✪ --- Friendly: All (-Dro)` to `✪ --- Friendly: All`
     - Renamed `※ D-Scan: Hunter (-Dro / Offensive)` to `※ D-Scan: Hunter (Offensive)`
-    - Renamed ` ※ D-Scan: Ships (-Dro / Defensive)` to ` ※ D-Scan: Ships (Defensive)`
+    - Renamed `※ D-Scan: Ships (-Dro / Defensive)` to `※ D-Scan: Ships (Defensive)`
 6. Updated presets:
     - Added Celestial:
         - `Abyssal Trace` to:
@@ -461,7 +464,8 @@ Further details below:
         - `Moon Mining` from:
             - `※ D-Scan: POS (+Cel -Mod)`
 
-##### Version v7.00.0235 - Lifeblood - _Overhaul Part 1_
+### Version v7.00.0235 - Lifeblood - _Overhaul Part 1_
+
 1. Changed presets:
     - Split `✜ PvE: Anoms` into:
         - `✜ PvE: Anoms (+Dro)`
@@ -771,7 +775,8 @@ Further details below:
         - `♦ Engineering Complex` from:
             - `✜ PvE: Mining`
 
-##### Version v6.16.0008 - 119.5 - _Bigger things to come!_
+### Version v6.16.0008 - 119.5 - _Bigger things to come!_
+
 1. Added two new Full profiles for EVE University's colour preferences:
     - `E-Uni Appearance - Stylized`
     - `E-Uni Appearance - Unstylized`
@@ -864,7 +869,8 @@ Further details below:
             - `✥ = CovOps: Collidables`
             - `✥ PvP: FW`
 
-##### Version v5.11.0424 - 118.10 - _Welcome 119!_
+### Version v5.11.0424 - 118.10 - _Welcome 119!_
+
 1. Updated Layouts:
     - Moved `⌘ Brackets: Combat/Targets/Friendly (+Dro)` from `Z-S Core` to all 4 Layouts.
     - Moved `⌘ Brackets: Combat/Targets/Friendly (-Dro)` from `Z-S Core` to all 4 Layouts.
@@ -918,7 +924,8 @@ Further details below:
             - `※ D-Scan: Hunter (+Dro / Offensive)`
             - `※ D-Scan: Hunter (-Dro / Offensive)`
 
-##### Version v5.01.0313 - Ascension - _Kr0nK Resync_
+### Version v5.01.0313 - Ascension - _Kr0nK Resync_
+
 1. Updated ship brackets styles to allow the activation of `Ship Name`, mimicking the naming convention of Star Trek, i.e **USS _Enterprise_**
     - `Corp Ticker + Ship Name`
 2. Moved preset:
@@ -937,11 +944,13 @@ Further details below:
             - `※ D-Scan: Ships (+Dro / Defensive)`
             - `※ D-Scan: Ships (-Dro / Defensive)`
 
-##### Version v5.00.0110-B (not released, pushed to the next version)
+### Version v5.00.0110-B (not released, pushed to the next version)
+
 1. Reapplied all Updated presets of v5.00.0110:
     - Some entity changes failed to carry over in random presets on some packs.
 
-##### Version v5.00.0110 - Ascension
+### Version v5.00.0110 - Ascension
+
 1. Changed presets:
     - Renamed `✪ Friendly: Logistic` to `✪ Friendly: Logistics`
 2. Updated presets:
@@ -1106,7 +1115,8 @@ Further details below:
             - `※ D-Scan: Ships (+Dro / Defensive)`
             - `※ D-Scan: Ships (-Dro / Defensive)`
 
-##### Version v4.05.3021 - 118.9 - _Large Hadron Collider_
+### Version v4.05.3021 - 118.9 - _Large Hadron Collider_
+
 1. Removed `<fontsize=11>` tags due they are the default game fontsize and do not need to be declared.
 2. Changed presets:
     - Added `✥ = CovOps: Collidables`
@@ -1118,7 +1128,8 @@ Further details below:
             - `✜ PvE: Anoms`
             - `✜ PvE: Ratting`
 
-##### Version v4.04.2820 - 118.9 - _Critical fixes & additions_
+### Version v4.04.2820 - 118.9 - _Critical fixes & additions_
+
 1. Changed tab colors:
     - `Targets` tab color to orange (#FD9666)
     - `Misc` tab color to purple (#D38FFD)
@@ -1174,10 +1185,11 @@ Further details below:
             - `※ D-Scan: Ships (+Dro / Defensive)  Defense`
             - `※ D-Scan: Ships (-Dro / Defensive)  Defense`
 
-##### Version v4.02.1214 - 118.9 - _Feedback follow-up & 118.9 tweaks_
+### Version v4.02.1214 - 118.9 - _Feedback follow-up & 118.9 tweaks_
+
 1. The `Drones` tab is now called `Targets`.
     - Changed its color to a brighter purple (#D38FFD), it can be read more easily.
-2. All `✥ Target` presets now have a new purple (#D38FFD) color to identify them more easily and be consistent with the Tab renaming and recoloring in point 1. 
+2. All `✥ Target` presets now have a new purple (#D38FFD) color to identify them more easily and be consistent with the Tab renaming and recoloring in point 1.
 3. Changed presets:
     - Renamed `✥ --- PvP: FW` to `✥ PvP: FW`
     - Added `✥ PvP: Exploring`
@@ -1207,7 +1219,8 @@ Further details below:
         - All from:
             - `✜ PvE: Mining`
 
-##### Version v4.01.0805 - 118.8 - _Feedback follow-up_
+### Version v4.01.0805 - 118.8 - _Feedback follow-up_
+
 1. Added new pack `Z-S D-Scan Extended`
 2. Changed presets:
     - All styled presets now have the default font size.
@@ -1230,7 +1243,8 @@ Further details below:
         - `Moon` from:
             - `✈ --- Travel: All`
 
-##### Version v4.00.0002 - 118.8 - _New release_
+### Version v4.00.0002 - 118.8 - _New release_
+
 1. Updated presets:
     - Added Entity:
         - New event entities to:
@@ -1241,14 +1255,16 @@ Further details below:
             - `⌘ Brackets: Hostile`
             - `⌘ Brackets: Skirmirsh`
 
-##### Version v3.10.1434 - 118.7 - _Smoothing_
+### Version v3.10.1434 - 118.7 - _Smoothing_
+
 1. Changed Appearance:
     - Colortag:
         - Reverted to old settings.
     - Background:
         - Reverted to old settings.
 
-##### Version v3.08.1434 - 118.7 - _Carson Moore's discoveries_
+### Version v3.08.1434 - 118.7 - _Carson Moore's discoveries_
+
 1. Changed Appearance:
     - Colortag:
         - Colors match E-UNI's specifications.
@@ -1297,7 +1313,8 @@ Further details below:
             - `Pilot is in your fleet` on `✜ PvE: Anoms`
             - `Pilot is in your fleet` on `✜ PvE: Ratting`
 
-##### Version v3.06.1425 - 118.7 - _Cixin Airuta's illumination_
+### Version v3.06.1425 - 118.7 - _Cixin Airuta's illumination_
+
 1. Changed presets:
     - Renamed `✥ --- PvP: Basic (+NPC +Neut)` to `✥ --- PvP: Basic (+Neut +NPC)`
     - Renamed `✥ --- PvP: Basic (+NPC -Neut)` to `✥ --- PvP: Basic (-Neut +NPC)`
@@ -1317,7 +1334,8 @@ Further details below:
             - `※ D-Scan: Ships (-Cel +Dro)`
             - `※ D-Scan: Ships (-Cel -Dro)`
 
-##### Version v3.06.0523 - 118.7 - _Strawpoll results tweaks_
+### Version v3.06.0523 - 118.7 - _Strawpoll results tweaks_
+
 1. Added a new `Z-S Full Unstylized Presets.yaml` import file.
     - It'll allow the player to save any changes to the presets without breaking the preset name entirely.
         - Will not show styling tags anymore (```<color>``` & ```<fontsize>```).
@@ -1338,7 +1356,8 @@ Further details below:
             - `✥ --- PvP: Basic (-NPC +Neut)`
             - `✥ --- PvP: Basic (-NPC -Neut)`
 
-##### Version v3.05.0522 - 118.7 - _Bug fixing, Tweaking & Cleaning_
+### Version v3.05.0522 - 118.7 - _Bug fixing, Tweaking & Cleaning_
+
 1. Implemented standard nomenclatures.
 2. Renamed `Ship Bracket Row` (SBR) to `Ship Bracket Line` (SBL)
     - Updated Layout names accordingly.
@@ -1455,183 +1474,193 @@ Further details below:
             - `※ D-Scan: POS (+Mod +Cel)`
             - `※ D-Scan: POS (-Mod +Cel)`
 
-##### Version v2.66.2012 - 118.6 - _Skrimokst & Parthannun's adjustements_
+### Version v2.66.2012 - 118.6 - _Skrimokst & Parthannun's adjustements_
+
 1. Created two new Layouts that allow players to have single-line Player Ship Brackets instead of double-line:
-	- `1 SB Row` = `1 Ship Bracket Row`
-	- `2 SB Row` = `2 Ship Bracket Rows`
+    - `1 SB Row` = `1 Ship Bracket Row`
+    - `2 SB Row` = `2 Ship Bracket Rows`
 2. Changed Layouts:
-	- Renamed `Z-S 6-Tab Compact Layout` to `Z-S 6-Tab Compact 2 SB Rows`
-	- Renamed `Z-S 6-Tab Standard Layout` to `Z-S 6-Tab Standard 2 SB Rows`
-    - Added `Z-S 6-Tab Compact 1 SB Row`
-	- Added `Z-S 6-Tab Standard 1 SB Row`
-	- Removed `Z-S 8-Tab Compact Layout`
-	- Removed `Z-S 8-Tab Standard Layout`
+    - Renamed `Z-S 6-Tab Compact Layout` to `Z-S 6-Tab Compact 2 SB Rows`
+    - Renamed `Z-S 6-Tab Standard Layout` to `Z-S 6-Tab Standard 2 SB Rows`
+      - Added `Z-S 6-Tab Compact 1 SB Row`
+    - Added `Z-S 6-Tab Standard 1 SB Row`
+    - Removed `Z-S 8-Tab Compact Layout`
+    - Removed `Z-S 8-Tab Standard Layout`
 3. Changed presets:
-	- Renamed `✥ --- PvP: Basic (NPC)` to `✥ --- PvP: Basic (+NPC +Neut)`
-	- Renamed `✥ --- PvP: Basic (No NPC)` to `✥ --- PvP: Basic (-NPC +Neut)`
-	- Renamed `※ D-Scan: POS + Mods (Cel)` to `※ D-Scan: POS (+Mods +Celes)`
-	- Renamed `※ D-Scan: POS + Mods (No Cel)` to `※ D-Scan: POS (+Mods -Celes)`
-	- Renamed `※ D-Scan: POS (Cel)` to `※ D-Scan: POS (-Mods +Celes)`
-	- Renamed `※ D-Scan: Ships (No Cel)` to `※ D-Scan: Sips (-Celes)`
-	- Split `✜ PvE: Anoms/Ratting` into:
-		- `✜ PvE: Anoms`
-		- `✜ PvE: Ratting`
-    - Added `✥ --- PvP: Basic (+NPC -Neut)`
-	- Added `✥ --- PvP: Basic (-NPC -Neut)`
+    - Renamed `✥ --- PvP: Basic (NPC)` to `✥ --- PvP: Basic (+NPC +Neut)`
+    - Renamed `✥ --- PvP: Basic (No NPC)` to `✥ --- PvP: Basic (-NPC +Neut)`
+    - Renamed `※ D-Scan: POS + Mods (Cel)` to `※ D-Scan: POS (+Mods +Celes)`
+    - Renamed `※ D-Scan: POS + Mods (No Cel)` to `※ D-Scan: POS (+Mods -Celes)`
+    - Renamed `※ D-Scan: POS (Cel)` to `※ D-Scan: POS (-Mods +Celes)`
+    - Renamed `※ D-Scan: Ships (No Cel)` to `※ D-Scan: Sips (-Celes)`
+    - Split `✜ PvE: Anoms/Ratting` into:
+      - `✜ PvE: Anoms`
+      - `✜ PvE: Ratting`
+      - Added `✥ --- PvP: Basic (+NPC -Neut)`
+    - Added `✥ --- PvP: Basic (-NPC -Neut)`
 4. Updated presets:
-	- Added Celestial:
-		- `Force Field` to:
-            - `※ D-Scan: Sips (-Celes)`
-	- Added Starbase:
-		- `Control Tower` to:
-            - `※ D-Scan: Sips (-Celes)`
-	- Added Deployable:
-		- `Mobile Depot` to:
-            - `✪ --- Friendly: All`
-	- Removed Celestial:
-		- `Asteroid Belt` from:
-            - `✜ PvE: Anoms`
-		- `Stargate` from:
-            - `✜ PvE: Incursion`
-	- Removed Deployable:
-		- `Mobile Warp Disruptor` from:
-            - `✜ PvE: Anoms`
-            - `✜ PvE: Ratting`
-		- `Mobile Cyno Inhibitor` from:
-            - `✜ PvE: Anoms`
-            - `✜ PvE: Ratting`
-		- `Encounter Surveillance System` from:
-            - `✜ PvE: Anoms`
-            - `✜ PvE: Ratting`
-		- `Mobile Scan Inhibitor` from:
-            - `✜ PvE: Anoms`
-            - `✜ PvE: Ratting`
-		- `Mobile Micro Jump Unit` from:
-            - `✜ PvE: Anoms`
-            - `✜ PvE: Ratting`
-	- Updated State:
-        - Filter out:
-            - `Pilot has neutral standing` on `✜ PvE: Incursion`
-            - `Pilot has no standing` on `✜ PvE: Incursion`
+    - Added Celestial:
+      - `Force Field` to:
+        - `※ D-Scan: Sips (-Celes)`
+    - Added Starbase:
+      - `Control Tower` to:
+        - `※ D-Scan: Sips (-Celes)`
+    - Added Deployable:
+      - `Mobile Depot` to:
+        - `✪ --- Friendly: All`
+    - Removed Celestial:
+      - `Asteroid Belt` from:
+        - `✜ PvE: Anoms`
+      - `Stargate` from:
+        - `✜ PvE: Incursion`
+    - Removed Deployable:
+      - `Mobile Warp Disruptor` from:
+        - `✜ PvE: Anoms`
+        - `✜ PvE: Ratting`
+      - `Mobile Cyno Inhibitor` from:
+        - `✜ PvE: Anoms`
+        - `✜ PvE: Ratting`
+      - `Encounter Surveillance System` from:
+        - `✜ PvE: Anoms`
+        - `✜ PvE: Ratting`
+      - `Mobile Scan Inhibitor` from:
+        - `✜ PvE: Anoms`
+        - `✜ PvE: Ratting`
+      - `Mobile Micro Jump Unit` from:
+        - `✜ PvE: Anoms`
+        - `✜ PvE: Ratting`
+    - Updated State:
+      - Filter out:
+        - `Pilot has neutral standing` on `✜ PvE: Incursion`
+        - `Pilot has no standing` on `✜ PvE: Incursion`
 
-#### --- Non-Standard Versions ---
+## Non-Standard Versions
 
-##### Version v2.6.10 - 118.6 - _Kr0nK's tweaks_
+### Version v2.6.10 - 118.6 - _Kr0nK's tweaks_
+
 1. Updated Ship Brackets:
-	- Removed `ShipName` variable.
+    - Removed `ShipName` variable.
 2. Reordered Overview Columns:
-	- Added `Tag` column:
-		- Easiness of sorting and viewing of target broadcasts during fleet fights.
+    - Added `Tag` column:
+      - Easiness of sorting and viewing of target broadcasts during fleet fights.
 3. Renamed packs:
-	- `Z-S PvE Basic` to `Z-S PvE Basic Extended`
-		- Corrected `Loaded` text to match the pack name.
-	- `Z-S PvE Friendly` to `Z-S PvE Friendly Extended`
-		- Corrected `Loaded` text to match the pack name.
+    - `Z-S PvE Basic` to `Z-S PvE Basic Extended`
+      - Corrected `Loaded` text to match the pack name.
+    - `Z-S PvE Friendly` to `Z-S PvE Friendly Extended`
+      - Corrected `Loaded` text to match the pack name.
 4. Changed presets:
-	- Added `✥ --- PvP: Basic (No NPC)`
+    - Added `✥ --- PvP: Basic (No NPC)`
 5. Updated presets:
-	- Added missing `Overseer NPC's` to:
-		- `✥ --- PvP: Basic`
-		- `✥ --- PvP: FW`
-	- Removed `Starbase: Control Tower` from:
-        - `✥ --- PvP: Basic`
-	- Renamed `✥ --- PvP: Basic` to `✥ --- PvP: Basic (NPC)`
+    - Added missing `Overseer NPC's` to:
+      - `✥ --- PvP: Basic`
+      - `✥ --- PvP: FW`
+    - Removed `Starbase: Control Tower` from:
+      - `✥ --- PvP: Basic`
+    - Renamed `✥ --- PvP: Basic` to `✥ --- PvP: Basic (NPC)`
 
-##### Version v2.6.00 - 118.6 - _Kithanu, Teroh & Sansh's improved Ship Brackets_
+### Version v2.6.00 - 118.6 - _Kithanu, Teroh & Sansh's improved Ship Brackets_
+
 1. Revamped Ship Brackets:
-	- Condensed the information from 4 to 2 rows for legibility in ship clusters.
-	- Recolored the variables for better identification.
-	- Resized the variables, distinguishing from most important to insignificant (tactically speaking).
-	- Removed `ShipName` variable (partially).
+    - Condensed the information from 4 to 2 rows for legibility in ship clusters.
+    - Recolored the variables for better identification.
+    - Resized the variables, distinguishing from most important to insignificant (tactically speaking).
+    - Removed `ShipName` variable (partially).
 2. Renamed Tabs:
-	- `Loot` to `Misc` (yellow).
-	- `Misc` to `Friendly` (blue).
+    - `Loot` to `Misc` (yellow).
+    - `Misc` to `Friendly` (blue).
 3. Reorganized column order: Alliance > Corporation
 4. Changed presets:
-	- Added `※ D-Scan: Pos + Mods (No Cel)`
+    - Added `※ D-Scan: Pos + Mods (No Cel)`
 5. Updated presets:
-	- Added missing NPC's to ALL PvE presets:
-		- Overseer NPC's
-		- Event NPC's
-	- Renamed `※ D-Scan` presets for better understanding: (Cel stands for Celestial)
-		- `※ D-Scan: Pos` to `※ D-Scan: Pos (Cel)`
-		- `※ D-Scan: Pos All` to `※ D-Scan: Pos + Mods (Cel)`
-		- `※ D-Scan: Ships` to `※ D-Scan: Ships (No Cel)`
-	- Updated `✜ PvE: Incursion`:
-		- Added the most widely used and useful entities. 
+    - Added missing NPC's to ALL PvE presets:
+      - Overseer NPC's
+      - Event NPC's
+    - Renamed `※ D-Scan` presets for better understanding: (Cel stands for Celestial)
+      - `※ D-Scan: Pos` to `※ D-Scan: Pos (Cel)`
+      - `※ D-Scan: Pos All` to `※ D-Scan: Pos + Mods (Cel)`
+      - `※ D-Scan: Ships` to `※ D-Scan: Ships (No Cel)`
+    - Updated `✜ PvE: Incursion`:
+      - Added the most widely used and useful entities.
 
-##### Version v2.5.00 - 118.6 - _Logain's Modular Overhaul_
+### Version v2.5.00 - 118.6 - _Logain's Modular Overhaul_
+
 1. Categorized preset links:
-	- Replaces the split part system for a more convenient category system, where the player loads the category he/she wants/needs, then applies the final Tab Layout.
-	- Made to reduce cluttering of unwanted/unneeded presets.
+    - Replaces the split part system for a more convenient category system, where the player loads the category he/she wants/needs, then applies the final Tab Layout.
+    - Made to reduce cluttering of unwanted/unneeded presets.
 2. Included changes from:
-	- Version v2.3.00
-	- Version v2.4.00
+    - Version v2.3.00
+    - Version v2.4.00
 
-##### Version v2.4.00 (not released, pushed to the next version)
+### Version v2.4.00 (not released, pushed to the next version)
+
 1. Renamed `Brackets` presets for consistency.
 2. Renamed `Hostile` presets to `Target` for consistency.
 3. Changed presets:
     - Ranamed `✥ --- PvP: Normal` to `✥ --- PvP: Basic`
 4. Updated presets:
-	- Updated `➲ Extra: Align Points`:
-		- Added Structure: Citadel.
-	- Updated `✜ --- PvE: Basic`:
-		- Added Entity: Missing event NPC's.
-	- Updated `✜ PvE: Salvage/Loot`:
-		- Added Celestial: Biomass, Secure Cargo Container, Audit Log Secure Container, Freight Container.
-		- Added Deployable: Mobile Depot, Mobile Siphon Unit.
-		- Added Entity: Mission Container, Event Container.
+    - Updated `➲ Extra: Align Points`:
+      - Added Structure: Citadel.
+    - Updated `✜ --- PvE: Basic`:
+      - Added Entity: Missing event NPC's.
+    - Updated `✜ PvE: Salvage/Loot`:
+      - Added Celestial: Biomass, Secure Cargo Container, Audit Log Secure Container, Freight Container.
+      - Added Deployable: Mobile Depot, Mobile Siphon Unit.
+      - Added Entity: Mission Container, Event Container.
 
-##### Version v2.3.00 (not released, pushed to the next version)
+### Version v2.3.00 (not released, pushed to the next version)
+
 1. Changed presets:
-	- Added `⌘ --- Brackets: All`:
-		- More permanent solution to `Show All Brackets`
-		- Works as a Collidable locator.
-	- Added `✥ --- PvP: FW`:
-		- Derivative of `✥ --- PvP: Normal`
-		- Added Entity: All FW related entities.
-	- Added `※ --- D-Scan: All`:
-		- Combination of `※ D-Scan: Ships` and `※ D-Scan: Pos All`
+    - Added `⌘ --- Brackets: All`:
+      - More permanent solution to `Show All Brackets`
+      - Works as a Collidable locator.
+    - Added `✥ --- PvP: FW`:
+      - Derivative of `✥ --- PvP: Normal`
+      - Added Entity: All FW related entities.
+    - Added `※ --- D-Scan: All`:
+      - Combination of `※ D-Scan: Ships` and `※ D-Scan: Pos All`
 
-##### Version v2.2.00 - 118.6 - _Deuce's design improvements_
+### Version v2.2.00 - 118.6 - _Deuce's design improvements_
+
 1. Renamed `Finishes` to `Tab Layouts`
 2. Adjusted the sizes of both 6 & 8 Compact Layouts to fit better on smaller screens.
 3. Increased the Icon size on the presets for better legibility.
 4. Replaced the Hostile Icon for a more adequate one to fit the new sizes.
 
-##### Version v2.1.00 - 118.6 - _Zirio's experiments_
+### Version v2.1.00 - 118.6 - _Zirio's experiments_
+
 1. Adjusted information rows on Player Ship brackets.
 2. Updated presets:
-	- Added Fighters to `Friendly: All`
-	- Added Warpgates to `PvE: Incursions`
-	- Added Custom Offices to `Structures`
-	- Corrected typo on `PvP: Normal`
+    - Added Fighters to `Friendly: All`
+    - Added Warpgates to `PvE: Incursions`
+    - Added Custom Offices to `Structures`
+    - Corrected typo on `PvP: Normal`
 
-##### Version v2.0.00 - 118.6 - _Zirio's renovation_
+### Version v2.0.00 - 118.6 - _Zirio's renovation_
+
 1. Rewrote the entirety of the code for consistency, readability, compactness and scalability.
 2. Adjusted split imports:
-	- Adjusted into 4 base parts.
-	- Added 4 finish parts.
+    - Adjusted into 4 base parts.
+    - Added 4 finish parts.
 3. Added finishes:
-	- Added `6 Compact Tabs`
-	- Added `6 Normal Tabs`
-	- Added `8 Compact Tabs`
-	- Added `8 Normal Tabs`
+    - Added `6 Compact Tabs`
+    - Added `6 Normal Tabs`
+    - Added `8 Compact Tabs`
+    - Added `8 Normal Tabs`
 4. Added presets:
-	- Added `PvE: Incursion`
+    - Added `PvE: Incursion`
 5. Updated presets:
-	- Added Citadels to `Friendly: All`
+    - Added Citadels to `Friendly: All`
 
-##### Version v1.0.00 - 118.6 - _Zirio's tweaks_
+### Version v1.0.00 - 118.6 - _Zirio's tweaks_
+
 1. Manual fork from SaraShawa-Overview Pack v9.1
-	- (Export pack from the game to the overview folder, then edit the .YAML file)
+    - (Export pack from the game to the overview folder, then edit the .YAML file)
 2. Simplified tabs:
-	- Added tab colouring.
+    - Added tab colouring.
 3. Simplified presets:
-	- Added preset colouring.
-	- Added preset ideography.
+    - Added preset colouring.
+    - Added preset ideography.
 4. Created split imports:
-	- Added 6 base parts.
-	- Added 1 finish.
-	- Added 1 optional finish.
+    - Added 6 base parts.
+    - Added 1 finish.
+    - Added 1 optional finish.
