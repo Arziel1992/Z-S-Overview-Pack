@@ -1,14 +1,14 @@
 # Thank you very much
 
 Thank you all very much for the support, feedback and suggestions.  
-We deeply appreciate that you all think our work should be rewarded in some way.   
-We don't ask for anything in return, a simple "Thank you" keeps us motivated.    
-  
-It's not just Deuce and me (Zirio) developing the pack, it's all of us working together to reach the goal of having the best Overview Pack for the game!  
-  
-- A shout out to everyone using the pack and stopping by the channel to say Hi and voice their opinions!
-- Another shout out to CCP devs on Slack for taking the time to chat and work with me in some simple yet needed changes to improve the Overview System!
-- And a special shout out to the players that thought we should be rewarded, thank you all very much!
+We deeply appreciate that you all think our work should be rewarded in some way.  
+We don't ask for anything in return, a simple "Thank you" keeps us motivated.
+
+It's not just Deuce and me (Zirio) developing the pack, it's all of us working together to reach the goal of having the best Overview Pack for the game!
+
+-   A shout out to everyone using the pack and stopping by the channel to say Hi and voice their opinions!
+-   Another shout out to CCP devs on Slack for taking the time to chat and work with me in some simple yet needed changes to improve the Overview System!
+-   And a special shout out to the players that thought we should be rewarded, thank you all very much!
 
 ## Spiritual donors
 
@@ -20,7 +20,7 @@ Your donation will be listed as spiritual and sent back with "a little extra" <3
 
 ## Special donors
 
-Some donors are just special, either for the lol's, good times and/or donations we will always cherish the most!  
+Some donors are just special, either for the lol's, good times and/or donations we will always cherish the most!
 
 We love you <3
 
@@ -47,6 +47,7 @@ Title says it all, twisted way of showing support <3
 1. **SniggWaffe** - 600.000.000 ISK [Corp]
 1. **Alberdina** - 500.000.000 ISK
 1. **Astroco** - 500.000.000 ISK [Corp]
+1. **Rekium** - 500.000.000 ISK [Corp]
 1. **Sindarin Alliance** - 250.000.000 ISK
 1. **Ser Ganglion** - 200.000.000 ISK
 1. **aredd05** - 153.000.000 ISK
